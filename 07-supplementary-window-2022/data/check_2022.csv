@@ -1,0 +1,130 @@
+start,universe,slug,name,category,gecko_id,deadFrom,mc_start,fee_days,fees90,fee_ok,y_vs_eth,price_end_missing,kind
+2022-04-01,A_current,uniswap,Uniswap,Dexs,uniswap,,5127739532.931728,90,314370543.0,True,-0.0307874161965038,False,enters
+2022-10-01,A_current,uniswap,Uniswap,Dexs,uniswap,,4799652346.680209,90,146200705.0,True,-0.5896205922317106,False,enters
+2022-04-01,A_current,lido,Lido,Liquid Staking,lido-dao,,630393464.7793375,90,72471359.0,True,0.1288633419364691,False,enters
+2022-10-01,A_current,lido,Lido,Liquid Staking,lido-dao,,1039612926.4109836,90,73866909.0,True,-0.2143193678530014,False,enters
+2022-04-01,A_current,aave,Aave,Lending,aave,,2295865380.4092464,90,47685643.0,True,-0.4231655181120958,False,enters
+2022-10-01,A_current,aave,Aave,Lending,aave,,1072389645.5877316,90,26442847.0,True,-0.3641014280571281,False,enters
+2022-04-01,A_current,pancakeswap,PancakeSwap,Dexs,pancakeswap-token,,2251528823.6453886,90,52496061.0,True,-0.2348808439390936,False,enters
+2022-10-01,A_current,pancakeswap,PancakeSwap,Dexs,pancakeswap-token,,660650120.1839179,90,15828593.0,True,-1.6128133671244906,False,enters
+2022-04-01,A_current,raydium,Raydium,Dexs,raydium,,310712832.4588364,0,0.0,False,-2.0273702838610648,False,fee series starts later
+2022-10-01,A_current,raydium,Raydium,Dexs,raydium,,78159041.37312017,0,0.0,False,-1.4139889194735105,False,fee series starts later
+2022-04-01,A_current,curve-finance,Curve Finance,Dexs,curve-dao-token,,1022447796.5640368,90,47184182.0,True,-0.428904824934757,False,enters
+2022-10-01,A_current,curve-finance,Curve Finance,Dexs,curve-dao-token,,360565021.7127058,90,11040784.0,True,-0.7838569930085479,False,enters
+2022-04-01,A_current,sushi,Sushi,Dexs,sushi,,766290034.7358767,90,77378292.0,True,-0.7416053709721161,False,enters
+2022-10-01,A_current,sushi,Sushi,Dexs,sushi,,206389424.12110043,90,7204781.0,True,-0.8130492099054584,False,enters
+2022-04-01,A_current,trader-joe,LFJ,Dexs,joe,,218839762.93925488,90,124955410.0,True,-0.041484641095747,False,enters
+2022-10-01,A_current,trader-joe,LFJ,Dexs,joe,,73371423.38511154,90,9471896.0,True,-0.1042682495565166,False,enters
+2022-04-01,A_current,looksrare,LooksRare,NFT Marketplace,looksrare,,510044103.2505175,87,462552217.0,True,-2.1925657554068563,False,enters
+2022-10-01,A_current,looksrare,LooksRare,NFT Marketplace,looksrare,,107993167.62745924,90,14126758.0,True,-1.5764540372015698,False,enters
+2022-04-01,A_current,compound-finance,Compound Finance,Lending,compound-governance-token,,837320119.7319642,90,41138770.0,True,-0.6134409805445137,False,enters
+2022-10-01,A_current,compound-finance,Compound Finance,Lending,compound-governance-token,,422901285.9788405,90,5549983.0,True,-0.4868947519047399,False,enters
+2022-04-01,A_current,gmx,GMX,Derivatives,gmx,,222979816.38797745,90,28106006.0,True,1.5128502053329878,False,enters
+2022-10-01,A_current,gmx,GMX,Derivatives,gmx,,322588180.1305454,90,29974968.0,True,-0.2663841256821349,False,enters
+2022-04-01,A_current,convex-finance,Convex Finance,Yield,convex-finance,,1624469856.4225423,90,67521593.0,True,-1.1257743234563105,False,enters
+2022-10-01,A_current,convex-finance,Convex Finance,Yield,convex-finance,,338248601.7801052,90,20330726.0,True,-0.6847210440194851,False,enters
+2022-04-01,A_current,balancer,Balancer,Dexs,balancer,,150640873.77968857,90,11100231.0,True,-0.1289813589079391,False,enters
+2022-10-01,A_current,balancer,Balancer,Dexs,balancer,,194830776.16020697,90,9180229.0,True,-0.6906828136400005,False,enters
+2022-04-01,A_current,rocket-pool,Rocket Pool,Liquid Staking,rocket-pool,,584405456.9623265,0,0.0,False,0.8185429079153879,False,fee series starts later
+2022-10-01,A_current,rocket-pool,Rocket Pool,Liquid Staking,rocket-pool,,459514922.25291663,0,0.0,False,-0.3273422860902398,False,fee series starts later
+2022-04-01,A_current,thorchain-dex,THORChain DEX,Dexs,thorchain,,3157312761.735352,90,4694255.0,True,-1.480585722227234,False,enters
+2022-10-01,A_current,thorchain-dex,THORChain DEX,Dexs,thorchain,,476222495.8884285,90,1864340.0,True,-0.0148282523356436,False,enters
+2022-04-01,A_current,venus-finance,Venus,Lending,venus,,139424793.39705533,0,0.0,False,-0.2035440246862117,False,fee series starts later
+2022-10-01,A_current,venus-finance,Venus,Lending,venus,,67792910.67734723,0,0.0,False,-0.2649230777348353,False,fee series starts later
+2022-04-01,A_current,yearn,Yearn,Yield Aggregator,yearn-finance,,793621724.4895487,87,7865454.0,True,-0.3166796348769121,False,enters
+2022-10-01,A_current,yearn,Yearn,Yield Aggregator,yearn-finance,,258861445.57510445,89,1894967.0,True,-0.6617633029426202,False,enters
+2022-10-01,A_current,euler,Euler,Lending,euler,,78585494.94779705,0,0.0,False,-1.1935552957217346,False,fee series starts later
+2022-10-01,A_current,liquity,Liquity,CDP,liquity,,60401177.953083575,90,7081041.0,True,0.0017673877274494,False,enters
+2022-04-01,A_current,biswap,Biswap,Dexs,biswap,,150782137.16192585,86,17342346.0,True,-0.6318938212677258,False,enters
+2022-10-01,A_current,biswap,Biswap,Dexs,biswap,,89706485.2500077,90,4901225.0,True,-1.625123953672036,False,enters
+2022-04-01,A_current,synthetix,Synthetix,Synthetics,havven,,1179412909.7727203,90,529801.0,True,-0.216046699614482,False,enters
+2022-10-01,A_current,synthetix,Synthetix,Synthetics,havven,,568855621.5320616,90,12791147.0,True,-0.3370319619914312,False,enters
+2022-04-01,A_current,abracadabra,Abracadabra,CDP,spell-token,,397791678.20801073,90,23173854.0,True,-1.209889671733038,False,enters
+2022-10-01,A_current,abracadabra,Abracadabra,CDP,spell-token,,105000659.25965685,90,1047217.0,True,-0.942568008793189,False,enters
+2022-04-01,A_current,benqi,Benqi,Liquid Staking,benqi,,106176754.2811874,47,894750.0,False,-1.3257771809355274,False,fee series starts later
+2022-04-01,A_current,frax-finance,Frax Finance,Liquid Staking,frax-share,,1241237472.155208,90,38990.0,True,-0.3544845711560674,False,enters
+2022-10-01,A_current,frax-finance,Frax Finance,Liquid Staking,frax-share,,286093597.6151011,90,880657.0,True,0.0897813784366919,False,enters
+2022-04-01,A_current,cowswap,CoWSwap,DEX Aggregator,cow-protocol,,96502162.19751953,0,0.0,False,-1.9504207060334724,False,fee series starts later
+2022-04-01,A_current,sun,SUN,Dexs,sun-token,,156914222.34881768,0,0.0,False,-0.234806651716853,False,fee series starts later
+2022-04-01,A_current,osmosis-dex,Osmosis DEX,Dexs,osmosis,,2742299767.3697443,0,0.0,False,-1.7123574363223124,False,fee series starts later
+2022-10-01,A_current,osmosis-dex,Osmosis DEX,Dexs,osmosis,,529856486.9790558,90,2995084.0,True,-1.5015995498610746,False,enters
+2022-04-01,A_current,bancor,Bancor,Dexs,bancor,,700374898.2448848,90,6416741.0,True,-0.9573011433673408,False,enters
+2022-10-01,A_current,bancor,Bancor,Dexs,bancor,,85069221.14336638,90,1072844.0,True,-0.2933169900625967,False,enters
+2022-04-01,A_current,dodo,DODO,Dexs,dodo,,141283104.77512175,0,0.0,False,-0.4629564927991757,False,fee series starts later
+2022-10-01,A_current,dodo,DODO,Dexs,dodo,,51363805.66099161,0,0.0,False,-0.4544105744502711,False,fee series starts later
+2022-04-01,A_current,gains-network,Gains Network,Derivatives,gains-network,,71118577.7617044,0,0.0,False,1.5496540720523335,False,fee series starts later
+2022-10-01,A_current,shibaswap,ShibaSwap,Dexs,bone-shibaswap,,102869459.86524048,90,3367778.0,True,-0.7152658028214962,False,enters
+2022-04-01,A_current,near-protocol,NEAR Protocol,Bridge,near,,8693550921.191414,0,0.0,False,-1.2942407581074955,False,fee series starts later
+2022-10-01,A_current,near-protocol,NEAR Protocol,Bridge,near,,2859356881.260452,0,0.0,False,-1.390112806018423,False,fee series starts later
+2022-04-01,A_current,kyberswap,KyberSwap,DEX Aggregator,kyber-network-crystal,,334126329.3710877,90,7680.0,True,-0.9113507051572656,False,enters
+2022-10-01,A_current,kyberswap,KyberSwap,DEX Aggregator,kyber-network-crystal,,119168797.31189027,90,143590.0,True,-0.7098754452198497,False,enters
+2022-10-01,A_current,stargate-finance,Stargate Finance,Cross Chain Bridge,stargate-finance,,72223298.86312422,31,240188.0,False,-0.3541747778269713,False,fee series starts later
+2022-04-01,A_current,synapse,Synapse,Cross Chain Bridge,synapse-2,,382652949.979807,90,8086951.0,True,-0.4665811181996092,False,enters
+2022-10-01,A_current,synapse,Synapse,Cross Chain Bridge,synapse-2,,247707641.2478721,90,1312727.0,True,-1.6608729390385295,False,enters
+2022-04-01,A_current,origin-defi,Origin Protocol,Liquid Staking,origin-protocol,,291255869.9832741,90,2439754.0,True,-1.0356390128550768,False,enters
+2022-10-01,A_current,origin-defi,Origin Protocol,Liquid Staking,origin-protocol,,73487538.84148847,90,206388.0,True,-0.6881579764871567,False,enters
+2022-04-01,A_current,justlend,JustLend,Lending,just,,443416425.7375366,0,0.0,False,-0.2313265421351457,False,fee series starts later
+2022-10-01,A_current,justlend,JustLend,Lending,just,,222220775.6029108,0,0.0,False,-0.311496468566257,False,fee series starts later
+2022-04-01,A_current,vvs-finance,VVS Finance,Dexs,vvs-finance,,313230243.8186301,0,0.0,False,-1.4093321934459389,False,fee series starts later
+2022-10-01,A_current,vvs-finance,VVS Finance,Dexs,vvs-finance,,156974432.968365,0,0.0,False,-1.259079808626723,False,fee series starts later
+2022-04-01,A_current,defi-swap,Defi Swap,Dexs,crypto-com-chain,,11985139811.958303,90,725162.0,True,-1.31475523462607,False,enters
+2022-10-01,A_current,defi-swap,Defi Swap,Dexs,crypto-com-chain,,2839428842.018567,90,357315.0,True,-1.005488729555981,False,enters
+2022-04-01,A_current,nexus-mutual,Nexus Mutual,Insurance,nxm,,760756807.5127472,90,2897166.0,True,-0.1939745267956799,False,enters
+2022-10-01,A_current,nexus-mutual,Nexus Mutual,Insurance,nxm,,296194263.3357436,90,582475.0700000001,True,-0.1330121693107924,False,enters
+2022-04-01,A_current,reserve-protocol,Reserve Protocol,Indexes,reserve-rights-token,,217165870.06435657,0,0.0,False,-0.8089327250259969,False,fee series starts later
+2022-10-01,A_current,reserve-protocol,Reserve Protocol,Indexes,reserve-rights-token,,344286239.7737167,0,0.0,False,-1.7000600797889769,False,fee series starts later
+2022-04-01,A_current,woofi,WOOFi,Dexs,woo-network,,609518385.8484709,89,65461.0,True,-0.4735746928478154,False,enters
+2022-10-01,A_current,woofi,WOOFi,Dexs,woo-network,,157449398.43376535,90,176918.0,True,-0.0104817354593541,False,enters
+2022-04-01,A_current,ankr,Ankr,Liquid Staking,ankr,,711368487.445661,0,0.0,False,-0.3627067585777923,False,fee series starts later
+2022-10-01,A_current,ankr,Ankr,Liquid Staking,ankr,,248053358.5861678,90,677601.0,True,-0.6603919958614293,False,enters
+2022-04-01,A_current,perpetual-protocol,Perpetual Protocol,Derivatives,perpetual-protocol,,324487130.44993603,0,0.0,False,-1.1655795361088883,False,fee series starts later
+2022-04-01,A_current,beefy,Beefy,Yield Aggregator,beefy-finance,,113349401.57935594,0,0.0,False,-0.4605994662267468,False,fee series starts later
+2022-04-01,A_current,beethoven-x,Beets,Liquid Staking,beethoven-x,,56364575.43245623,0,0.0,False,-2.0084424372679623,False,no fee adapter at all
+2022-04-01,A_current,alchemix,Alchemix,Synthetics,alchemix,,142245131.41313314,0,0.0,False,-1.1254661339346468,False,fee series starts later
+2022-04-01,A_current,tether-gold,Tether Gold,RWA,tether-gold,,487411824.75688833,0,0.0,False,0.6225623795925987,False,fee series starts later
+2022-10-01,A_current,tether-gold,Tether Gold,RWA,tether-gold,,414601601.4985087,0,0.0,False,-0.1118228694784434,False,fee series starts later
+2022-10-01,A_current,ssv-network,SSV Network,Staking Pool,ssv-network,,79025411.15991487,0,0.0,False,0.1395686296907088,False,fee series starts later
+2022-04-01,A_current,olympus-dao,Olympus DAO,Reserve Currency,olympus,,542298269.4948826,0,0.0,False,-0.6552632261472174,False,fee series starts later
+2022-10-01,A_current,olympus-dao,Olympus DAO,Reserve Currency,olympus,,294987011.56530166,0,0.0,False,-0.1486364557168144,False,fee series starts later
+2022-04-01,A_current,tectonic,Tectonic,Lending,tectonic,,60869216.78181341,0,0.0,False,-1.1522665096679892,False,fee series starts later
+2022-04-01,A_current,babydogecoin,BabyDogeCoin,Dexs,baby-doge-coin,,525228010.1883683,0,0.0,False,0.2359236996229756,False,fee series starts later
+2022-10-01,A_current,babydogecoin,BabyDogeCoin,Dexs,baby-doge-coin,,182106109.1315795,0,0.0,False,-0.3111962622292183,False,fee series starts later
+2022-04-01,A_current,livepeer,Livepeer,Video Infrastructure,livepeer,,711642719.5734643,0,0.0,False,-0.8042108702850804,False,fee series starts later
+2022-10-01,A_current,livepeer,Livepeer,Video Infrastructure,livepeer,,236894702.15966105,0,0.0,False,-0.7029252253209632,False,fee series starts later
+2022-04-01,A_current,strike,Strike,Lending,strike,,134659045.96803597,0,0.0,False,-0.4283797465173894,False,fee series starts later
+2022-10-01,A_current,strike,Strike,Lending,strike,,56229723.94170501,0,0.0,False,-0.6738655893051008,False,fee series starts later
+2022-04-01,A_current,api3,Api3,Risk Curators,api3,,284374795.4748208,0,0.0,False,-0.6720236594398171,False,fee series starts later
+2022-10-01,A_current,api3,Api3,Risk Curators,api3,,103150844.57455727,0,0.0,False,-0.5756746520122411,False,fee series starts later
+2022-04-01,A_current,qidao,QiDao,CDP,qi-dao,,80516603.99220845,0,0.0,False,-2.107996722439688,False,fee series starts later
+2022-04-01,A_current,mango-markets,Mango Markets,Derivatives,mango-markets,,173358767.50638956,0,0.0,False,-1.521315093662119,False,fee series starts later
+2022-04-01,A_current,flow-swap,FlowSwap,Dexs,flow,,2430124677.4472404,0,0.0,False,-1.3277262134789267,False,fee series starts later
+2022-10-01,A_current,flow-swap,FlowSwap,Dexs,flow,,1721007123.8182456,0,0.0,False,-1.5266825409200893,False,fee series starts later
+2022-04-01,A_current,1inch,1inch,Dexs,1inch,,722697192.8646926,0,0.0,False,-0.6097868771675848,False,fee series starts later
+2022-10-01,A_current,1inch,1inch,Dexs,1inch,,350866736.1934101,0,0.0,False,-1.005862360139571,False,fee series starts later
+2022-04-01,A_current,ribbon-finance,Ribbon Finance,Options Vault,ribbon-finance,,77220832.42287199,0,0.0,False,-1.3088517699543627,False,fee series starts later
+2022-10-01,A_current,ribbon-finance,Ribbon Finance,Options Vault,ribbon-finance,,142576658.2358047,0,0.0,False,-0.7194857501615657,False,fee series starts later
+2022-04-01,A_current,badger-dao,Badger DAO,Yield Aggregator,badger-dao,,109537990.9128312,0,0.0,False,-0.756002254239115,False,fee series starts later
+2022-10-01,A_current,badger-dao,Badger DAO,Yield Aggregator,badger-dao,,55390028.6189778,0,0.0,False,-0.7431208073793091,False,fee series starts later
+2022-10-01,A_current,xexchange,xExchange,Dexs,maiar-dex,,288955703.6839295,0,0.0,False,-2.691601952051744,False,fee series starts later
+2022-04-01,A_current,flamingo,Flamingo,Dexs,flamingo-finance,,78566493.76964903,0,0.0,False,-0.2697557618885463,False,fee series starts later
+2022-04-01,A_current,alpaca-finance,Alpaca Finance,Derivatives,alpaca-finance,,72767002.77279314,0,0.0,False,0.1520210138011983,False,fee series starts later
+2022-04-01,A_current,coin98-protocol,Coin98 Protocol,Interface,coin98,,306526943.3427228,0,0.0,False,-1.2499909135203675,False,fee series starts later
+2022-10-01,A_current,coin98-protocol,Coin98 Protocol,Interface,coin98,,88815735.08179697,0,0.0,False,-1.0865535955101868,False,fee series starts later
+2022-04-01,A_current,stargaze,Stargaze,NFT Marketplace,stargaze,,173627837.3911438,0,0.0,False,-1.9105143475367417,False,fee series starts later
+2022-04-01,A_current,sperax,Sperax,Yield Aggregator,sperax,,165323832.43825704,0,0.0,False,-3.1311032643590417,False,fee series starts later
+2022-04-01,A_current,nerve,Nerve,Dexs,nerve-finance,,77747624.09639591,0,0.0,False,-0.7204468242286576,False,fee series starts later
+2022-10-01,A_current,nerve,Nerve,Dexs,nerve-finance,,77747624.09639591,0,0.0,False,-0.9386770903233708,False,fee series starts later
+2022-04-01,A_current,boson-protocol,Boson Protocol,RWA,boson-protocol,,81448832.60493237,0,0.0,False,-0.985549814994408,False,fee series starts later
+2022-04-01,A_current,nftx,NFTX,NFT Marketplace,nftx,,67258756.00321639,0,0.0,False,-1.5515343577508656,False,no fee adapter at all
+2022-04-01,B_dead,rook,Rook,Dexs,rook,2025-12-18,106679994.38755228,0,0.0,False,-0.9043708839718332,False,dead
+2022-04-01,B_dead,hyphen,Hyphen,Bridge,biconomy,2024-12-31,183570098.2629207,0,0.0,False,-0.81272213130696,False,dead
+2022-10-01,B_dead,hyphen,Hyphen,Bridge,biconomy,2024-12-31,79683130.01479673,0,0.0,False,-0.753059737546399,False,dead
+2022-04-01,B_dead,oxygen,Oxygen,Lending,oxygen,2022-11-01,81567291.21069725,0,0.0,False,-2.546175615846376,False,dead
+2022-04-01,B_dead,renvm,RenVM,Bridge,republic-protocol,2022-11-01,425708073.2696736,0,0.0,False,-0.8645144977061329,False,dead
+2022-10-01,B_dead,renvm,RenVM,Bridge,republic-protocol,2022-11-01,113866356.4220998,0,0.0,False,-1.091703345891966,False,dead
+2022-04-01,B_dead,mirror,Mirror,Derivatives,mirror-protocol,2022-05-26,245095638.4910013,0,0.0,False,-2.2517267956202254,False,dead
+2022-04-01,B_dead,anchor,Anchor,Lending,anchor-protocol,2022-05-26,684791749.5359666,0,0.0,False,-4.272872337917955,False,dead
+2022-04-01,B_dead,sifchain,Sifchain,Dexs,sifchain,2026-09-15,85605003.2606631,0,0.0,False,-5.194458086429282,False,dead
+2022-04-01,B_dead,pylon-protocol,Pylon Protocol,Yield,pylon-protocol,2022-05-26,87969993.6299102,0,0.0,False,,True,dead
+2022-04-01,B_dead,astroport-classic,Astroport Classic,Dexs,astroport,2024-10-02,292127455.6099373,0,0.0,False,-6.377991738213503,False,dead
+2022-04-01,B_dead,thundercore-staking,ThunderCore Staking,Staking Pool,thunder-token,2026-09-15,82259435.06122246,0,0.0,False,-0.17545060396996,False,dead

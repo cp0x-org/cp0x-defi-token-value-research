@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# CoinGecko price exports are not redistributed
+raw/cg/

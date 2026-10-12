@@ -1,0 +1,450 @@
+{
+  "rpc": "https://eth.drpc.org",
+  "chunk_blocks": 10000,
+  "programs": [
+    {
+      "id": "lido_steth_ldo_trade",
+      "token": "coingecko:lido-dao",
+      "events": [
+        {
+          "date": "2026-04-08",
+          "label": "Snapshot approved (10k stETH program)",
+          "verified": true
+        },
+        {
+          "date": "2026-04-21",
+          "label": "Batch 1 execution start",
+          "verified": true
+        }
+      ],
+      "flows": [
+        {
+          "label": "LDO inflow to Aragon Agent (buyback settlements)",
+          "chain": "ethereum",
+          "token_contract": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+          "direction": "to",
+          "address": "0x3e40d73eb977dc6a537af587d48316fee66e9c8c",
+          "from_block": 25000000,
+          "decimals": 18
+        }
+      ],
+      "llama_slug": "lido",
+      "okx_inst": "LDO-USDT",
+      "coinbase_product": "LDO-USD"
+    },
+    {
+      "id": "lido_nest",
+      "token": "coingecko:lido-dao",
+      "events": [
+        {
+          "date": "2026-08-14",
+          "label": "NEST fully activated (DG #13)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "aave_buy_distribute",
+      "token": "coingecko:aave",
+      "events": [
+        {
+          "date": "2025-03-04",
+          "label": "ARFC Aavenomics Part 1 posted (buyback $1M/wk)",
+          "verified": true
+        },
+        {
+          "date": "2025-04-09",
+          "label": "Buyback execution start",
+          "verified": true
+        },
+        {
+          "date": "2025-10-22",
+          "label": "ARFC long-term $50M/yr program posted",
+          "verified": true
+        },
+        {
+          "date": "2026-03-04",
+          "label": "Budget cut ARFC $50M -> $30M",
+          "verified": true
+        },
+        {
+          "date": "2026-06-27",
+          "label": "Aavenomics 3.0 activated (immutable)",
+          "verified": true
+        }
+      ],
+      "flows": [],
+      "llama_slug": "aave",
+      "okx_inst": "AAVE-USDT",
+      "coinbase_product": "AAVE-USD"
+    },
+    {
+      "id": "dydx_buyback",
+      "token": "coingecko:dydx-chain",
+      "events": [
+        {
+          "date": "2025-03-24",
+          "label": "Buyback launch, 25% of net fees (verified)",
+          "verified": true
+        },
+        {
+          "date": "2025-11-13",
+          "label": "Proposal #313: buyback share 25% -> 75%",
+          "verified": true
+        }
+      ],
+      "flows": [],
+      "llama_slug": "dydx",
+      "okx_inst": "DYDX-USDT"
+    },
+    {
+      "id": "sky_smart_burn",
+      "token": "coingecko:sky",
+      "events": [
+        {
+          "date": "2023-06-26",
+          "label": "SBE launch parameters poll (hump 50M DAI gate)",
+          "verified": true
+        },
+        {
+          "date": "2023-07-14",
+          "label": "SBE deployment executive vote",
+          "verified": true
+        }
+      ],
+      "flows": [],
+      "llama_slug": "sky-lending",
+      "okx_inst": "SKY-USDT",
+      "history_token": "coingecko:maker",
+      "splice_ratio": 24000,
+      "okx_inst_history": "MKR-USDT",
+      "coinbase_history_product": "MKR-USD"
+    },
+    {
+      "id": "etherfi_buyback",
+      "token": "coingecko:ether-fi",
+      "events": [
+        {
+          "date": "2024-12-16",
+          "label": "Proposal: 5% of revenue to ETHFI buybacks for stakers",
+          "verified": true
+        },
+        {
+          "date": "2025-05-08",
+          "label": "Foundation revenue buybacks start",
+          "verified": true
+        },
+        {
+          "date": "2025-11-04",
+          "label": "$50M treasury program passed (buy below $3, 99% For)",
+          "verified": true
+        }
+      ],
+      "flows": [],
+      "llama_slug": "ether.fi",
+      "okx_inst": "ETHFI-USDT"
+    },
+    {
+      "id": "ethena_fee_switch",
+      "token": "coingecko:ethena",
+      "events": [
+        {
+          "date": "2026-08-27",
+          "label": "Fee switch Snapshot opens (package day)",
+          "verified": true
+        },
+        {
+          "date": "2026-09-02",
+          "label": "Fee switch passed unanimously (dormant below $7.5B USDe)",
+          "verified": true
+        }
+      ],
+      "flows": [],
+      "llama_slug": "ethena",
+      "okx_inst": "ENA-USDT"
+    },
+    {
+      "id": "hyperliquid_af",
+      "token": "coingecko:hyperliquid",
+      "llama_slug": "hyperliquid",
+      "okx_inst": "HYPE-USDT",
+      "coinbase_product": "HYPE-USD",
+      "events": [
+        {
+          "date": "2024-11-29",
+          "label": "HYPE TGE, AF buybacks from launch (context only)",
+          "verified": true
+        },
+        {
+          "date": "2025-12-24",
+          "label": "AF holdings recognized as burned (vote)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "uniswap_unification",
+      "token": "coingecko:uniswap",
+      "llama_slug": "uniswap",
+      "okx_inst": "UNI-USDT",
+      "events": [
+        {
+          "date": "2025-11-10",
+          "label": "UNIfication proposal announced",
+          "verified": true
+        },
+        {
+          "date": "2025-12-25",
+          "label": "UNIfication passed (fee switch + 100M burn)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "jupiter_buyback",
+      "token": "coingecko:jupiter-exchange-solana",
+      "llama_slug": "jupiter",
+      "okx_inst": "JUP-USDT",
+      "events": [
+        {
+          "date": "2025-01-26",
+          "label": "Catstanbul: 50% fees to buybacks announced",
+          "verified": true
+        },
+        {
+          "date": "2025-11-04",
+          "label": "Litterbox Burn vote passed (86%)",
+          "verified": true
+        },
+        {
+          "date": "2026-02-22",
+          "label": "Net-Zero Emissions passed",
+          "verified": true
+        },
+        {
+          "date": "2025-11-25",
+          "label": "130M JUP burn executed",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "gmx_buyback",
+      "token": "coingecko:gmx",
+      "llama_slug": "gmx",
+      "okx_inst": "GMX-USDT",
+      "events": [
+        {
+          "date": "2024-07-29",
+          "label": "Buyback GMX proposal announced",
+          "verified": true
+        },
+        {
+          "date": "2024-10-30",
+          "label": "GMX buyback+distribute live",
+          "verified": true
+        },
+        {
+          "date": "2026-03-04",
+          "label": "Distribution suspended until $90 (treasury accrual)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "raydium_buyback",
+      "token": "coingecko:raydium",
+      "llama_slug": "raydium",
+      "okx_inst": "RAY-USDT",
+      "events": [],
+      "flows": []
+    },
+    {
+      "id": "pumpfun_buyback",
+      "token": "coingecko:pump-fun",
+      "llama_slug": "pump.fun",
+      "okx_inst": "PUMP-USDT",
+      "events": [
+        {
+          "date": "2025-07-15",
+          "label": "First PUMP buyback (~$15M day one)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "pendle_feeshare",
+      "token": "coingecko:pendle",
+      "llama_slug": "pendle",
+      "okx_inst": "PENDLE-USDT",
+      "events": [],
+      "flows": []
+    },
+    {
+      "id": "jito_feeshare",
+      "token": "coingecko:jito-governance-token",
+      "llama_slug": "jito",
+      "okx_inst": "JTO-USDT",
+      "events": [
+        {
+          "date": "2024-10-24",
+          "label": "JIP-8 fee switch proposed",
+          "verified": true
+        },
+        {
+          "date": "2025-01-30",
+          "label": "TipRouter live: first direct JTO cash flow",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "rocketpool_feeswitch",
+      "token": "coingecko:rocket-pool",
+      "llama_slug": "rocket-pool",
+      "okx_inst": "RPL-USDT",
+      "coinbase_product": "RPL-USD",
+      "events": [
+        {
+          "date": "2026-02-11",
+          "label": "Saturn devnet-1 announced",
+          "verified": true
+        },
+        {
+          "date": "2026-02-18",
+          "label": "Saturn One mainnet (fee switch)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "frax_feeshare",
+      "token": "coingecko:frax-share",
+      "llama_slug": "frax",
+      "okx_inst": "FXS-USDT",
+      "events": [],
+      "flows": []
+    },
+    {
+      "id": "sushi_kanpai",
+      "token": "coingecko:sushi",
+      "llama_slug": "sushiswap",
+      "okx_inst": "SUSHI-USDT",
+      "events": [
+        {
+          "date": "2022-12-05",
+          "label": "Kanpai 100% proposed (suspend xSUSHI fee share)",
+          "verified": true
+        },
+        {
+          "date": "2022-12-19",
+          "label": "Signal vote passed 58%: fee share suspended",
+          "verified": true
+        },
+        {
+          "date": "2023-01-23",
+          "label": "Implementation vote passed",
+          "verified": true
+        },
+        {
+          "date": "2023-11-24",
+          "label": "Restoration announced (Kanpai 2.0 to expire)",
+          "verified": true
+        },
+        {
+          "date": "2024-01-23",
+          "label": "Fee share restored, Sushi Bar reopens",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "synthetix_snx",
+      "token": "coingecko:havven",
+      "llama_slug": "synthetix",
+      "okx_inst": "SNX-USDT",
+      "events": [
+        {
+          "date": "2022-08-25",
+          "label": "SIP-276 proposed: cap supply at 300M, end inflation",
+          "verified": true
+        },
+        {
+          "date": "2023-12-12",
+          "label": "SIP-2043 passed: SNX inflation ends",
+          "verified": true
+        },
+        {
+          "date": "2023-12-21",
+          "label": "Inflation off (implementation)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "looksrare_feeshare",
+      "token": "coingecko:looksrare",
+      "llama_slug": "looksrare",
+      "okx_inst": "LOOKS-USDT",
+      "events": [
+        {
+          "date": "2022-02-09",
+          "label": "Scheduled Phase 1->2 reward halving",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "gains_gns",
+      "token": "coingecko:gains-network",
+      "llama_slug": "gains-network",
+      "okx_inst": "GNS-USDT",
+      "events": [
+        {
+          "date": "2024-07-12",
+          "label": "v9.1 BB&D: collateral payouts -> buyback-distribute",
+          "verified": true
+        },
+        {
+          "date": "2024-11-11",
+          "label": "SSS rewards redirected to burns (first Snapshot)",
+          "verified": true
+        }
+      ],
+      "flows": []
+    },
+    {
+      "id": "aerodrome_ve",
+      "token": "coingecko:aerodrome-finance",
+      "llama_slug": "aerodrome",
+      "okx_inst": "AERO-USDT",
+      "events": [],
+      "flows": [],
+      "coinbase_product": "AERO-USD"
+    }
+  ],
+  "benchmark": "coingecko:ethereum",
+  "price_start": "2021-06-01",
+  "event_windows_days": [
+    7,
+    30,
+    90,
+    180
+  ],
+  "control_tokens": [
+    "coingecko:compound-governance-token",
+    "coingecko:curve-dao-token",
+    "coingecko:ethereum-name-service"
+  ]
+}

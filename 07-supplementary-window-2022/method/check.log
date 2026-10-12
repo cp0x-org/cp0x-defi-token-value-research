@@ -1,0 +1,14 @@
+
+== window start 2022-04-01 | tokens >= $50M: 74
+                       n  median_y_vs_eth  share_beat_eth  price_end_missing  mc_median_musd
+group                                                                                       
+alive, no fee data    39           -0.809           0.128                  0         165.324
+dead, no fee data     10           -2.252           0.000                  1         145.125
+enters (fee data ok)  25           -0.467           0.080                  0         760.757
+
+== window start 2022-10-01 | tokens >= $50M: 55
+                       n  median_y_vs_eth  share_beat_eth  price_end_missing  mc_median_musd
+group                                                                                       
+alive, no fee data    24           -0.711           0.042                  0         149.776
+dead, no fee data      2           -0.922           0.000                  0          96.775
+enters (fee data ok)  29           -0.662           0.069                  0         258.861

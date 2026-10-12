@@ -1,0 +1,687 @@
+protocol,source_type,source_url,date,snippet,tags
+Hyperliquid Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hyperliquid-perp,,"99% of fees go to Assistance Fund for buying HYPE tokens, excluding builders fees.",unknown
+Hyperliquid Perps,defillama_adapter,dexs/hyperliquid-perp/index.ts,,"99% of fees go to Assistance Fund for buying HYPE tokens, excluding builders fees.",
+Aerodrome Slipstream,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/aerodrome-slipstream,,"Sum of (a) staked-LP fees and (b) the unstaked-LP rake (CLFactory.getUnstakedFee, default 10% of unstaked share), both routed into the gauge's CLPool.gaugeFees() accumulator. Measured on-chain as gaugeFees(toBlock) - gaugeFees(fromBlock) plus CollectFees event amounts (which drain the accumulator ea",fee_share_direct
+Aerodrome Slipstream,defillama_adapter,dexs/aerodrome-slipstream/index.ts,,"Sum of (a) staked-LP fees and (b) the unstaked-LP rake (CLFactory.getUnstakedFee, default 10% of unstaked share), both routed into the gauge",
+PancakeSwap AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/pancakeswap-v2.ts,,0.0575% is used to facilitate CAKE buyback and burn.,buyback_burn
+PancakeSwap AMM,defillama_adapter,dexs/pancakeswap-v2.ts,,0.0575% is used to facilitate CAKE buyback and burn.,
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmRKb1qkxtppPeTh7WRRqHdbgyjukUtdzp32F18MDaVXot,2021-07-19,"Stake cake to earn My DeFi Pet Dpet, dpet/bnb to earn cake.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmV6w3UGcN7JfSGq2HQsYdSQpG7h7rS76Q5fJWS5dyTvz3,2021-07-30,**BNB Airdrops** - Wallets staking WISB for 365 days or longer will receive weekly ongoing airdrops in BNB.,direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmXh5wamnaWYvWBxqXZJHxT43EAyq5mxfGQ5FgG882sWgx,2021-08-12,Use this to pay high APR for staking stable coins.,direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmaSe8NYGTqBi4kHMgmQfcVKkoZ8qRKENG9spfMoWTd1HW,2021-10-13,"# INSTANTLY AVAILABLE, HIGHER YIELDS 
+
+The idea is to create ""*Stake CAKE, Earn X*"" time locked  pools that would  distribute a ahead of time - either in a stablecoin or in a different asset (CAKE?).",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmTTibgW2bV4148QvAMEdZHZk2oXn11cWSPMSnkskrogei,2021-11-22,staking cake to earn BNB so our profits at least go up with the market with a 3-4 APY it would be nice.,direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmP3XTo8xu9cGbDR4JC1G5LHZtrsyvpEvmXWHPexs95gAN,2022-02-07,"We can have 2 or 3 rewards 
+Imagine something like that 
+Stake Cake : Earn Cake & Bnb or Stake Cake : Earn Cake / Bnb / Btc.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmYUt5sk1crT3cNbau5QkdLjXSaQ5hhUjwXDRHm1yvbecQ,2022-04-21,aBNBc can be obtained by participating in Ankr’s [**BNB Liquid Staking**](https://www.ankr.com/earn/stake/bnb/).,direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/QmYUt5sk1crT3cNbau5QkdLjXSaQ5hhUjwXDRHm1yvbecQ,2022-04-21,"An overview of how Ankr’s BNB Liquid Staking works can be found [**here**](https://www.ankr.com/docs/earn/liquid-staking/bnb/overview).” 
+
+
+#### To learn more, visit the project’s official channels:
+
+- **Website:** https://www.ankr.com
+- **BNB Liquid Staking (Ankr):** https://www.ankr.com/earn/stake/bnb/
+- **Twitter:** https://twitter.com/ankr
+- **Telegram:** https://t.me/ankrnetwork
+- **Discord:*",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreiaskzwcw62vb2cfctvnubb5mccl2ztqcj65taeaobzvgwnsrj6hua,2022-08-05,"Stakers can stake BNB on **https://app.pstake.finance/** after the mainnet is live on 08 Aug 2022 to receive pSTAKE’s Liquid Staking token for BNB, **$stkBNB**.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreigsogu3xydumv3qyih7lwjymxjxyuejiwsrvz47v5ytpk7xk6m43u,2022-08-24,"Helio Protocol is an open-source liquidity protocol for borrowing and earning yield on HAY, which is a [**“destablecoin”**](https://helio.money/docs/) over-collateralized with liquid staked assets.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreigsogu3xydumv3qyih7lwjymxjxyuejiwsrvz47v5ytpk7xk6m43u,2022-08-24,"A step-by-step guide to Providing BNB, Borrowing HAY, Farming HAY, Repaying HAY, and WIthdrawing BNB can be found [**here**](https://helio.money/docs/get-started/provide-bnb)”
+
+#### To learn more, visit the project’s official channels:
+- **Website:** https://helio.money/
+- **App:** https://helio.money/app/
+- **Medium:** https://medium.com/@Helio-HAY
+- **Twitter:**  https://twitter.com/Helio_Money
+",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreiey7wjdihnupd65k753c3lixqfocrsxpvcmi676n2l5s5wx5jyjya,2022-08-24,aBNBc can be obtained by participating in Ankr’s [**BNB Liquid Staking**](https://www.ankr.com/earn/stake/bnb/).,direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreiey7wjdihnupd65k753c3lixqfocrsxpvcmi676n2l5s5wx5jyjya,2022-08-24,"An overview of how Ankr’s BNB Liquid Staking works can be found [**here**](https://www.ankr.com/docs/earn/liquid-staking/bnb/overview).” 
+
+#### To learn more, visit the project’s official channels:
+
+- **Website:** https://www.ankr.com
+- **BNB Liquid Staking (Ankr):** https://www.ankr.com/earn/stake/bnb/
+- **Twitter:** https://twitter.com/ankr
+- **Telegram:** https://t.me/ankrnetwork
+- **Discord:**",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/bafkreibsauclq4tjfyxsbmsi4hnrfsf6r53ri5cumzh22d24fvlpayjdwy,2022-10-05,"I am wanting to receive financing in CAKE, BNB, BUSD or any other smart chain coins that can be staked or pooled for APR/APY.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xe577070f44dc05425d5641b37b019b3d93f7ee1b16aaefcf13705183d31f1f9c,2022-10-21,"I am wanting to receive financing in CAKE, BNB, BUSD or any other smart chain coins that can be staked or pooled for APR/APY.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x328f6f25223f6fef8c9d77d2136ad667ac68ecb8b0e7f1418d32e7cee1eda31f,2023-03-30,"Helio Protocol is an open-source liquidity protocol for borrowing and earning yield on HAY, which is a [**“destablecoin”**](https://docs.helio.money/) over-collateralized with liquid staked assets.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x328f6f25223f6fef8c9d77d2136ad667ac68ecb8b0e7f1418d32e7cee1eda31f,2023-03-30,"#### The Farm:
+
+In conjunction with the Stake HAY, Earn CAKE Syrup Pool, we’ll be providing a HAY-USDT farm.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x729ebae7557c6ee5a37c7f6df5d81cfe1749f46c3e6940033fbe6e0f35612468,2023-04-14,Greated pool : stake Cake earn FRGST ( froggies ) bnb chain :),direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xe93b8bdc0bd7a11d0923196ce8041877a8060d07062ee1102d068df79d5ef9ea,2023-04-24,"unshETH is a diversified liquid staked ETH index that earns staking ETH yield and swap fees (not live yet), all wrapped in a single omnichain ERC-20 token available on ETH and BNB Chain.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xe93b8bdc0bd7a11d0923196ce8041877a8060d07062ee1102d068df79d5ef9ea,2023-04-24,"wstETH, cbETH, rETH, sfrxETH)
+- Redeem a mix of the underlying LSDs proportional to the current deposit ratio for each unshETH
+- Earn ETH staking yield by simply holding unshETH
+
+The team is also working on the following utilities, which are in development and are not live yet:
+
+- Swap between LSDs up to their maximum weight as determined by the “optimal ratio” set by governance
+- Earn swap fees b",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xc0c56c9deaa4a1c64017f2ffbe896ed228f8b329314e84ccd72d7b93badf83e0,2023-04-24,"We recommend that CAKE earnt should be auto-compounded, however the syrup rewards and stable coins must be claimed and do not attribute to users staked amount.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xeb5767a9de5bc2dbd94e6545161509189fa5fb426f6d25d432230b612396eb23,2023-04-25,"The new All-In-One staking pool will be the core staking product for PancakeSwap, sharing its traits with the proven and successful BNB Vault.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xe8094101666bc6ad97ab0066e11bfc16e1f42cef544589c55028a6cd60d655b8,2023-05-15,"unshETH is a diversified liquid staked ETH index that earns staking ETH yield and swap fees, all wrapped in a single omnichain ERC-20 token available on ETH and BNB Chain.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xe8094101666bc6ad97ab0066e11bfc16e1f42cef544589c55028a6cd60d655b8,2023-05-15,"wstETH, cbETH, rETH, sfrxETH) on Ethereum
+- Redeem a mix of the underlying LSDs proportional to the current deposit ratio for each unshETH
+- Swap between LSDs up to their maximum weight as determined by governance
+- Earn ETH staking yield, swap fees, and redemption fees by simply holding unshETH
+
+For more information on how to interact with unshETH, visit **[here](https://docs.unsheth.xyz/)**
+
+###",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x966558c62293f4c8b152cf9a34c37790004df116aa575541333f92dcd2d4aeac,2023-06-23,"Helio Protocol is an open-source liquidity protocol for borrowing and earning yield on HAY, which is a [**“destablecoin”**](https://docs.helio.money/) over-collateralized with liquid staked assets.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x966558c62293f4c8b152cf9a34c37790004df116aa575541333f92dcd2d4aeac,2023-06-23,"#### The Farm:
+
+In conjunction with the Stake CAKE, Earn HAY Syrup Pool, we’ll be providing BNB-HAY (0.25%), BTCB-HAY (0.25%), and ETH-HAY (0.25%) v3 farms.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xd9da55a42482eb817fa1457e990cd31419359b63d5d1c4b4a6a7a2ad1b59ed2e,2023-07-03,"By utilizing vePENDLE, PENDLE holders gain access to an array of features that increase the token's utility, such as:
+- Boosting one’s liquidity provision APY
+- Receiving a share of protocol revenue
+- Voting for pools to channel PENDLE incentives
+- Receiving swap fees from voted pools”
+
+#### How to bridge $PENDLE to BNB Chain?","direct,trans"
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x01ced179a39d30bc11436fd7f578ae45089bacaace57caa47881146fce7586ba,2023-07-20,"The SABLE token has the following utilities:
+
+- **Fee sharing (live at TGE)**: By staking SABLE-BNB LP tokens, users will capture the fee revenue from loan issuance and redemption, in addition to the trading fees from DEX LP.","direct,trans"
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x80c1b6bf449bd46e677ab424872c5708518f8e85a47cb9d8d3f129629eb0ca0a,2023-07-27,"#### The Farm:
+
+In conjunction with the Stake CAKE, Earn SnBNB Syrup Pool, we’ll be providing an SnBNB-BNB (0.05% fee tier) v3 farm.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x18ab0c5ed730d4f6ebafa9c21e81599884d4be6fde58207396456b327cfc0afe,2023-07-28,"#### The Farm:
+
+In conjunction with the Stake CAKE, Earn PLANET Syrup Pool, we’ll be providing a PLANET-BNB (1% fee tier) v3 farm.",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0xaa410d5e7a9ddf1c8f9f30e49da45e00c90808c327313e6a4fab4d2243f2b927,2023-08-08,"Within the unshETH ecosystem, users can:
+
+- Mint unshETH by depositing a supported ETH LST
+- Redeem a mix of the underlying LSTs proportional to the current deposit ratio for each unshETH
+- Earn ETH staking yield by simply holding unshETH
+- Swap between supported LSTs and ETH up to their maximum weight as determined by the “optimal ratio” set by governance
+- Earn swap fees by simply holding unshET",direct
+PancakeSwap AMM,snapshot,https://snapshot.org/#/cakevote.eth/proposal/0x5ed417523e835147d4708643950973cd2d1bf5998e444dbd41956b225df0b6ed,2024-01-08,"1000 UTC on 9 Jan 2024 
+- Finish time: End of next epoch on 31 Jan 2024
+
+At the end of the next epoch on 31 Jan 2024, the farm multiplier will be re-adjusted, based on the number of veCAKE votes received for the XAI-WETH gauge.",direct
+Curve DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/curve.ts,,"90% of the protocol's share of pool fees, distributed to veCRV holders, plus all bribes.",fee_share_direct
+Curve DEX,defillama_adapter,fees/curve.ts,,90% of the protocol,
+Curve DEX,snapshot,https://snapshot.org/#/curve.eth/proposal/0xa11d4d1800b91746afe8ead922eb1d37225a32145adf30bbda0cbdba2ef97bd3,2022-03-14,Stablecoins on Celo will be listed on Curve to provide opportunities for CRV holders to earn trading fees.,direct
+GMX V1 Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/gmx.ts,,30% of all collected fees goes to GMX stakers,fee_share_direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0x29485625f8f1499094f5c6c3dd2483194a5fb03e747393a8a8fc93e24072ff71,2022-04-18,"Tier 3
+10% discount, 15% rebates to referrers paid in ETH / AVAX, 5% to referrers paid in esGMX, the esGMX will not have any requirements for vesting, referrers would be able to deposit it into a vesting vault to be converted into GMX over 365 days.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0x51504e0380b731108cb7755fd06e701f627c8e6d88b08983963ba90f5a89e4b0,2022-12-05,"GMX DAO’s received YAK will be staked, earning a pro-rata share of 70% of Yield Yak’s platform fees, which are automatically distributed daily in AVAX rewards.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0x51504e0380b731108cb7755fd06e701f627c8e6d88b08983963ba90f5a89e4b0,2022-12-05,"GMX will stake their YAK to earn these AVAX fees, for a minimum of two years.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0x11953281aac686d41e57bfe4a1f341b1343f591096c583d738ebb9f317fa8a85,2025-01-04,"This aligns with our Buyback and Distribute strategy implemented on GMX, which aims to accumulate value while effectively reducing GMX’s circulating supply, bringing value appreciation to GMX and GMX holders.",bbd
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0xfd41555f0b09cacc25f83c2f9902ed7d5d8d2f75f7a01832883efa7aa242c226,2026-01-20,"[PROPOSAL] GMX: “Buyback & Burn Accelerator” (6-month pilot) + Partial burn of the staker fee bucket
+TL;DR
+
+Without changing the total allocation to stakers (27% on V2 / 30% on V1), we propose to burn a portion of the GMX already reacquired with fees, instead of distributing 100% of it.","bbd,trans"
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0xfd41555f0b09cacc25f83c2f9902ed7d5d8d2f75f7a01832883efa7aa242c226,2026-01-20,"GMX already routes value to the token via buyback and distribution to stakers (27% of fees, documented).",bbd
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0xfd41555f0b09cacc25f83c2f9902ed7d5d8d2f75f7a01832883efa7aa242c226,2026-01-20,"2) Current state (numbers)
+Metric	Value
+Market cap	~ $73.3M
+Fees (30 days)	~ $2.6M
+Value to “token holders/stakers” (30d)	~ $702k
+Stakers allocation on V2	27% fees via buyback→distribution
+Treasury	~ $35M
+3) Benchmark: why the market “understands” GNS
+
+Gains has pushed an extremely simple narrative: a large share of revenue goes into buyback & burn (documented as ~55% across official descriptions)",bbd
+GMX V1 Perps,snapshot,https://snapshot.org/#/gmx.eth/proposal/0xfd41555f0b09cacc25f83c2f9902ed7d5d8d2f75f7a01832883efa7aa242c226,2026-01-20,"4) Proposal (two levers)
+Lever A — Partial burn of the buyback already allocated to stakers (without touching the LP share)
+
+Today (V2): 27% fees → buyback GMX → 100% distributed to stakers.",bbd
+GMX V1 Perps,snapshot,https://snapshot.org/#/dripperzcyberclub.eth/proposal/QmbNdyabHaqRNw2C8khHzejVAsfN6SoH8ryU5HRRL7sqgD,2022-05-02,"Staked GMX or Staked GLP receives three types of rewards: 
+— Escrowed GMX 
+— Multiplier Points 
+— ETH/AVAX Rewards Escrowed GMX and Multiplier points provide incentives for long term holders with minimal supply inflation.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/yakherd.eth/proposal/0x16f5c07cc439c6395fa6482031deb39a455fa80c8f4675fee3fef0742dca8cf1,2022-11-29,"The proposal benefits YAK holders in the following ways: 
+
+- Increased its GLP vault performance which will offer higher yields due to the esGMX earning AVAX rewards for GLP depositors.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/yakherd.eth/proposal/0x16f5c07cc439c6395fa6482031deb39a455fa80c8f4675fee3fef0742dca8cf1,2022-11-29,"GMX DAO’s received YAK will be staked, earning a pro-rata share of 70% of Yield Yak’s platform fees, which are automatically distributed daily in AVAX rewards.",direct
+GMX V1 Perps,snapshot,https://snapshot.org/#/yakherd.eth/proposal/0x16f5c07cc439c6395fa6482031deb39a455fa80c8f4675fee3fef0742dca8cf1,2022-11-29,"GMX will stake their YAK to earn these AVAX fees, for a minimum of two years.",direct
+SushiSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/sushiswap-classic.ts,,A share of each trade fee goes to xSUSHI stakers.,fee_share_direct
+SushiSwap,defillama_adapter,dexs/sushiswap-classic.ts,,A share of each trade fee goes to xSUSHI stakers.,
+SushiSwap,snapshot,https://snapshot.org/#/sushigov.eth/proposal/QmWSQZZkaUXo6HkMiihXjRpy9VWjbnHkdLe6A3qse2AoXC,2020-09-12,The LP/ staking rewards paid in ETH.,direct
+SushiSwap,snapshot,https://snapshot.org/#/sushigov.eth/proposal/QmcAYok9eTiRB1ApuiiTD49q7z7JgFwEtGQyVGFhRPFdQW,2020-11-18,"- Remove EOA requirements for integrations with Keep3r.network
+(auto-harvesting of rewards daily)
+
+- Rewards xSushi holders who are staying longer in the bar 
+(Vote on the how pending)
+
+- Rewards paid in DAI instead of Sushi 
+( People that wish to keep receiving rewards in Sushi will be able to stake their xSushi in 3rd Party vaults, Protocols will be able to use Sushiswap revenue stream in a sust","direct,trans"
+SushiSwap,snapshot,https://snapshot.org/#/sushigov.eth/proposal/QmfW6KBcb7wSgKjGzcFSputWz2yjk1PTpgzvFDM7kMQcyu,2022-04-19,This will divert a portion of trading fees (100% - payout ratio) from xSUSHI stakers to the Treasury as revenue denominated in ETH.,"direct,trans"
+SushiSwap,snapshot,https://snapshot.org/#/sushigov.eth/proposal/QmX6ZJtJN3KxjYiFHKDy1CK4vkUVTEeqq5Wy2PwArgj8bH,2022-04-19,This will divert a portion of trading fees (100% - payout ratio) from xSUSHI stakers to the Treasury as revenue denominated in ETH.,"direct,trans"
+SushiSwap,snapshot,https://snapshot.org/#/bpro.eth/proposal/QmR1rTEAnmT4CwYvC3MpkBsddLuWc5v5fUvwKEgUW6gwVM,2021-05-24,This proposal suggests to re-adjust this distribution in a way that 50% (0.07 BPRO) will be distributed as rewards to SLP holders of the BPRO-ETH Sushiswap and Uniswap V2 pools.,direct
+dYdX V4,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/dydx-v4,,All trading fees are distributed to DYDX token stakers as staking rewards,fee_share_direct
+dYdX V4,defillama_adapter,fees/dydx-v4/index.ts,,All trading fees are distributed to DYDX token stakers as staking rewards,
+Raydium AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/raydium,,Fees allocated to RAY token buybacks (12% across all pool types).,buyback_other
+Raydium AMM,defillama_adapter,dexs/raydium/index.ts,,${dailyHoldersRevenue} | Fees allocated to RAY token buybacks (12% across all pool types).,
+Jupiter Perpetual Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/jupiter-perpetual,,"From 2025-02-17, 50% of revenue (12.5% of total fees) goes to JUP holders",fee_share_direct
+Jupiter Perpetual Exchange,defillama_adapter,fees/jupiter-perpetual/index.ts,2026-03-28,"From 2025-02-17, 50% of revenue (12.5% of total fees) goes to JUP holders",dated_logic
+Jupiter Perpetual Exchange,fetched_page,https://jup.ag/,,"Support Hub Jupiter Search anything / Rewards Connect Jupiter Trade Spot Stocks New Perps Predict Gacha Earn Lend Offerbook Beta Stake SOL Stake JUP Manage Portfolio Send Deposit Spend More Get Help The Home of Onchain Finance Earn over 4% on your SOL Earn over 4% on your SOL Lend your SOL and start earning yield, even while you sleep.",direct
+Uniswap V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/uniswap-v3.ts,,"From 28 Dec 2025, a portion of fees a collected to buy back and burn UNI on Ethereum, From 8 Mar 2026, on Optimism, Arbitrum, Base, WC, Zora, XLayer, From 2 Jun 2026, on Polygon, BSC, Celo, From 27 Jul 2026, on Robinhood",buyback_burn
+Uniswap V3,defillama_adapter,dexs/uniswap-v3.ts,,"From 28 Dec 2025, a portion of fees a collected to buy back and burn UNI on Ethereum, From 8 Mar 2026, on Optimism, Arbitrum, Base, WC, Zora, XLayer, From 2 Jun 2026, on Polygon, BSC, Celo, From 27 Jul 2026, on Robinhood",
+Uniswap V3,snapshot,https://snapshot.org/#/aragonchina/proposal/QmQnQZ2RLgvxFhY6kGKMDETbtoikZ5VeNYWwbU9jGj3AF8,2020-10-24,"The initial liquidity pools in Balancer include ANC, USDC and ANT, but it is more complex for ANC holders to supply the liquidity with three tokens and Uniswap is more popular and easy to use.",direct
+Uniswap V3,snapshot,https://snapshot.org/#/rarible.eth/proposal/QmZsocudKFGRexvRaUsqVTHfmXpcDzzma8vbQG8qEfppuL,2021-02-15,"Users who use their $RARI to provide liquidity on Uniswap currently cannot use their full voting power here, even though they provide a vital service for all other $RARI holders by enabling them to swap their earnings back to ETH.",direct
+Uniswap V3,snapshot,https://snapshot.org/#/draculasucks.eth/proposal/QmRVKSFjxTEdyn9bZim6WizH7X5Biqnkwe2RdWyR6Yi58E,2021-05-20,"#### Pros: 
+
+Users will be able to stake their DRC/ETH SLP through Dracula Protocol to earn both ETH and SUSHI.",direct
+Uniswap V3,snapshot,https://snapshot.org/#/bpro.eth/proposal/QmR1rTEAnmT4CwYvC3MpkBsddLuWc5v5fUvwKEgUW6gwVM,2021-05-24,This proposal suggests to re-adjust this distribution in a way that 50% (0.07 BPRO) will be distributed as rewards to SLP holders of the BPRO-ETH Sushiswap and Uniswap V2 pools.,direct
+edgeX Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/edgex,,EDGE token buybacks funded by edgeX protocol revenue.,buyback_other
+edgeX Perps,defillama_adapter,fees/edgex/index.ts,,EDGE token buybacks funded by edgeX protocol revenue.,
+Velodrome V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/velodrome-v2,,"Swap fees from staked LPs (fee × pool.balanceOf(gauge) / pool.totalSupply), forwarded to veVELO voters, plus external bribes.",unknown
+Velodrome V2,defillama_adapter,dexs/velodrome-v2/index.ts,,"Swap fees from staked LPs (fee × pool.balanceOf(gauge) / pool.totalSupply), forwarded to veVELO voters, plus external bribes.",
+Velodrome V2,snapshot,https://snapshot.org/#/stgdao.eth/proposal/0xa4558ffd23293318e9ab559202265a1bb3e26e9215effe3f3eea59f7c54fa166,2023-11-28,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Velodrome V2,snapshot,https://snapshot.org/#/人間非凈土各有各的苦.eth/proposal/0x8186c5e56346c7cc7d4227046cd74db2d8a19b77347d1491d4a78086bd47ef81,2023-12-01,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Velodrome V2,snapshot,https://snapshot.org/#/vksss03.eth/proposal/0x9b6d1093bbce1ee8cf3d6347aa686dad65407d2d254370546450c86542e5cd49,2023-12-10,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Velodrome V2,snapshot,https://snapshot.org/#/sardaralfa.eth/proposal/0x9a0c213b40379824f1f7cd07b1e8f7817dc17465d77e2198f458040dbe3a4b3d,2023-12-17,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Balancer V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/balancer-v2.ts,,Share of revenue to veBAL holders (None after 2026-04-23),fee_share_direct
+Balancer V2,defillama_adapter,dexs/balancer-v2.ts,,Share of revenue to veBAL holders (None after 2026-04-23),
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/Qmcyn5zdoGQs8nbo1nFroZiG2jWb8UEFPH9Y18cga3ESCJ,2021-09-02,"In the future, additional features or modifications / scope can be proposed and added to it, such as:
+
+-Staking BPT from BAL pools other than BAL/WETH
+-Distribution of protocol fees to vBPT holders
+-Vote boosting feature to provide additional voting power to BPT holders who stake for longer periods of time
+-Staking mechanism for L2s","direct,trans"
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xf6238d70f45f4dacfc39dd6c2d15d2505339b487bbfe014457eba1d7e4d603e3,2021-12-08,"The following non-exclusive list shall give you examples on what could be done with collected fees:
+
+Create a DAO treasury index fund to secure liquidity and sustainability of the DAO
+Buy back BAL and stake in the 80/20 pool
+Distribute parts of the revenue to protocol participants e.g.",bbd
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x9fe19c491cf90ed2e3ed9c15761c43d39fd1fb732a940aba8058ff69787ee90a,2022-02-10,"Gauge type 2) is BAL that will be distributed to veBAL holders, similarly to LM that is distributed today to LPs of the 80/20 BAL/ETH pool.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xd0d95dadb0537914ad724e95082ebb456cf6ad1aa4eff3915fefc5377caf530c,2022-03-18,"You receive 2,500 in stables and 166.67 BAL to be locked in veBAL for 6 months.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xd0d95dadb0537914ad724e95082ebb456cf6ad1aa4eff3915fefc5377caf530c,2022-03-18,"If we assume half of total contributors choose to max lock discounted veBAL, you get (5000 * 0.75) * 8.5 + (5000 * 0.75) * 8.5 * 2 = **$95,625 per month** in compensation, with $31,875 paid in stables and $63,750 paid in BAL at a 50% discount, locked for one year.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xd5082a814c4138511af3e98ac599fd5a73f767e6aa66f25138b3423f29493b27,2022-04-14,"The 80/20 balancer pool allows users to stake with 100% of NOTE tokens, proportional shares of NOTE and ETH, or 100% ETH to buy NOTE and stake all at once.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x2f746dedc0f399ebac3d3bbcc9f765a7f847b9cce62a53137b040a5e8e6f0ba4,2022-05-23,"Users can redeem `brinBAL` for their proportionate share of `pveBAL` and `BAL/ETH` (or in a single asset if they wish)
+
+This design has the advantage of guaranteeing liquidity for Pickle's `veBAL` derivative.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x2f746dedc0f399ebac3d3bbcc9f765a7f847b9cce62a53137b040a5e8e6f0ba4,2022-05-23,"DILL governance is currently upgrading so DILL holders receive 100% of protocol revenues generated by Pickle, in ETH, plus PICKLE anti-dilutive rewards.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x28bd2c5580f5a8effacdceb0aec52e9bc63987fa4f4a39f8b8223257ca4376cc,2022-06-30,"If we collect 40 wstETH in fees, the DAO would get 10 and 30 would be used to bribe for the wstETH pool for example.*
+
+*All bribes would be paid in USDC*
+
+A final component to this initiative is allocating the bribes across all major players in the veBAL ecosystem.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x28bd2c5580f5a8effacdceb0aec52e9bc63987fa4f4a39f8b8223257ca4376cc,2022-06-30,*Example: veBAL's share of fees from the wstETH/WETH pool is 30 wstETH.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x5c12d1838c1a873eab1beabc406940999c97cfff2564d967f8f4a385a6e7a021,2022-08-18,These fees will be paid out to MLP holders in ETH.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xa6eb1f43aaf137cd0d2f2df3dab2f431a369083e9462c49129cc6a734527da19,2022-12-01,"Furthermore, LQTY stakers earn ETH and LUSD as rewards.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xa6eb1f43aaf137cd0d2f2df3dab2f431a369083e9462c49129cc6a734527da19,2022-12-01,LUSD Chicken Bonds offer an amplified yield-earning and trading opportunity for LUSD holders while helping to reduce the stablecoin premium and improve its liquidity.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xccff97e1b157d001650658f34550ab8e42dff3c03dd62bbe0a4723f8938677f4,2023-04-18,**Value:** Swells swETH-bb-a-WETH pool will be the main source of liquidity for swETH holders.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xe9fa0968d93ab117d6ef28d139d19e5d9d728c0ed4c9581e2f7eb8c381e5ff45,2023-05-03,For pools designated as [Core Pools](https://forum.balancer.fi/t/bip-19-incentivize-core-pools-l2-usage/3329) these fees are paid out in the form of USDC incentives placed on Hidden Hand which can be earned by veBAL lockers by voting on the pools that generate these fees.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x4c0d6ba0052efde1245a94084cc3f4cbb34cd6e336883177de1571d0c9393cf8,2023-06-08,"**Market History & Value:** 
+* The current OHM POL pools on Balancer, OHM/DAI and OHM/ETH, are some of the highest volume and fee driving pools for veBAL holders.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x7f4463800339d027552cd2b636b229edd076dfd73779dbc019b9a930f72931e2,2023-07-12,"Furthermore, LQTY stakers earn ETH and LUSD as rewards.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xbe4c9b71a9d6882839a4c26b6e372da23c94cb33530d4a8dad33f660c28232d1,2023-11-30,Users will be asked to verify wallet ownership with a signed message on chain agreeing to the 75% cut and payment in USDC at the time of the attacks (precedent set by BIP-443).,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x9fe1a6db598e3224b84219228becf87861a29e8e6ae0409c66dde5e67c4919c2,2024-04-03,"In this case, Wonderland would receive a partial payout of the monthly USDC transfer, and the DAO would execute a clawback on the BAL vested, starting from the effective date of termination.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xb07ab604b5d172c4576e184164ed4b9132ebfeeb7f1fadc4972fced16d44455c,2024-08-07,"- [Rocket Pool](https://docs.rocketpool.net/overview/faq#what-tokens-does-rocket-pool-use)
+> * Staked FRAX (sFRAX) is an ERC4626 staking vault that distributes part of the Frax Protocol yield weekly to stakers denominated in FRAX stablecoins.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x41e2c92811aeee66ddf0cfcc354f011ab48c81a6840c639202c8175c223fa38d,2024-10-17,"PR With Payload:
+https://github.com/BalancerMaxis/multisig-ops/pull/1439
+
+**Summary:**
+Hinkal is a Shared Privacy Layer enabling Anonymity Staking of ETH to increase the privacy coverage for protocol users.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x23943580643d6704c970d2dd7ac406ce2141a8951ce6a2859256e48643bff2d9,2025-04-10,"waBasUSDC is the wrapped version of Aave's interest-bearing aBasUSDC on Base, which allows users to earn yield from USDC deposits in Aave.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xe8105f767f9c5ec24bbc3f32b200ad204db6102649868cf2f4c5bc5d2f5f6011,2025-04-10,"In short, the way to further align all parties leveraging the Balancer DEX is to share a portion of the revenue generated by their pools with them; in the form of USDC to be converted to veBAL.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x04f8cf4b93cca840d55377bb1c7b321cbdbaea5128d3b1a67e7ab2cab2c9e993,2025-05-08,"waBasUSDC is the wrapped version of Aave's interest-bearing aBasUSDC on Base, which allows users to earn yield from USDC deposits in Aave.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x93aaad0c7e6b6bd69ea9ef9406ee0590361083e14f22ba2b90b198148d04b7c3,2025-05-08,"waArbUSDCn is the wrapped version of Aave's interest-bearing aBasUSDC on Arbitrum, which allows users to earn yield from USDC deposits in Aave.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x8b2dc6ca0f4276bce199ce97fc8d13cbc510170d4206b6a53f9a26250c0724ae,2025-05-15,"## References/Useful Links
+
+- [Rocket Pool Website](https://rocketpool.net/)
+- [Rocket Pool Documentation](https://docs.rocketpool.net/)
+- [Rocket Pool GitHub](https://github.com/rocket-pool/rocketpool)
+- [Rocket Pool Twitter](https://twitter.com/rocket_pool)
+
+## Protocol Description
+
+Rocket Pool is a decentralized Ethereum staking protocol that allows users to stake ETH and receive rETH, a liquid",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x51fb3038446d691aee6b8330290418f3da452f7188bef83ffc9f94067460aa57,2025-05-22,"## References/Useful Links
+
+- [SmarDex Website](https://smardex.io/)
+- [SmarDex Documentation](https://docs.smardex.io/ultimate-synthetic-delta-neutral)
+- [SmarDex GitHub](https://github.com/SmarDex-Ecosystem)
+- [SmarDex Twitter](https://twitter.com/SmarDex)
+
+## Protocol Description
+
+SmarDex introduces **USDN**, a fully decentralized synthetic dollar designed to maintain a stable value around $1 w",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x09d30b0ad9969d5e296a3833fe92d22b1e7d8f6745fa7d9347ffc197671514f4,2025-06-05,"References/Useful Links
+
+Smardex
+
+* [Smardex Website]()
+* [Smardex Documentation](https://docs.smardex.io/)
+* [Smardex GitHub](https://github.com/smardex-ecosystem)
+* [Smardex Twitter]()
+
+Liquity
+
+* [Liquity Website](https://www.liquity.org/)
+* [Liquity Documentation](https://docs.liquity.org/)
+* [Liquity GitHub](https://github.com/liquity/bold/)
+* [Liquity Twitter](https://x.com/LiquityProtocol)
+",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xf3215010ab1f7fa49573e05fd4d10f780cb96994b63d32b370f48b2423cfee7d,2025-10-02,Generated yield by backing of the stablecoin is distributed to stablecoin stakers.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xf3215010ab1f7fa49573e05fd4d10f780cb96994b63d32b370f48b2423cfee7d,2025-10-02,"Currently a USD stablecoin, called USDp is deployed across 16 chains:
+
+* USDp: Parallel USD Stablecoin
+
+* sUSDp: Staked USDp (4626), receive yield from the stablecoin backing
+
+# **Motivation:**
+
+The role of the USDp/USDC StableSurge pool is to increase the on-chain liquidity of USDp, and connect the Parallel and Circle ecosystems.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x75c4ab3d93950a86e73e9507a817865074e83b4d1e115ed5a0a0180bd3157e15,2025-10-02,Generated yield by backing of the stablecoin is distributed to stablecoin stakers.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x75c4ab3d93950a86e73e9507a817865074e83b4d1e115ed5a0a0180bd3157e15,2025-10-02,"Currently a USD stablecoin, called USDp is deployed across 16 chains:
+
+* USDp: Parallel USD Stablecoin
+
+* sUSDp: Staked USDp (4626), receive yield from the stablecoin backing
+
+## **Frax**
+
+Frax Finance is a unified DeFi ecosystem issuing three “stable” assets—frxUSD (USD-pegged), FPI (CPI-indexed unit of account), and frxETH (ETH-pegged LSD with a yield-accruing sfrxETH).",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xeb5fd1093eadbc52ffcf82e4e879f6c9ee3de70ff9922f8f0d8087f7bef2e298,2025-10-16,Generated yield by backing of the stablecoin is distributed to stablecoin stakers.,direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xeb5fd1093eadbc52ffcf82e4e879f6c9ee3de70ff9922f8f0d8087f7bef2e298,2025-10-16,"Currently a USD stablecoin, called USDp is deployed across 16 chains:
+
+* USDp: Parallel USD Stablecoin
+
+* sUSDp: Staked USDp (4626), receive yield from the stablecoin backing
+
+## **Silo**
+
+The Silo Protocol is a non-custodial lending primitive that creates programmable risk-isolated markets known as silos.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xde10f920fcd4fc06946af1c0a22e52403e8a9fdb5b511c6c72dbddcb852f4f07,2025-12-12,"Fee Run Adjustment: On the next scheduled fee distribution run following approval:
+
+  * Deduct $6,257 USDC from the veBAL holder USDC allocation
+  * Add the equivalent amount to the QuantAMM partner transfer
+
+3.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0xfe354cf316ff05feaf42207e0b78fe3f12beaa017ffc8ae5afff401487ac0368,2026-01-08,"waBasUSDC is the wrapped version of Aave’s interest-bearing aBasUSDC on Base, which allows users to earn yield from USDC deposits in Aave.",direct
+Balancer V2,snapshot,https://snapshot.org/#/balancer.eth/proposal/0x7271327178bf9be6b2bfc98eb38b76bfe4416248ea557fea34a65cd8c139dc10,2026-04-03,"Distributions will be proportional to each holder’s veBAL balance, **retroactively snapshot to the moment of this proposal**, paid in stablecoins from the DAO Treasury.",direct
+Balancer V2,snapshot,https://snapshot.org/#/aragonchina/proposal/QmQnQZ2RLgvxFhY6kGKMDETbtoikZ5VeNYWwbU9jGj3AF8,2020-10-24,"The initial liquidity pools in Balancer include ANC, USDC and ANT, but it is more complex for ANC holders to supply the liquidity with three tokens and Uniswap is more popular and easy to use.",direct
+Balancer V2,snapshot,https://snapshot.org/#/dinero.xyz/proposal/0x4e135f3a20feaf2899f2b97253ad35662780a24223db24cf5766734e44ccd21e,2022-08-16,rlBTRFLY holders receive their ETH distribution from the sale of their portion of AURA Hidden Hand revenue.,direct
+Balancer V2,snapshot,https://snapshot.org/#/sdbal.eth/proposal/0x26533255f7c75c72bd65034fb3fa6a669e800962bf45164f4567a38cbe132a29,2022-08-18,These fees will be paid out to MLP holders in ETH.,direct
+Shadow Exchange CLMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/shadow-exchange.ts,,"The share of swap fees sent to xSHADOW holders by pools that have a gauge, plus the penalty paid by users who exit xSHADOW early, which is streamed to the remaining holders.",fee_share_direct
+Shadow Exchange CLMM,defillama_adapter,dexs/shadow-exchange.ts,,"The share of swap fees sent to xSHADOW holders by pools that have a gauge, plus the penalty paid by users who exit xSHADOW early, which is streamed to the remaining holders.",
+Shadow Exchange CLMM,snapshot,https://snapshot.org/#/forgottengov.eth/proposal/0x34464cbd61c8bc51664429ddb9ce8a299483959ac3c0a025e6ac88cb05c32bdd,2026-09-16,Free Mint & Public Sale: Open free claims for Wizard holders and public sales (payable in ETH or $SFRAG).,direct
+THENA FUSION,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/thena-v3.ts,,Money going to governance token holders,unknown
+THENA FUSION,snapshot,https://snapshot.org/#/eliteness.eth/proposal/0xa8671deadb6a1cc3f8c4d13b3eff89d12cda4940bbde8814d8eca61359eb08e2,2023-02-17,"### Staking
+Currently, over $36k is being staked to earn BNB at nearly 200% APR.",direct
+THENA FUSION,snapshot,https://snapshot.org/#/eliteness.eth/proposal/0xa8671deadb6a1cc3f8c4d13b3eff89d12cda4940bbde8814d8eca61359eb08e2,2023-02-17,"The earnings all converted to BNB and split as follows:
+
+### Staking
+74% is of BNB is shared by eTHENA Stakers
+
+### Bribes
+13.37% is sent back to Thena.fi DEX as Bribes to their stakeholders for voting on vAMM-eTHENA/WBNB pool, to stregthen exit liquidity.",direct
+THENA FUSION,snapshot,https://snapshot.org/#/eliteness.eth/proposal/0xa8671deadb6a1cc3f8c4d13b3eff89d12cda4940bbde8814d8eca61359eb08e2,2023-02-17,"- 73.26% will go to Stakers
+- 13.37% will go into Bribing
+- 13.37% will buyback & craft PoL
+
+#### Note:
+- If the change is accepted, 13.37% will be taken out for PoL repurchase first, and the remaining will be split as a percentage (%) between Bribes & Staking, totalling 100%.",bbd
+THENA FUSION,snapshot,https://snapshot.org/#/quollfi.eth/proposal/0x462c7f2f5ee7a511b68e05b89c3597c9467a77b05c602376a98d86ef0ded204f,2024-09-28,"The new fee distribution would allocate **85%** to the voters, with the remaining **15%** split equally among qTHE stakers, the treasury, and $QUO buybacks.",bbd
+THENA FUSION,snapshot,https://snapshot.org/#/eliteness.eth/proposal/0x30f651afdc5c83ac7bd4e359224d802e466adc7e22e08c3a167c3690fb84f6ca,2024-12-06,"This proposal seeks to adjust the Minting Fee of eTHENA, which is currently free (0% fees) to mint at [Eliteness.Network/ethena](https://Eliteness.Network/ethena)
+Anyone who holds veTHE, the Thena.fi governance token, can freely convert their veNFT into eTHENA and earn BNB rewards by staking eTHENA.",direct
+Pharaoh CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/pharaoh-exchange.ts,,User fees are distributed among holders.,fee_share_direct
+Pharaoh CL,defillama_adapter,dexs/pharaoh-exchange.ts,,User fees are distributed among holders.,
+Gains Network,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gains-network.ts,,Share of revenue to buy back and burn GNS tokens.,buyback_burn
+Gains Network,defillama_adapter,fees/gains-network.ts,,Share of revenue to buy back and burn GNS tokens.,
+Gains Network,snapshot,https://snapshot.org/#/yieldfarmingindex.eth/proposal/0xf3583842a7a59fd63c073ba36c2ae1ab79135087d23e879c88266e2455971351,2023-03-03,Users can stake $GNS to receive platform fees paid in DAI to deliver real yield without relying on token emissions.,direct
+Lighter Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/lighterv2,,LIT token buybacks from treasury. The protocol uses fees to buy back LIT tokens from the market.,buyback_other
+Lighter Perps,defillama_adapter,fees/lighterv2/index.ts,,LIT token buybacks from treasury. The protocol uses fees to buy back LIT tokens from the market.,
+Quickswap Dex,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/quickswap-v2.ts,,"Community receives 70% of the protocol revenue since Nov 4, 2025 (before that 80%) for buybacks.",buyback_other
+Quickswap Dex,defillama_adapter,dexs/quickswap-v2.ts,,"Community receives 70% of the protocol revenue since Nov 4, 2025 (before that 80%) for buybacks.",
+Quickswap Dex,snapshot,https://snapshot.org/#/snapshot.dcl.eth/proposal/QmVCfrGX892iaDLkp5dBNJRa93U2DVbg3JNcD14mfGvMS1,2022-05-19,MANA rewards will be distributed over 3 months to those that stake USDC-ICE LP bootstrap the pool.,direct
+Aster Spot,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/aster-spot,,"Aster token strategic buybacks from platform fees. Used to be burnt before Feb 2nd, 2026; from Jun 17th, 2026, 99% of daily platform fees buy back ASTER via TWAP on Aster Spot (wallet 0xa0edBaBcb48034e368de286b49F9603C7AfA1b60) and are distributed to veASTER stakers; an equal amount which is burned ",buyback_distribute
+Aster Spot,defillama_adapter,fees/aster-spot/index.ts,,"Aster token strategic buybacks from platform fees. Used to be burnt before Feb 2nd, 2026; from Jun 17th, 2026, ",
+PulseX V1,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+PulseX V1,snapshot,https://snapshot.org/#/aggris88.eth/proposal/bafkreigfgo45vr2ptaovosxcxs65fki6c2d2uegits7ytxgl2wrppkbkmm,2022-07-03,"-Method: 
+We will assign each individual wallet address for a candidate and create a single side staking for 2 years and with the incentive token buy more PLSX into their staking pool or the insentive/reward token will buy back PLSX and burn.",bbd
+Blackhole CLMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/blackhole-CL.ts,,"The remaining vault-routed swap fees, distributed to veBLACK voters.",fee_share_direct
+Blackhole CLMM,defillama_adapter,dexs/blackhole-CL.ts,,"The remaining vault-routed swap fees, distributed to veBLACK voters.",
+SpookySwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Share of swap fee goes to xBOO stakers.,fee_share_direct
+SpookySwap V2,snapshot,https://snapshot.org/#/spookyswap.eth/proposal/0xbc517462da29d63efc7fecc191c7c62901240b14418a2d030f2c3fd77a702ed4,2022-02-10,This proposal is for Spookyswap to offer bribes in the form of BOO OR FTM OR USDC to fBeets holders in return for their vote in the upcoming gauge vote within 2 weeks.,direct
+Joe V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/joeLiquidityBook.ts,,All revenue distributed to sJOE stakers,fee_share_direct
+Etherex CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/etherex.ts,,"Swap fees routed to xREX voters, the instant-exit penalty rebased to xREX stakers, and vote bribes distributed to voters.",fee_share_direct
+Etherex CL,defillama_adapter,dexs/etherex.ts,,"Swap fees routed to xREX voters, the instant-exit penalty rebased to xREX stakers, and vote bribes distributed to voters.",
+Camelot V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,22.5% of trading fees go to xGRAIL holders via Real Yield Staking.,fee_share_direct
+Camelot V2,snapshot,https://snapshot.org/#/speraxdao.eth/proposal/0x0352128e9ee47ba7850681331fb9cb1a5f7d3197b8b56a5f33f1349f5e54d762,2023-06-12,"Created: June 7, 2023
+Labels: # USDs-Parameters, # Yield-Strategies,
+
+## Simple Summary
+
+The team proposes to reintroduce USDT as a part of the USDs collateral basket and deposit it to Camelot USDT-USDC strategy that would generate USDs protocol yield for USDs holders and SPA stakers.",direct
+Lynex V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/lynex.ts,,Swap fees and bribes revenue distributed to LYNX governance token holders.,fee_share_direct
+Lynex V2,defillama_adapter,fees/lynex.ts,,Swap fees and bribes revenue distributed to LYNX governance token holders.,
+Apex Omni,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/apex-omni.ts,,50% of fees used to buy back APEX tokens on a weekly basis on random days of the week.,buyback_other
+Apex Omni,defillama_adapter,fees/apex-omni.ts,,50% of fees used to buy back APEX tokens on a weekly basis on random days of the week.,
+Equalizer Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/solidly.ts,,Money going to governance token holders,unknown
+KTX Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/gmxV1.ts,,30% of all collected fees goes to KTC stakers,fee_share_direct
+Pangolin V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniSubgraph.ts,,0.0425% of trade volume goes to token holders.,fee_share_direct
+Ramses CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/ramses-exchange-v2.ts,,"72% of swap fees allocated to token holders, plus all bribes paid to holders who vote.",fee_share_direct
+Ramses CL,defillama_adapter,dexs/ramses-exchange-v2.ts,,"72% of swap fees allocated to token holders, plus all bribes paid to holders who vote.",
+HMX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/perp88.ts,,Fees going to governance token holders,unknown
+WOOFi Swap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/woofi.ts,,Money going to governance token holders,unknown
+Chainflip AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/chainflip,,Fees collected from burning $FLIP.,unknown
+Chainflip AMM,defillama_adapter,fees/chainflip/index.ts,,Fees collected from burning $FLIP.,
+VVS Standard,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniSubgraph.ts,,0.08% of trade volume goes to token holders.,fee_share_direct
+Heaven,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/heaven-dex,,100% of the fees are used for buybacks,buyback_other
+Heaven,defillama_adapter,fees/heaven-dex/index.ts,,100% of the fees are used for buybacks,
+SUNSwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sunswap-v2.ts,,1/6 of all swap fees are used to buyback and burn SUN.,buyback_burn
+SUNSwap V2,defillama_adapter,fees/sunswap-v2.ts,,1/6 of all swap fees are used to buyback and burn SUN.,
+MUX Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/mux.ts,,Fees going to governance token holders,unknown
+MUX Perps,snapshot,https://snapshot.org/#/muxvote.eth/proposal/0x9fc14edfe5a1616482d2c354c031ca5a02d3a8ba1b86b408f8af95637f672adf,2023-07-27,"The new dynamic fee range can lead to a potential short-term protocol income decrease; MUXLP stakers, veMUX holders, and POL might earn less ETH.",direct
+MUX Perps,snapshot,https://snapshot.org/#/muxvote.eth/proposal/0x526efa22129d135e3522dbf299908af24daea7d7c631e367a578a37498671e68,2024-07-09,"### Proposal
+
+MUX contributors propose to update the protocol income distribution as follows:
+
+From
+
+* MUXLP Income Distribution
+  * Total Protocol Income × (70% × POR + 30%): Allocate for veMUX holders (in ETH)
+    * POR is the rate of Protocol Owned Liquidity
+  * Total Protocol Income × 70% × (1 - POR): Allocate for MUXLP stakers (in ETH)
+
+To
+
+* MUXLP Income Distribution
+  * Total Protocol Incom",direct
+Level Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/level-finance.ts,,20% of the total fees goes to LVL/LGO stakers,fee_share_direct
+Level Perps,snapshot,https://snapshot.org/#/level-finance.eth/proposal/0x7b3fc76e9cce727e955451281c3d6562737741522ab89993713cbf0ecf2320a6,2023-02-22,Affected LP’s may surrender their existing LLP tokens along with LVL rewards earned during their staking period in exchange for USDT at par.,direct
+Level Perps,snapshot,https://snapshot.org/#/level-finance.eth/proposal/0x1ee5e7c139d956e9f4a3a2945c6271eab9f3b700829b714eec4a8fcf1e0fe0b1,2023-08-14,- **Accelerated vesting**: Users may pay fees in USDT in order to vest and receive preLVL immediately.,direct
+Level Perps,snapshot,https://snapshot.org/#/level-finance.eth/proposal/0x1ee5e7c139d956e9f4a3a2945c6271eab9f3b700829b714eec4a8fcf1e0fe0b1,2023-08-14,"To vest and claim 1 preLVL token immediately, users will need to pay a 30% tax in USDT.",direct
+Level Perps,snapshot,https://snapshot.org/#/gearbox.eth/proposal/0xcc5516c706f450fba4856990eb43ec8da2af05ebd3d3c58aeab6b2ca8ae3f31e,2024-04-22,"## Motivation
+Token holder treasury is earning about $1M a month right now in hard assets (stables and ETH) which all go into the Reserve Fund by default, instead of idle assets like in most other protocols.","direct,trans"
+nest CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/nest,,Part of swap fees go to veNest lockers (based on the gauge rate - currently 100 % of the swap fees).,fee_share_direct
+nest CL,defillama_adapter,dexs/nest/index.ts,,Part of swap fees go to veNest lockers (based on the gauge rate - currently 100 % of the swap fees).,
+nest CL,snapshot,https://snapshot.org/#/frax.eth/proposal/0x9b58407d3ff44afb0c4ed6f69d031b6c9d0719f949e2a50a677ecf41f2c2a70b,2024-05-01,All ynETH is also earning ETH staking rewards on top of the boosted seeds.,direct
+nest CL,snapshot,https://snapshot.org/#/cvx.eth/proposal/0x51f24b4c839d6b846a32c15b1b10caef6f0efcb8d551a3c4fe3ed11fce0efed1,2024-05-01,All ynETH is also earning ETH staking rewards on top of the boosted seeds.,direct
+nest CL,snapshot,https://snapshot.org/#/veclev.eth/proposal/0xc83b821399de19c6fe8337b29ed83cb16c7ed76b109a1a40953682c6841b6095,2024-05-01,All ynETH is also earning ETH staking rewards on top of the boosted seeds.,direct
+nest CL,snapshot,https://snapshot.org/#/aladdindao.eth/proposal/0xd6f410fa1d3beecf36d74afccf27324235c3cca21214122566ddc0f9626fd62c,2024-05-01,All ynETH is also earning ETH staking rewards on top of the boosted seeds.,direct
+nest CL,snapshot,https://snapshot.org/#/sdfxs.eth/proposal/0x8e1fd856e2d9900805e9bf69236a95c7c480ceab5bcab6d02b273f9764039211,2024-05-01,All ynETH is also earning ETH staking rewards on top of the boosted seeds.,direct
+Hydrex Integral,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hydrex,,Protocol-generated revenue from DEX fees and Omni Liquidity fees distributed to governance token holders (excludes external bribes which are tracked in BribesRevenue).,fee_share_direct
+Hydrex Integral,defillama_adapter,fees/hydrex/index.ts,,Protocol-generated revenue from DEX fees and Omni Liquidity fees distributed to governance token holders (excludes external bribes which are tracked in BribesRevenue).,
+Adrena Protocol,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/f87f9543a7906b671a14395ef1e44db86a181100/dexs/adrena,,"20% to gov token holder, 10% to buyback gov token, 0% to protocol.",buyback_other
+Fulcrom Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/fulcrom-finance.ts,,20% of all collected fees goes to FUL stakers,fee_share_direct
+Fulcrom Perps,defillama_adapter,fees/fulcrom-finance.ts,,20% of all collected fees goes to FUL stakers,
+Orca DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/orca,,"40% of the 12% treasury share, used to buy ORCA and deposit it into the xORCA vault. Raised from 20% on 13 January 2026.",unknown
+Orca DEX,defillama_adapter,dexs/orca/index.ts,,"40% of the 12% treasury share, used to buy ORCA and deposit it into the xORCA vault. Raised from 20% on 13 January 2026.",
+Orca DEX,snapshot,https://snapshot.org/#/orcapod.eth/proposal/0x826bba37d0a12d299b300eacd672d44a9ea739f5bf1f9bc0bbd8cb9acd13d4cb,2021-11-05,We can use protocol revenue to buy back ORCA and distribute it to holders by increasing the worth of xORCA.,bbd
+up v3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/up-v3,,Voter fee share is measured from CLPool.gaugeFees() deltas plus CollectFees events and applied per token.,unknown
+up v3,defillama_adapter,dexs/up-v3/index.ts,,Voter fee share is measured from CLPool.gaugeFees() deltas plus CollectFees events and applied per token.,
+up v3,snapshot,https://snapshot.org/#/mstablegovernance.eth/proposal/QmdxuBcgiSzTsCobMRQDs9F589bdz19E7nQRGX84WAN1ew,2020-12-14,"This deposit box serves the following functions:
+
+- supporting the migration of funds
+- ensuring that recipients of system yield have a say in how it is distributed
+- ensuring long term alignment between mUSD savers and the mStable ecosystem
+
+SAVE's APY will be boosted for MTA Stakers and lockups will apply.","direct,trans"
+up v3,snapshot,https://snapshot.org/#/midasdollar.eth/proposal/QmNX7bxVqPyPbhwt7XSBq6YCnhMxn8axyhsvkmuGLdCa9t,2021-03-17,MDG holders who choose to stake in the Midas Gold Commision Committee will receive MDO stable income and MDS holders will enjoy higher stability and stable income stream from Midas Shares Boardroom as MDO will be bought and burned more from the MDG side.,"burn,direct"
+THORChain DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/thorchain-dex,,"Value to RUNE holders: the share of swap fees burned as RUNE (1% since 2026-09-12, 5% before), permanently removed from supply - the only component that accrues to every RUNE holder.",fee_share_direct
+THORChain DEX,defillama_adapter,fees/thorchain-dex/index.ts,,"Value to RUNE holders: the share of swap fees burned as RUNE (1% since 2026-09-12, 5% before), permanently removed from supply - the only component that accrues to every RUNE holder.",
+HyperSwap V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hyperswap-v3,,The three quarters of the protocol's share of swap fees that is used to buy back and burn SWAP.,buyback_burn
+HyperSwap V3,defillama_adapter,dexs/hyperswap-v3/index.ts,,The three quarters of the protocol,
+Nile CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/nile-exchange,,User fees are distributed among holders. 92% of collected fees. (is probably right because the distribution is dynamic.),fee_share_direct
+Nile CL,defillama_adapter,dexs/nile-exchange/index.ts,,User fees are distributed among holders. 92% of collected fees. (is probably right because the distribution is dynamic.),
+Kittenswap Algebra,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/kittenswap-algebra,,The share of fees from gauged pools that is handed to veKITTEN holders who voted for them.,fee_share_direct
+Kittenswap Algebra,defillama_adapter,dexs/kittenswap-algebra/index.ts,,The share of fees from gauged pools that is handed to veKITTEN holders who voted for them.,
+Aborean CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/aborean-cl,,"The voters' share of swap fees — all fees from staked liquidity plus a 10% cut of unstaked liquidity's fees — together with external bribes, all distributed to veABX voters.",fee_share_direct
+Aborean CL,defillama_adapter,dexs/aborean-cl/index.ts,,The voters,
+IntentX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/dexs/intent-x,,Fees going to governance token holders,unknown
+KyberSwap Elastic,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/kyberswap-elastic.ts,,"Holders who stake and participate in the KyberDAO get their share of the fees designated for rewards, currently set at 10% of trading fees",unknown
+Merchant Moe Liquidity Book,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/joeLiquidityBook.ts,,All revenue distributed to MOE stakers.,fee_share_direct
+Contango V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/contango,,Holders revenue represents 100% of the trading fees which are distributed to stakers.,fee_share_direct
+Contango V2,defillama_adapter,fees/contango/index.ts,,Holders revenue represents 100% of the trading fees which are distributed to stakers.,
+Helix Spot,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/injectiveBigQuery.ts,,100% of Helix spot exchange fees burned for INJ via the Injective auction (benefits INJ holders).,unknown
+Scale,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/solidly.ts,,Money going to governance token holders,unknown
+Scale,snapshot,https://snapshot.org/#/stgdao.eth/proposal/0xa4558ffd23293318e9ab559202265a1bb3e26e9215effe3f3eea59f7c54fa166,2023-11-28,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Scale,snapshot,https://snapshot.org/#/人間非凈土各有各的苦.eth/proposal/0x8186c5e56346c7cc7d4227046cd74db2d8a19b77347d1491d4a78086bd47ef81,2023-12-01,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Scale,snapshot,https://snapshot.org/#/vksss03.eth/proposal/0x9b6d1093bbce1ee8cf3d6347aa686dad65407d2d254370546450c86542e5cd49,2023-12-10,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+Scale,snapshot,https://snapshot.org/#/sardaralfa.eth/proposal/0x9a0c213b40379824f1f7cd07b1e8f7817dc17465d77e2198f458040dbe3a4b3d,2023-12-17,Yearn's Scale-Up Plan for Velodrome STG-USDC.e Incentives.,direct
+WigoSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/wigoswap.ts,,Money going to governance token holders,unknown
+Hydration DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hydration-dex,,"Omnipool protocol fees burned. The runtime burned all of them until 16 February 2025, half until 16 February 2026, and none since.",unknown
+Hydration DEX,defillama_adapter,dexs/hydration-dex/index.ts,,"Omnipool protocol fees burned. The runtime burned all of them until 16 February 2025, half until 16 February 2026, and none since.",
+Solidly V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/solidly-v3,,Money going to governance token holders,unknown
+PayCash,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paycash,,0.05% of commission for token burning.,unknown
+PayCash,defillama_adapter,fees/paycash/index.ts,,0.05% of commission for token burning.,
+MojitoSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+SolidLizard Dex,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+PotatoSwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/potatoswap.ts,,0.08% of swap volume is distributed to vePOT holders.,fee_share_direct
+PotatoSwap V2,defillama_adapter,dexs/potatoswap.ts,,0.08% of swap volume is distributed to vePOT holders.,
+BMX Classic Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/bmx.ts,,40% of all collected fees distributed to BMX stakers and BMX/wBLT LP stakers. Note: actual split varies by product,fee_share_direct
+BMX Classic Perps,snapshot,https://snapshot.org/#/bmxonbase.eth/proposal/0xe90bd49bc563c597622746877fa09171bc6843bb176dd08a57e4f2ce922cfd4f,2024-08-06,"wBLT-BMX and wMLT-BMX incentives)
+- 10% to BMX single-staking
+
+
+**Discussion:**
+*Here is an example scenario to better understand the yield earned through different scenarios:*
+
+John has $100,000 USDC and wants to maximize yield in the BMX ecosystem.",direct
+Aquarius Stellar,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/aqua-network,,"The protocol's 50% share of swap fees plus external bribes, all distributed to AQUA holders who voted for the markets where they were collected.",fee_share_direct
+Aquarius Stellar,defillama_adapter,dexs/aqua-network/index.ts,,The protocol,
+ApeSwap AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,"Of all DEX trading fees earned by ApeSwap, 50% are used to buy back and burn BANANA on a quarterly basis",buyback_burn
+Supernova CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/supernova-CL.ts,,"The remaining vault-routed swap fees, distributed to veNOVA voters.",fee_share_direct
+Supernova CL,defillama_adapter,dexs/supernova-CL.ts,,"The remaining vault-routed swap fees, distributed to veNOVA voters.",
+Strike Finance Perpetuals,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/strike-finance,,100% of all trading fees collected by the platform goes to $STRIKE holders.,fee_share_direct
+Strike Finance Perpetuals,defillama_adapter,fees/strike-finance/index.ts,,100% of all trading fees collected by the platform goes to $STRIKE holders.,
+Strike Finance Perpetuals,frozen_c_query,https://www.merriam-webster.com/dictionary/strike,"Sat, 03 Oct 2026 03:19:00 GMT",: a strike that is brought against an employer because of a dispute regarding economic benefits or conditions (as wages) Note: Workers engaged in an economic strike can legally be replaced permanently.,trans
+Strike Finance Perpetuals,discovery,https://www.merriam-webster.com/dictionary/strike,"Sat, 03 Oct 2026 03:19:00 GMT",: a strike that is brought against an employer because of a dispute regarding economic benefits or conditions (as wages) Note: Workers engaged in an economic strike can legally be replaced permanently.,trans
+Storm Trade,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/stormtrade,,Fees going to governance token holders,unknown
+Storm Trade,defillama_adapter,fees/stormtrade/index.ts,,${dailyFees * 0.3},
+Full Sail,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/fullsail-finance,,"Fees distributed to veSail token holders, including all swap fees allocated to holders and rebase oSail, excluding ProtocolRevenue.",fee_share_direct
+Full Sail,defillama_adapter,fees/fullsail-finance/index.ts,,"Fees distributed to veSail token holders, including all swap fees allocated to holders and rebase oSail, excluding ProtocolRevenue.",
+Morphex V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/morphex.ts,,30% of all collected fees are distributed to MPX stakers,fee_share_direct
+Synthetix V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/synthetix-v3.ts,,Fees are granted proportionally to LPs by tracking the profit and loss of the positions backed by Synthetix V3,unknown
+Synthetix V3,snapshot,https://snapshot.org/#/kwenta.eth/proposal/0x3da34a86c4cb87a025c59752c387c67cc11b1816f60dbc4849e7a5188c705f55,2024-01-04,"## Simple Summary
+Redistribute the USDC rewards earned from Synthetix V3 on Base to KWENTA stakers on Optimism.","direct,trans"
+Synthetix V3,snapshot,https://snapshot.org/#/kwenta.eth/proposal/0x3da34a86c4cb87a025c59752c387c67cc11b1816f60dbc4849e7a5188c705f55,2024-01-04,"## Abstract
+The treasuryDAO will use a Gnosis Safe on Base to capture, bridge, and redistribute the USDC rewards earned from Synthetix V3 to KWENTA V2 stakers on Optimism.","direct,trans"
+Synthetix V3,snapshot,https://snapshot.org/#/tlx.eth/proposal/0x58f1ce81e0fdd47b945fd3b4a0778574338e65e53ff37178466e7e4c96ad047f,2024-11-29,- TLX tokenholders will receive a pro rata distribution of 700k stablecoins 6 months after the start date defined in the transaction contract.,direct
+TLX Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/tlx-finance,,Fees going to governance token holders,unknown
+Hybra V4,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/hybra-v4.ts,,All revenue distributed to veHYBRA holders.,fee_share_direct
+Hybra V4,defillama_adapter,dexs/hybra-v4.ts,2025-11-20,All revenue distributed to veHYBRA holders.,dated_logic
+StellaSwap V4,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/stellaswap-v4,,83.5% of the 22% community vault to veSTELLA voters (~18.37% of total fees).,unknown
+StellaSwap V4,defillama_adapter,dexs/stellaswap-v4/index.ts,,83.5% of the 22% community vault to veSTELLA voters (~18.37% of total fees).,
+FlashTrade,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/f87f9543a7906b671a14395ef1e44db86a181100/fees/flashtrade.ts,,"Token holder revenue started from 2025-06-19, 0 before that date.",unknown
+Cellana Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/cellana-finance,,All swap fees are distributed to veCELL voters.,fee_share_direct
+Cellana Finance,defillama_adapter,dexs/cellana-finance/index.ts,,All swap fees are distributed to veCELL voters.,
+Quanto,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/quanto,,70% of fees are burned and 30% of trading fees distributed to QTO stakers.,fee_share_direct
+Cleopatra CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/cleopatra-exchange.ts,,User fees are distributed among holders.,fee_share_direct
+Cleopatra CL,defillama_adapter,fees/cleopatra-exchange.ts,,User fees are distributed among holders.,
+UniDex Perp,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/unidex.ts,,Fees going to the token holders,unknown
+UniDex Perp,defillama_adapter,fees/unidex.ts,,Fees going to the token holders,
+Ekubo,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/ekubo,,Amount of fees used to buy back and burn EKUBO tokens on Starknet.,buyback_burn
+Ekubo,defillama_adapter,dexs/ekubo/index.ts,,Amount of fees used to buy back and burn EKUBO tokens on Starknet.,
+Minswap DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/minswap,,Fee-sharing portion of the AMM trading fee distributed to MIN stakers.,fee_share_direct
+Minswap DEX,defillama_adapter,fees/minswap/index.ts,,Fee-sharing portion of the AMM trading fee distributed to MIN stakers.,
+Chronos V1,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+Flex Perpetuals,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/flexperp.ts,,Fees going to governance token holders,unknown
+Topaz CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/topaz-cl,,Entire swap fees and bribes go to holders,fee_share_direct
+Topaz CL,defillama_adapter,dexs/topaz-cl/index.ts,,Entire swap fees and bribes go to holders,
+Equilibre,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+Metropolis DLMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/metropolis-dlmm,,20% of the swap fees,unknown
+Metropolis DLMM,defillama_adapter,dexs/metropolis-dlmm/index.ts,,20% of the swap fees,
+Arbitrum Exchange V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ArbitrumExchange-v2.ts,,ARX stakers receive all fees.,unknown
+Arbitrum Exchange V2,defillama_adapter,fees/ArbitrumExchange-v2.ts,,ARX stakers receive all fees.,
+Hercules V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/hercules-v3.ts,,Money going to governance token holders,unknown
+Hercules V3,snapshot,https://snapshot.org/#/metislayer2.eth/proposal/0xbc10946ab8399d42f9615dd67462b0077fbd657f35235392070704cb073aedac,2023-06-28,"Dual-token design: Two tokens, TORCH and xTORCH, enable flexibility for vesting and DEX profit sharing in the form of USDC and ETH.",direct
+Kodiak V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/kodiak-v3.ts,,"From 2026-01-01, 60% of the 35% protocol revenue is used to buy $KDK on the open market (the Kodiak Reserve). Zero before 2026-01-01.",unknown
+Kodiak V3,defillama_adapter,dexs/kodiak-v3.ts,2026-01-01,"From 2026-01-01, 60% of the 35% protocol revenue is used to buy $KDK on the open market (the Kodiak Reserve). Zero before 2026-01-01.",dated_logic
+Paradex Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/paradex,,$DIME purchased with net protocol revenue.,unknown
+Paradex Perps,defillama_adapter,fees/paradex/index.ts,,$DIME purchased with net protocol revenue.,
+FVM Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/fvm-exchange.ts,,Money going to governance token holders,unknown
+SparkDEX V3.1,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sparkdex-v3-1,,Before 2026-05-18: 5% buyback-and-burn + 5% staking rewards. From 2026-05-18: 25% buyback-and-burn. Plus Early Staking redemption penalty burns.,buyback_burn
+SparkDEX V3.1,defillama_adapter,fees/sparkdex-v3-1/index.ts,,Before 2026-05-18: 5% buyback-and-burn + 5% staking rewards. From 2026-05-18: 25% buyback-and-burn. Plus Early Staking redemption penalty burns.,
+GIGA V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/giga-dex-cl,,Share of swap fees distributed to veGIGA stakers (all of the protocol's share).,fee_share_direct
+GIGA V3,defillama_adapter,dexs/giga-dex-cl/index.ts,,Share of swap fees distributed to veGIGA stakers (all of the protocol,
+Javsphere,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/javsphere,,Fees going to governance token holders,unknown
+GT3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gt3.ts,,Money going to governance token holders,unknown
+Alandale V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/alandale,,"Vault-routed swap fees, forwarded through the pool gauge to veLUTE voters. The fee vault sends its entire take to the gauge, so this equals Revenue.",unknown
+Alandale V3,defillama_adapter,dexs/alandale/index.ts,,"Vault-routed swap fees, forwarded through the pool gauge to veLUTE voters. The fee vault sends its entire take to the gauge, so this equals Revenue.",
+DODO AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/dodo-fees.ts,,Money going to governance token holders,unknown
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/QmeRQ4DTcBzAETWycrH43WVEj2MXovqgA7gPwSmQpavV8W,2021-06-11,"The fees collected will be utilized for two purposes: to buy back DODO tokens from the DODO-USDT liquidity pool on DODO and redistribute them to all vDODO holders, and to establish a multi-purpose community treasury.","bbd,trans"
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/QmeRQ4DTcBzAETWycrH43WVEj2MXovqgA7gPwSmQpavV8W,2021-06-11,"Reallocating a percentage of trading fees to buy back DODO tokens and then redistribute them to vDODO holders, and establish a community treasury are remarkably beneficial to DODO’s token holders and the DODO platform’s growth in the long run.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/QmeRQ4DTcBzAETWycrH43WVEj2MXovqgA7gPwSmQpavV8W,2021-06-11,"DIP-3 proposes that 80% of future trading fees on DODO will be distributed to liquidity providers (LPs), and 15% will be used for the buyback of DODO tokens (to then be distributed to vDODO holders as vDODO), and the remaining 5% will be used to fund a community treasury.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/QmeRQ4DTcBzAETWycrH43WVEj2MXovqgA7gPwSmQpavV8W,2021-06-11,"If DIP-3 is to be implemented, 0.24% of the total trading volume in the pool will be distributed to LPs as rewards, and 0.045% of the total trading volume will be used to buy back DODO Tokens (to then be distributed to vDODO holders as vDODO), and 0.015% of the total trading volume will be used to fund the community treasury.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/0x0e10c3820b2252ece6567a291d9a12f90a481c4160518390211e01c312c538c5,2021-12-09,"Ever since the DIP-3 proposal was passed, **80%** of the trading fee was allocated to the liquidity provider (LP), **15%** was used to repurchase DODOs and distribute them to vDODO holders in the form of vDODOs, and **5%** was used to establish a community vault.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/0x0e10c3820b2252ece6567a291d9a12f90a481c4160518390211e01c312c538c5,2021-12-09,"If this DIP-8 proposal is passed, then for the USDC-USDT (ETH) and BUSD-USDT (BSC) pools, the fee will be reduced to 0.002%, of which 75% will be used to repurchase DODOs and distribute them to vDODO holders in the form of vDODOs, and 25% will be used for the community vault.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/0x5efb7758844e23b62e81546f4e5cb4186901df581a1ec68ec44734d991fd4aab,2022-01-10,"In this case, the USDC-USDT (Polygon) pair fee will be 0.002%, of which 75% will be used to repurchase DODO and distribute to vDODO holders in the form of vDODO, and 25% will be used for the community vault.",bbd
+DODO AMM,snapshot,https://snapshot.org/#/dodobird.eth/proposal/0xc02cec84c294bcf38a1f6631bda776a865a7b4b23a1001621ffe75ceb705d196,2023-10-31,"Note: The proposed pause would only affect DODO emissions at a rate of 1 DODO per block and would NOT impact the 15% trading fee, which is used for DODO buybacks and subsequently distributed to vDODO holders.",bbd
+DefiTuna AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/defituna-amm,,"Share of revenue distributed to TUNA token holders, proportional to their share of the circulating TUNA supply (excluding the treasury's 500M)",fee_share_direct
+DefiTuna AMM,defillama_adapter,fees/defituna-amm/index.ts,,"Share of revenue distributed to TUNA token holders, proportional to their share of the circulating TUNA supply (excluding the treasury",
+Deepstate,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/deepstate,,"Protocol fees sent to the STATE vault for pro-rata redemption by STATE holders, until governance moved the protocol fee to the 2DEEP governor on 2026-09-22.",unknown
+Deepstate,defillama_adapter,dexs/deepstate/index.ts,,"Protocol fees sent to the STATE vault for pro-rata redemption by STATE holders, until governance moved the protocol fee to the 2DEEP governor on 2026-09-22.",
+BabyDogeSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+basedmarkets,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/based-markets.ts,,Fees going to governance token holders,unknown
+Navigator,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/navigator,,20% of revenue goes to buybacks,buyback_other
+Navigator,defillama_adapter,fees/navigator/index.ts,,20% of revenue goes to buybacks,
+Ferro,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/ferro.ts,,0.016% of swap volume goes to the token holders,fee_share_direct
+Ferro,defillama_adapter,fees/ferro.ts,,0.016% of swap volume goes to the token holders,
+FusionX V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV3.ts,,16.7% of swap fees go to token holders.,fee_share_direct
+DeepBook V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/deepbook-v3,,"DEEP burned out of collected trading fees, which permanently shrinks the token supply. Burns are settled in batches, so the amount burned on a given day does not match that day's fees.",unknown
+DeepBook V3,defillama_adapter,fees/deepbook-v3/index.ts,,"DEEP burned out of collected trading fees, which permanently shrinks the token supply. Burns are settled in batches, so the amount burned on a given day does not match that day",
+AshPerp,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/ash-perp,,Fees going to governance token holders,unknown
+stabble Stableswap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/stabble,,The 30% of swap fees sent to the stabble multisig treasury that funds the $STB staking pool.,unknown
+stabble Stableswap,defillama_adapter,dexs/stabble/index.ts,,The 30% of swap fees sent to the stabble multisig treasury that funds the $STB staking pool.,
+Beamex Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/beamex.ts,,20% of all collected fees are distributed to $stGLINT stakers,fee_share_direct
+Zeno Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/zeno.ts,,Fees going to governance token holders,unknown
+Swappi,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Swappi collects 20% swap fees for PPI buy back.,buyback_other
+Yaka V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/yakafinance,,The 88% share of trading fees paid to veYAKA holders.,fee_share_direct
+Yaka V2,defillama_adapter,dexs/yakafinance/index.ts,,The 88% share of trading fees paid to veYAKA holders.,
+Pearl V1,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+MagicSea AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+SundaeSwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/sundaeswap,,A percentage cut of the fixed ADA cost per transaction that is going to holders,fee_share_direct
+SundaeSwap V2,defillama_adapter,fees/sundaeswap/index.ts,,A percentage cut of the fixed ADA cost per transaction that is going to holders,
+PaintSwap on Fantom,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/paint-swap.ts,,Money going to governance token holders,unknown
+Swop,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/swop,,Revenue for stakers is 14% of all collected fees,unknown
+Swop,defillama_adapter,dexs/swop/index.ts,,Revenue for stakers is 14% of all collected fees | ${response.overall.day.governanceFee},
+Swop,frozen_c_query,https://grammarhow.com/swap-or-swop/,"Fri, 02 Oct 2026 11:05:00 GMT","The term “swap” means to make an exchange, giving something in a trade to receive something else, or switching something for another.",trans
+Swop,discovery,https://grammarhow.com/swap-or-swop/,"Fri, 02 Oct 2026 11:05:00 GMT","The term “swap” means to make an exchange, giving something in a trade to receive something else, or switching something for another.",trans
+Orvex,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/orvex.ts,,Portion of swap fees distributed to veORVX voters through the gauge/FeeDistributor flow (v2: 100% of fees; v4: fee minus protocolFee).,fee_share_direct
+Orvex,defillama_adapter,dexs/orvex.ts,,Portion of swap fees distributed to veORVX voters through the gauge/FeeDistributor flow (v2: 100% of fees; v4: fee minus protocolFee).,
+Amped Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/amped,,30% of revenue is distributed to AMPED stakers After TGE(25th July 2025).,fee_share_direct
+Covo V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/907a33a21a905e24de53272e391f73b262898e8b/fees/covo-v2.ts,,40% of all collected fees goes to COVO stakers,fee_share_direct
+SwapHood V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/swaphood-v3,,95% of the swap fees from gauged pools.,unknown
+SwapHood V3,defillama_adapter,dexs/swaphood-v3/index.ts,,95% of the swap fees from gauged pools.,
+SquadSwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+xExchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/xexchange,,0.05% of each swap is distributed to all accounts holding Energy (xMEX lockers) and 0.05% used for MEX buyback & burn.,buyback_distribute
+xExchange,defillama_adapter,dexs/xexchange/index.ts,,0.05% of each swap is distributed to all accounts holding Energy (xMEX lockers) and 0.05% used for MEX buyback & burn.,
+SMARDEX AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/smardex,,0.02% of each swap on Ethereum is collected for staking pool (SDEX holders that staked). On other chains staking is not available and fees are collected for buybacks SDEX and burns.,buyback_other
+SMARDEX AMM,defillama_adapter,fees/smardex/index.ts,,0.02% of each swap on Ethereum is collected for staking pool (SDEX holders that staked). On other chains staking is not available and fees are collected for buybacks SDEX and burns.,
+SMARDEX AMM,frozen_c_query,https://www.bitrue.com/blog/what-is-smardex-sdex,"Fri, 02 Oct 2026 19:41:00 GMT",SmarDex (SDEX) is a decentralized exchange that runs on automated smart contracts instead of centralized order books.,trans
+SMARDEX AMM,discovery,https://www.bitrue.com/blog/what-is-smardex-sdex,"Fri, 02 Oct 2026 19:41:00 GMT",SmarDex (SDEX) is a decentralized exchange that runs on automated smart contracts instead of centralized order books.,trans
+Gambit Trade,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/gambit.ts,,Fees allocated to protocol governance and stakers.,unknown
+Gambit Trade,defillama_adapter,fees/gambit.ts,,Fees allocated to protocol governance and stakers.,
+Grizzly Trade Perps,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/grizzly-trade.ts,,10% goes to MVX stakers and 25% are buyback and burn of GHNY,buyback_burn
+Voodoo Trade Base,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/voodoo-trade.ts,,"50% of all collected fees goes to the VMX token- 30% to VMX-ETH LP token stakers, 10% to esVMX stakers, 5% to buy and burns and 5% to buyback and liquidity provisioning",buyback_other
+Voodoo Trade Base,defillama_adapter,fees/voodoo-trade.ts,,"50% of all collected fees goes to the VMX token- 30% to VMX-ETH LP token stakers, 10% to esVMX stakers, 5% to buy and burns and 5% to buyback and liquidity provisioning",
+Viridian Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+Bonkswap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/bonkswap,,Swap fees allocated to buybacks.,buyback_other
+Bonkswap,defillama_adapter,fees/bonkswap/index.ts,,Swap fees allocated to buybacks.,
+Raphael Exchange CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/raphael-slipstream,,"Fees earned by staked liquidity (CLPool.stakedLiquidity / liquidity) plus the rake taken from unstaked liquidity, forwarded to veRAPH voters, plus external bribes.",unknown
+Raphael Exchange CL,defillama_adapter,dexs/raphael-slipstream/index.ts,,"Fees earned by staked liquidity (CLPool.stakedLiquidity / liquidity) plus the rake taken from unstaked liquidity, forwarded to veRAPH voters, plus external bribes.",
+Nether.Fi,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/nether-fi,,30% of all collected fees goes to NFI and esNFI stakers,fee_share_direct
+Bancor V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/bancor-v3.ts,,All revenue are used to buy back and burn vBNT tokens.,buyback_burn
+Bancor V3,defillama_adapter,dexs/bancor-v3.ts,,All revenue are used to buy back and burn vBNT tokens.,
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmSFX8HBWXb5NVqnFkwC3Zdmt2QzjCanNf8FjMmqVynnra,2021-03-29,"MPH staking pool to get DAI rewards (100% of the protocol's revenues are distributed to our stakers, no inflationary rewards, true cash dividends).",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmQA3ZPFXCAAJYzP5nkKpEdaRKPSxyWQ3tc5NxWu55F4Zt,2021-04-19,Participate in staking and earn WBTC or ETH.,direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmfPpTwdHxomSXJvsNwq3PVTkXQXheM2mYaMjSv3o3wRga,2021-05-17,"When using Lido to stake your ETH on the Ethereum beacon chain, users will receive a token (stETH), which represents their ETH on the Ethereum beacon chain on a 1:1 basis.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmfPpTwdHxomSXJvsNwq3PVTkXQXheM2mYaMjSv3o3wRga,2021-05-17,stETH balances will update correspondingly once per day allowing you to access on ETH 1.0 the value of your staking rewards received on ETH 2.0.,direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmfFM1HdznzSz9xh2AksbhwRP3bVhgthGbgA6jyuowdFbi,2021-05-17,Participate in staking and earn WBTC or ETH.,direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmabZp2qvRNLzGNeupQ42x4JdN3Pff28Svkpjqvro56kqz,2021-05-31,"When using Lido to stake your ETH on the Ethereum beacon chain, users will receive a token (stETH), which represents their ETH on the Ethereum beacon chain on a 1:1 basis.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmabZp2qvRNLzGNeupQ42x4JdN3Pff28Svkpjqvro56kqz,2021-05-31,stETH balances will update correspondingly once per day allowing you to access on ETH 1.0 the value of your staking rewards received on ETH 2.0.,direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmRsBT2QYi93Tk8UbfALdRYzhgYd8Wp1HETA1mPp6Tp2V9,2021-06-21,"Furthermore, LQTY can be staked to capture 100% of protocol fees (paid in LUSD & ETH) with no additional risks added such as token slashing to backstop the system.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmVqkZET4Sef5Xj9ahRXNkM7sAkBNg6pfL77VBAgh4fFgf,2021-07-05,"When using Lido to stake your ETH on the Ethereum beacon chain, users will receive a token (stETH), which represents their ETH on the Ethereum beacon chain on a 1:1 basis.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmVqkZET4Sef5Xj9ahRXNkM7sAkBNg6pfL77VBAgh4fFgf,2021-07-05,stETH balances will update correspondingly once per day allowing you to access on ETH 1.0 the value of your staking rewards received on ETH 2.0.,direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/QmWfEFC8bkA6N9GJqfdRUoMfu1J5miWfFGp3g844LZFjat,2021-08-15,"Furthermore, LQTY can be staked to capture 100% of protocol fees (paid in LUSD & ETH) with no additional risks added (such as token slashing) to backstop the system.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/Qmanm6dsiJ1hztineYgyWW5BCrZ4hAEjEPx6J99vVa6v8k,2021-08-29,"After the DAO is introduced, one of the main network upgrades that the community has been very vocal about is the token buyback and redistribution/burn of tokens (subject to community discussion).",bbd
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/0x1cbe15325cd4bdd1211ec10101edf24127c4c896ec24d4fbde8a66bd503c0fbf,2022-01-30,"Reserve Rights owner can stake their tokens on Reserve stablecoins, thereby earning a portion of the revenue that stablecoin earns.",direct
+Bancor V3,snapshot,https://snapshot.org/#/bancornetwork.eth/proposal/0xac15de4ae57748aad19b96ac4ad6f6ec399cfd60e009ff80c33519da95e7b45b,2022-02-13,"Token supply will never be changed, and supply distribution is as follows:
+
+* Total supply: 1,000,000,000 FODL
+
+* Initial DEX listing LP: 200,000,000 FODL
+
+* Initial Price: $0.025
+
+* Initial FDV: $25,000,000
+
+* Platform position rewards: 400,000,000 FODL
+
+* Treasury: Funded via Fodl buybacks
+
+* FODL LP staking rewards: 150,000,000 FODL
+
+* xFODL staking rewards: 50,000,000 FODL
+
+* Decentralized dev",bbd
+Bancor V3,snapshot,https://snapshot.org/#/krausehouse.eth/proposal/0x333944ce11c53951dfab92a999ab09ce55599b48e785133adbaba2b1cb8b5921,2022-04-08,"At time of writing this proposal - Bancor Yields for the assets requested to stake, are currently providing:
+
+`ETH`: ~4.08% APR
+`USDC`: ~29.73% APR
+
+Staking these idle assets will allow the DAO Treasury to earn **~$309,197** on the USDC and ETH side.",direct
+Bancor V3,snapshot,https://snapshot.org/#/krausehouse.eth/proposal/0x333944ce11c53951dfab92a999ab09ce55599b48e785133adbaba2b1cb8b5921,2022-04-08,"APR of:
+    ETH 4.08% | BNT 41.31% = ~$11,897 for providing ETH single-sided (paid in BNT, not including trading fees which are paid in ETH) | (Compound rewards received from adding ETH liquidity, by single-sided staking BNT, generating yield on the BNT liquidity provision)
+2.",direct
+Bancor V3,snapshot,https://snapshot.org/#/krausehouse.eth/proposal/0x333944ce11c53951dfab92a999ab09ce55599b48e785133adbaba2b1cb8b5921,2022-04-08,"APR of:
+    USDC 29.73% | BNT 44.53% = ~$297,300 for providing USDC single-sided (paid in BNT, not including trading fees which are paid in USDC) | (Compound rewards received from adding USDC liquidity, by single-sided staking BNT, generating yield on the BNT liquidity provision)
+
+The total prospective yields that can be generated would equate to **~$309,197** on the USDC and ETH side.",direct
+ICPSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/icpswap,,0.06% of each swap allocated to ICS token buybacks and burns.,buyback_other
+ICPSwap,defillama_adapter,dexs/icpswap/index.ts,,0.06% of each swap allocated to ICS token buybacks and burns.,
+Unlimited Network,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/1e8620166b5772c02e5e68e9dcd2cbb818724d69/dead/fees/unlimited-network.ts,,Fees going to governance token holders,unknown
+9mm V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/9mm.ts,,"The other half of the revenue, passed on to token holders.",fee_share_direct
+9mm V3,defillama_adapter,dexs/9mm.ts,,"The other half of the revenue, passed on to token holders.",
+SATOSHI PERPS,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/satoshi-perps,,Fees going to governance token holders,unknown
+E3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/e3.ts,,100% of Revenue is used to buyback ELITE.,buyback_other
+E3,defillama_adapter,fees/e3.ts,,100% of Revenue is used to buyback ELITE.,
+foxify,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/foxify,,30% of trading fees used to buy FOX and distribute it to stakers.,fee_share_direct
+foxify,defillama_adapter,dexs/foxify/index.ts,,30% of trading fees used to buy FOX and distribute it to stakers.,
+Auragi Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+Loxodrome AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/loxodrome-amm,,"Fees earned by veLOXO holders (locked LOXO governance token) through the ve(3,3) voting mechanism. Holders vote for pools and receive trading fees from those pools.",unknown
+Loxodrome AMM,defillama_adapter,dexs/loxodrome-amm/index.ts,,"Fees earned by veLOXO holders (locked LOXO governance token) through the ve(3,3) voting mechanism. Holders vote for pools and receive trading fees from those pools.",
+Volta Markets,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/volta-markets,,60% revenue goes to token holders,fee_share_direct
+Volta Markets,defillama_adapter,fees/volta-markets/index.ts,,${dailyFees * 0.6} | 60% revenue goes to token holders,
+Motoswap AMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/motoswap,,The share of the 0.70% protocol fee paid to MOTO stakers plus the share used to buy back and burn MOTO.,buyback_distribute
+Motoswap AMM,defillama_adapter,dexs/motoswap/index.ts,,The share of the 0.70% protocol fee paid to MOTO stakers plus the share used to buy back and burn MOTO.,
+Archly V1,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,veArc voters receive all protocol fees.,unknown
+Arctide DEX,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/arctide,,"70% of Revenue, used to buy back and burn $TIDE.",buyback_burn
+Arctide DEX,defillama_adapter,dexs/arctide/index.ts,,"70% of Revenue, used to buy back and burn $TIDE.",
+Omnidrome,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+MYX Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/myx-finance,,Fees going to governance token holders,unknown
+Virtus Protocol CL,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV3.ts,,Money going to governance token holders,unknown
+Ryze Protocol,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/ryze-protocol,,Money going to governance token holders,unknown
+sedge,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/sedge,,100% of fees go to liquidity providers.,unknown
+sedge,snapshot,https://snapshot.org/#/dfx.eth/proposal/0x10df40c325325df2b9079e821d7ede90c212ff19068c7a4f79e2dd454a541a0a,2022-10-30,"**Specification**
+
+During the to-be set campaign period, any user who provides liquidity to the TRYB-USDC pool, and stakes their LP tokens will be receiving additional TRYB/USDC rewards alongside their DFX rewards.",direct
+sedge,snapshot,https://snapshot.org/#/dfx.eth/proposal/0xa25ff397f0d96c96c69da0ba541405e1842df254334b3b960e9ea8805b744ad7,2023-05-23,"Once NGN hits this account from the API NGNC is minted and vice versa
+
+---
+### Pros:
+-NGNC is a stablecoin pegged 1:1 to the highest crypto holders and user nation in Africa.",direct
+Mog,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/mog.ts,,70% of profit fees fund MOG buybacks and burns.,buyback_other
+Mog,defillama_adapter,fees/mog.ts,,70% of profit fees fund MOG buybacks and burns.,
+FrothSwap,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/frothswap,,0.50% of swap fees are used to buy back and burn FROTH.,buyback_burn
+FrothSwap,defillama_adapter,dexs/frothswap/index.ts,,0.50% of swap fees are used to buy back and burn FROTH.,
+Keller Finance V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/keller-cl,,Money going to governance token holders,unknown
+Tapp Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/dexs/tapp-exchange,,Remaining swap fees distributed to veTAPP voters via the pool gauges.,fee_share_direct
+SMBSwap V2,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/smbswap-v2.ts,,Money going to governance token holders,unknown
+Goo Exchange CLMM,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/goo-exchange.ts,,"Half of the protocol fee, sent to a fee jar that auctions it for GOO and burns the GOO.",unknown
+Goo Exchange CLMM,defillama_adapter,dexs/goo-exchange.ts,,"Half of the protocol fee, sent to a fee jar that auctions it for GOO and burns the GOO.",
+FWX Derivatives,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/79df3bd74a7bab0e7f6358ec4b7d9c6991da159b/fees/fwx,,Fees going to governance token holders,unknown
+TrueCurrent,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/injectiveBigQuery.ts,,100% of Truecurrent exchange fees burned for INJ via the Injective auction (benefits INJ holders).,unknown
+Hydrometer Finance,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Money going to governance token holders,unknown
+DLMM KING Pools,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/sectorone-dlmm-v2,,Money going to governance token holders,unknown
+DLMM KING Pools,snapshot,https://snapshot.org/#/penpiexyz.eth/proposal/0x8ab72d763f61983147385a2259b902fb7fd1643c8b99dc2bd080054bcc3ed3ad,2024-08-07,"These changes underscore our commitment to optimize PNP’s distribution, aligning with Penpie’s long-term objectives of fostering a stable and rewarding environment for its stakeholders.",direct
+Archery V3,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/archery-v3,,Voter fee share is measured from CLPool.gaugeFees() deltas plus CollectFees events and applied per token.,unknown
+Archery V3,defillama_adapter,dexs/archery-v3/index.ts,,Voter fee share is measured from CLPool.gaugeFees() deltas plus CollectFees events and applied per token.,
+Solarflare,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/factory/uniV2.ts,,Solarflare collects 20% swap fees for FLARE buy back.,buyback_other
+Wombat Exchange,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/dexs/wombat-exchange,,Bribes revenue distributed to WOM voters.,unknown
+Wombat Exchange,defillama_adapter,dexs/wombat-exchange/index.ts,,Bribes revenue distributed to WOM voters.,
+SuiDex,defillama_methodology,https://github.com/DefiLlama/dimension-adapters/blob/master/fees/suidex,,"The portion the V2 pair contract directs to VICTORY holders: the lockers' revenue share and the buyback, together 20% of V2 swap fees, split equally. V3's protocol share is distributed to the team and is not contractually directed to holders, so it is protocol revenue only — even though part of it i",buyback_distribute
+SuiDex,defillama_adapter,fees/suidex/index.ts,,The portion the V2 pair contract directs to VICTORY holders: the lockers,

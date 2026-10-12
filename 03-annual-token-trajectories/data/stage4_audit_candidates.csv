@@ -1,0 +1,21 @@
+window,start,end,name,gecko_id,supply_chain,cg_supply_change_pct,onchain_change_pct
+W2,2024-10-01,2025-10-01,Stargate Finance,stargate-finance,ethereum,371.7,-19.5
+W3,2025-10-01,2026-10-01,Solv Protocol,solv-protocol,ethereum,271.9,0.0
+W2,2024-10-01,2025-10-01,ApeX Protocol,apex-token-2,ethereum,179.7,-16.7
+W3,2025-10-01,2026-10-01,LayerZero,layerzero,ethereum,212.6,0.4
+W3,2025-10-01,2026-10-01,EigenCloud,eigenlayer,ethereum,168.7,5.6
+W3,2025-10-01,2026-10-01,Morpho,morpho,ethereum,122.5,-0.0
+W2,2024-10-01,2025-10-01,CoWSwap,cow-protocol,ethereum,101.6,-0.0
+W1,2023-10-01,2024-10-01,Pendle,pendle,ethereum,86.9,0.0
+W2,2024-10-01,2025-10-01,Maverick Protocol,maverick-protocol,ethereum,81.1,-1.0
+W3,2025-10-01,2026-10-01,ether.fi,ether-fi,ethereum,75.6,-0.0
+W3,2025-10-01,2026-10-01,Lista DAO,lista,bsc,74.7,-0.0
+W3,2025-10-01,2026-10-01,SSV Network,ssv-network,ethereum,107.5,23.0
+W3,2025-10-01,2026-10-01,Orderly,orderly-network,ethereum,66.6,-0.4
+W3,2025-10-01,2026-10-01,Ondo Finance,ondo-finance,ethereum,54.6,-0.0
+W1,2023-10-01,2024-10-01,Compound Finance,compound-governance-token,ethereum,47.2,-0.0
+W3,2025-10-01,2026-10-01,Ethena,ethena,ethereum,46.5,0.0
+W2,2024-10-01,2025-10-01,Across,across-protocol,ethereum,46.3,0.0
+W3,2025-10-01,2026-10-01,Sushi,sushi,ethereum,48.7,1.9
+W3,2025-10-01,2026-10-01,Geodnet,geodnet,polygon,39.1,-1.8
+W2,2024-10-01,2025-10-01,PancakeSwap,pancakeswap-token,bsc,33.7,-4.5

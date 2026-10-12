@@ -1,0 +1,2315 @@
+group,slug,name,category,gecko_id,n_children,fees_all_time,excluded
+id#chain#ethereum,ethereum,Ethereum,Chain,,1,20584060314,no_gecko_id
+id#5009,tether,Tether,Stablecoin Issuer,,1,19898323417,no_gecko_id
+parent#circle,circle,Circle,Stablecoin Issuer,,4,7551359032,no_gecko_id
+parent#uniswap,uniswap,Uniswap,Dexs,uniswap,4,6060503804,
+id#chain#bitcoin,bitcoin,Bitcoin,Chain,,1,4445783961,no_gecko_id
+id#182,lido,Lido,Liquid Staking,lido-dao,1,3372833295,
+parent#opensea,opensea,OpenSea,NFT Marketplace,,3,2834704278,no_gecko_id
+parent#aave,aave,Aave,Lending,aave,3,2319542088,
+parent#pump,pump,Pump,Launchpad,pump-fun,4,2251436225,
+id#chain#tron,tron,Tron,Chain,,1,2141261004,no_gecko_id
+id#chain#bsc,bsc,BSC,Chain,,1,2082499460,no_gecko_id
+parent#jito,jito,Jito,MEV,jito-governance-token,3,1814765818,
+id#5809,flashbots,Flashbots,MEV,,1,1692580572,no_gecko_id
+parent#hyperliquid,hyperliquid,Hyperliquid,Derivatives,hyperliquid,3,1638941299,
+id#chain#solana,solana,Solana,Chain,,1,1615424397,no_gecko_id
+parent#pancakeswap,pancakeswap,PancakeSwap,Dexs,pancakeswap-token,6,1567949394,
+parent#meteora,meteora,Meteora,Dexs,meteora,4,1501719841,
+parent#raydium,raydium,Raydium,Dexs,raydium,2,1476852932,
+id#6102,axie-infinity,Axie Infinity,Gaming,axie-infinity,1,1413525694,excluded_category
+parent#maker,maker,Sky,CDP,sky,2,1265324553,
+parent#jupiter,jupiter,Jupiter,Derivatives,jupiter-exchange-solana,11,1125159436,
+parent#ethena,ethena,Ethena,Basis Trading,ethena,1,1056914357,
+parent#paxos,paxos,Paxos,Stablecoin Issuer,,2,957714720,no_gecko_id
+parent#axiom,axiom,Axiom Pro,Trading App,,2,765704200,no_gecko_id
+parent#curve-finance,curve-finance,Curve Finance,Dexs,curve-dao-token,4,724315253,
+id#7071,fragment,Fragment,NFT Marketplace,,1,721713187,no_gecko_id
+parent#sushi,sushi,Sushi,Dexs,sushi,6,713058290,
+parent#trader-joe,trader-joe,LFJ,Dexs,joe,6,617680243,
+id#1229,looksrare,LooksRare,NFT Marketplace,looksrare,1,611431533,
+parent#phantom,phantom,Phantom,Wallets,,2,593446359,no_gecko_id
+parent#compound-finance,compound-finance,Compound Finance,Lending,compound-governance-token,2,575994317,
+parent#aerodrome,aerodrome,Aerodrome,Dexs,aerodrome-finance,3,554960975,
+id#2914,binance-staked-eth,Binance staked ETH,Liquid Staking,,1,552625277,no_gecko_id
+parent#gmx,gmx,GMX,Derivatives,gmx,3,488479659,
+parent#astherus,astherus,Aster,Derivatives,aster-2,2,479610216,
+parent#polymarket,polymarket,Polymarket,Prediction Market,,3,448793528,no_gecko_id
+id#4981,photon,Photon,Trading App,,1,441941330,no_gecko_id
+parent#ether-fi,ether-fi,ether.fi,Liquid Staking,ether-fi,4,431723522,
+parent#spark,spark,Spark,Onchain Capital Allocator,spark-2,2,380239821,
+id#319,convex-finance,Convex Finance,Yield,convex-finance,1,375090063,
+parent#morpho,morpho,Morpho,Lending,morpho,2,361988599,
+parent#edgex,edgex,edgeX,Derivatives,edgex,2,347167536,
+id#5408,gmgn,GMGN,Trading App,,1,337210879,no_gecko_id
+parent#balancer,balancer,Balancer,Dexs,balancer,3,301701741,
+id#7359,titan-builder,Titan Builder,Block Builders,,1,275848530,no_gecko_id
+parent#marinade-finance,marinade-finance,Marinade,Liquid Staking,marinade,3,264013619,
+id#4695,bloxroute,bloXroute,MEV,,1,261307607,no_gecko_id
+parent#kamino-finance,kamino-finance,Kamino,Lending,kamino,2,252762032,
+parent#orca,orca,Orca,Dexs,orca,1,237506374,
+parent#sanctum,sanctum,Sanctum,Liquid Staking,sanctum-2,3,232793735,
+id#4293,trojan,Trojan,Telegram Bot,,1,227794587,no_gecko_id
+parent#quickswap,quickswap,Quickswap,Dexs,quickswap,5,227108118,
+parent#securitize,securitize,Securitize,RWA,securitize-corp,7,220908284,
+id#chain#base,base,Base,Chain,,1,217063050,no_gecko_id
+id#900,rocket-pool,Rocket Pool,Liquid Staking,rocket-pool,1,215479744,
+parent#metamask,metamask,MetaMask,Wallets,,4,211573131,no_gecko_id
+parent#maple-finance,maple-finance,Maple Finance,Lending,syrup,1,203454074,
+id#5407,bullx,BullX,Telegram Bot,,1,203027752,no_gecko_id
+parent#pons,pons,Pons,Launchpad,pons,2,191141004,
+id#5591,aethir,Aethir,Developer Tools,aethir,1,183205411,excluded_category
+id#3657,uniswap-labs,Uniswap Labs,Developer Tools,,1,182982639,no_gecko_id
+id#7134,grayscale,Grayscale,RWA,,1,181680928,no_gecko_id
+parent#bonkfun,bonkfun,BONK.fun,Telegram Bot,bonk,5,176313216,excluded_category
+id#412,thorchain-dex,THORChain DEX,Dexs,thorchain,1,174055946,
+id#5135,binance-staked-sol,Binance Staked SOL,Liquid Staking,,1,171875306,no_gecko_id
+id#chain#arbitrum,arbitrum,Arbitrum,Chain,,1,169935279,no_gecko_id
+id#3107,eigencloud,EigenCloud,Restaking,eigenlayer,1,162169014,
+parent#venus-finance,venus-finance,Venus,Lending,venus,2,159044347,
+id#7571,world-liberty-financial,World Liberty Financial,Lending,world-liberty-financial,1,153052212,
+parent#yearn,yearn,Yearn,Yield Aggregator,yearn-finance,3,150470820,
+parent#fluid,fluid,Fluid,Lending,instadapp,4,150308252,
+id#7677,hyper-foundation-hype-staking,Hyper Foundation HYPE Staking,Staking Pool,,1,149385337,no_gecko_id
+id#4990,dex-screener,DEX Screener,Coins Tracker,,1,147756162,no_gecko_id
+id#3019,maestro,Maestro,Telegram Bot,,1,144683131,no_gecko_id
+id#2522,nouns,Nouns,Services,,1,140287244,no_gecko_id
+parent#spookyswap,spookyswap,SpookySwap,Dexs,spookyswap,3,134214692,
+id#5587,base-app,Base App,Wallets,,1,127899453,no_gecko_id
+id#chain#polygon,polygon,Polygon,Chain,,1,121456662,no_gecko_id
+id#3882,meth-protocol,mETH Protocol,Liquid Staking,meth-protocol,1,113869674,
+id#2519,ens,ENS,Domains,ethereum-name-service,1,112848852,excluded_category
+parent#optimism-foundation,optimism-foundation,Optimism Foundation,Services,optimism,1,106063065,excluded_category
+id#6675,collector-crypt,Collector Crypt,Physical TCG,collector-crypt,1,105118688,excluded_category
+parent#cetus,cetus,Cetus,Dexs,cetus-protocol,2,102440470,
+parent#dydx,dydx,dYdX,Derivatives,dydx-chain,2,98688959,
+id#5174,four.meme,four.meme,Launchpad,,1,98310080,no_gecko_id
+parent#farcaster,farcaster,Farcaster,Launchpad,,2,95095123,no_gecko_id
+id#chain#avalanche,avalanche,Avalanche,Chain,,1,92068487,no_gecko_id
+id#chain#optimism,op-mainnet,OP Mainnet,Chain,,1,91808134,no_gecko_id
+id#6212,steakhouse-financial,Steakhouse Financial,Risk Curators,,1,89785381,no_gecko_id
+parent#euler,euler,Euler,Lending,euler,1,89394762,
+parent#ondo-finance,ondo-finance,Ondo Finance,RWA,ondo-finance,1,88138971,
+parent#liquity,liquity,Liquity,CDP,liquity,2,87891183,
+parent#biswap,biswap,Biswap,Dexs,biswap,1,87821225,
+id#3336,banana-gun,Banana Gun,Telegram Bot,banana-gun,1,87075285,excluded_category
+parent#kelp-dao,kelp-dao,KernelDAO,Liquid Restaking,kernel-2,1,86384391,
+id#chain#zksync-era,zksync-era,ZKsync Era,Chain,,1,86195572,no_gecko_id
+parent#fomo,fomo,fomo,Trading App,,2,85348950,no_gecko_id
+parent#synthetix,synthetix,Synthetix,Synthetics,havven,3,83877323,
+parent#lighter,lighter,Lighter,Derivatives,lighter,3,82099986,
+parent#abracadabra,abracadabra,Abracadabra,CDP,spell-token,1,77761489,
+parent#chainlink,chainlink,Chainlink,Services,chainlink,2,76222734,excluded_category
+parent#layerzero,layerzero,LayerZero,Bridge,layerzero,2,76090515,
+id#4983,flap-sh,Flap sh,Launchpad,,1,76079280,no_gecko_id
+parent#usual,usual,Usual,RWA,usual,1,75462006,
+id#5575,virtuals-protocol,Virtuals Protocol,AI Agents,virtual-protocol,1,74608094,excluded_category
+parent#benqi,benqi,Benqi,Liquid Staking,benqi,2,73647878,
+parent#tokenlon,tokenlon,Tokenlon,Dexs,tokenlon,1,72709685,
+id#7356,beaverbuild,BeaverBuild,Block Builders,,1,71488072,no_gecko_id
+parent#blur,blur,Blur,NFT Marketplace,blur,1,70820755,
+parent#frax-finance,frax-finance,Frax Finance,Liquid Staking,frax-share,5,70286759,
+id#2643,cowswap,CoWSwap,DEX Aggregator,cow-protocol,1,69828501,
+parent#moonshot,moonshot,Moonshot.com,Trading App,,2,69155576,no_gecko_id
+parent#centrifuge,centrifuge,Centrifuge,RWA,centrifuge-2,1,69111942,
+parent#sun,sun,SUN,Dexs,sun-token,4,68930008,
+parent#drift,drift,Drift,Derivatives,drift-protocol,2,68275461,
+parent#pendle,pendle,Pendle,Yield,pendle,2,67731120,
+id#383,osmosis-dex,Osmosis DEX,Dexs,osmosis,1,66465331,
+id#7583,grove-finance,Grove Finance,Onchain Capital Allocator,grove-2,1,65119047,
+parent#bancor,bancor,Bancor,Dexs,bancor,2,64935376,
+id#7010,tradexyz,tradeXYZ,Interface,,1,64393877,no_gecko_id
+id#6332,bags,Bags,Launchpad,,1,64378928,no_gecko_id
+parent#friend-tech,friend-tech,friend.tech,SoFi,friend-tech,1,64308465,excluded_category
+id#6764,courtyard,Courtyard,Physical TCG,,1,63821923,no_gecko_id
+id#5806,bloom-trading-bot,Bloom Trading Bot,Gaming,,1,62838072,no_gecko_id
+parent#doublezero,doublezero,DoubleZero,Liquid Staking,doublezero,3,62792539,
+parent#dodo,dodo,DODO,Dexs,dodo,1,62776970,
+id#1018,gains-network,Gains Network,Derivatives,gains-network,1,62724458,
+id#3594,coinbase-wrapped-staked-eth,Coinbase Wrapped Staked ETH,Liquid Staking,,1,62524560,no_gecko_id
+parent#synfutures,synfutures,SynFutures,Derivatives,synfutures,1,61385047,
+id#355,gamma,Gamma,Liquidity Manager,gamma-strategies,1,58121753,
+id#6202,gauntlet,Gauntlet,Risk Curators,,1,57999256,no_gecko_id
+id#8024,ripple-usd,Ripple USD,Stablecoin Issuer,,1,57344782,no_gecko_id
+id#5825,veda,Veda,Onchain Capital Allocator,,1,55767347,no_gecko_id
+parent#solv-protocol,solv-protocol,Solv Protocol,Bridge,solv-protocol,1,55454593,
+parent#camelot,camelot,Camelot,Dexs,camelot-token,2,54682533,
+id#6809,tokenworks,TokenWorks,NFT Automated Strategies,,1,54343868,no_gecko_id
+parent#pangolin,pangolin,Pangolin,Dexs,pangolin,2,54179150,
+id#4909,soltradingbot,SolTradingBot,Telegram Bot,soltradingbot,1,53871872,excluded_category
+parent#shibaswap,shibaswap,ShibaSwap,Dexs,bone-shibaswap,2,53052079,
+parent#near-protocol,near-protocol,NEAR Protocol,Bridge,near,2,52602267,
+id#3933,renzo,Renzo,Liquid Restaking,renzo,1,51562776,
+id#2511,hawkfi,HawkFi,Liquidity Manager,hawksight,1,50117846,
+parent#sosovalue,sosovalue,SoSoValue,Indexes,sosovalue,4,49514129,
+id#4959,metaplex,Metaplex,Launchpad,metaplex,1,49430492,
+parent#suilend-protocol,suilend-protocol,Suilend Protocol,Lending,suilend,4,49378755,
+parent#bluefin,bluefin,Bluefin,Dexs,bluefin,4,48660759,
+id#643,geist-finance,Geist Finance,Lending,geist-finance,1,47278805,
+parent#velodrome,velodrome,Velodrome,Dexs,velodrome-finance,3,46686134,
+id#chain#robinhood,robinhood-chain,Robinhood Chain,Chain,,1,46519086,no_gecko_id
+parent#kyberswap,kyberswap,KyberSwap,DEX Aggregator,kyber-network-crystal,3,46194751,
+id#chain#starknet,starknet,Starknet,Chain,,1,45898793,no_gecko_id
+id#4932,ostium,Ostium,Derivatives,,1,44657666,no_gecko_id
+parent#sentora,sentora,Sentora,Risk Curators,,1,43496180,no_gecko_id
+id#3391,liquid-collective,Liquid Collective,Liquid Staking,,1,43135134,no_gecko_id
+id#6516,wisdomtree,WisdomTree,RWA,,1,43067310,no_gecko_id
+id#6444,project-x,Project X,Dexs,,1,42947046,no_gecko_id
+id#chain#scroll,scroll,Scroll,Chain,,1,42935241,no_gecko_id
+parent#stakewise,stakewise,StakeWise,Liquid Staking,stakewise,1,42326269,
+id#6623,catfee,CatFee,Developer Tools,,1,42000713,no_gecko_id
+parent#apex-protocol,apex-protocol,ApeX Protocol,Derivatives,apex-token-2,2,41185437,
+id#6893,ore-protocol,ORE Protocol,Gamified Mining,ore,1,41059054,excluded_category
+id#6159,launch-coin-on-believe,Launch Coin on Believe,Launchpad,ben-pasternak,1,40910922,
+parent#pulsex,pulsex,PulseX,Dexs,pulsex,3,40587122,
+parent#navi-protocol,navi-protocol,NAVI Protocol,Lending,navi,3,40163613,
+id#7340,bankr,Bankr,Interface,bankercoin-2,1,40055369,
+parent#lista-dao,lista-dao,Lista DAO,Liquid Staking,lista,7,39708869,
+parent#superstate,superstate,Superstate,RWA,,2,39572450,no_gecko_id
+id#chain#injective,injective,Injective,Chain,,1,39233367,no_gecko_id
+parent#shadow-exchange,shadow-exchange,Shadow Exchange,Dexs,shadow-2,2,39198020,
+id#6243,berachain-incentive-buys,Berachain Incentive Buys,Chain,,1,39163668,no_gecko_id
+parent#kinetiq,kinetiq,Kinetiq,Liquid Staking,kinetiq,7,38928003,
+id#1918,aura,Aura,Yield,aura-finance,1,38334262,
+id#7016,antarctic,Antarctic,Derivatives,,1,38213672,no_gecko_id
+id#4873,midas-rwa,Midas RWA,RWA,,1,38148959,no_gecko_id
+parent#trust-wallet,trust-wallet,Trust Wallet,Wallets,trust-wallet-token,2,38136494,excluded_category
+id#7514,nozomi,Nozomi,Developer Tools,,1,37640196,no_gecko_id
+parent#puffer-finance,puffer-finance,Puffer Finance,Liquid Restaking,puffer-finance,2,37178020,
+parent#apeswap,apeswap,ApeBond,Dexs,abond,1,37115992,
+parent#stargate-finance,stargate-finance,Stargate Finance,Cross Chain Bridge,stargate-finance,2,36869571,
+id#chain#fantom,fantom,Fantom,Chain,,1,36553235,no_gecko_id
+parent#resolv,resolv,Resolv,Basis Trading,resolv,1,36384792,
+id#6208,mev-capital,MEV Capital,Risk Curators,,1,35333281,no_gecko_id
+parent#level-finance,level-finance,Level Finance,Derivatives,level,1,34326504,
+parent#extended,extended,Extended,Derivatives,,1,34239393,no_gecko_id
+parent#Edge,Edge,Vertex Edge,Derivatives,vertex-protocol,2,33330701,
+parent#mux-protocol,mux-protocol,MUX Protocol,Derivatives,mcdex,1,33244832,
+id#703,goldfinch,Goldfinch,Uncollateralized Lending,goldfinch,1,32770162,
+parent#pharaoh-exchange,pharaoh-exchange,Pharaoh Exchange,Dexs,pharaoh-2,5,32728376,
+id#5751,concrete,Concrete,Onchain Capital Allocator,concrete,1,32598579,
+parent#spiritswap,spiritswap,SpiritSwap,Dexs,spiritswap,1,32083466,
+parent#synapse,synapse,Synapse,Cross Chain Bridge,synapse-2,2,31783264,
+id#8450,stonkfun,StonkFun,Launchpad,stonk-3,1,31440689,
+id#5460,upshift,Upshift,Onchain Capital Allocator,,1,31215214,no_gecko_id
+parent#thena,thena,THENA,Dexs,thena,4,30988864,
+id#3168,foundation,Foundation,NFT Marketplace,,1,29725315,no_gecko_id
+parent#swell,swell,Swell,Liquid Staking,swell-network,2,29555078,
+id#1462,debridge,deBridge,Bridge,debridge,1,29536330,
+parent#radiant,radiant,Radiant,Lending,radiant-capital,1,29493361,
+id#3106,unibot,Unibot,Telegram Bot,unibot,1,29278050,excluded_category
+id#3871,wildcat-protocol,Wildcat Protocol,Uncollateralized Lending,,1,29267928,no_gecko_id
+id#6190,usd-ai,USD AI,RWA,chip-2,1,29088919,
+parent#li.fi,li.fi,Li.Fi,Bridge Aggregator,,2,28901883,no_gecko_id
+id#chain#cardano,cardano,Cardano,Chain,,1,27694489,no_gecko_id
+parent#origin-defi,origin-defi,Origin Protocol,Liquid Staking,origin-protocol,4,27686539,
+id#6771,yield-basis,Yield Basis,Leveraged Farming,yield-basis,1,27658497,
+parent#moonwell,moonwell,Moonwell,Lending,moonwell-artemis,2,27637214,
+parent#ktx.finance,ktx.finance,KTX.Finance,Derivatives,ktx-finance,1,27237701,
+id#5179,bybit-staked-sol,Bybit Staked SOL,Liquid Staking,,1,27222493,no_gecko_id
+id#5351,mantle-restaking,Mantle Restaking,Liquid Restaking,,1,27119551,no_gecko_id
+id#chain#bitlayer,bitlayer,Bitlayer,Chain,,1,25770261,no_gecko_id
+id#chain#sui,sui,Sui,Chain,,1,25574641,no_gecko_id
+id#5129,predict-fun,Predict Fun,Prediction Market,,1,24731240,no_gecko_id
+id#4108,veranta,Veranta,Derivatives,avantis,1,24458876,
+id#6200,euler-dao,Euler DAO,Risk Curators,,1,24181496,no_gecko_id
+parent#chainflip,chainflip,Chainflip,Dexs,chainflip,1,23991226,
+parent#noxa,noxa,NOXA,Launchpad,,3,23788648,no_gecko_id
+id#2931,blazestake,BlazeStake,Liquid Staking,solblaze,1,23608064,
+id#1053,mooniswap,MooniSwap,Dexs,,1,23255532,no_gecko_id
+parent#desk,desk,DESK,Derivatives,hmx,2,23006392,
+parent#justlend,justlend,JustLend,Lending,just,1,22853143,
+parent#save-protocol,save-protocol,Save Protocol,Lending,save,2,22809361,
+id#1108,gearbox,Gearbox,Lending,gearbox,1,22789390,
+parent#the-vault,the-vault,The Vault,Liquid Staking,vault-2,1,22785524,
+id#4495,yolo-games,YOLO Games,Gaming,yolo-games,1,22530602,excluded_category
+id#5241,m0,M0,Stablecoin Issuer,,1,22235136,no_gecko_id
+id#2251,stride,Stride,Liquid Staking,stride,1,21913067,
+id#2981,kwenta,Kwenta,Derivatives,kwenta,1,21771837,
+parent#defi-saver,defi-saver,Defi Saver,CDP Manager,,2,21460924,no_gecko_id
+id#chain#icp,icp,ICP,Chain,,1,21150277,no_gecko_id
+id#6599,binance-alpha,Binance Alpha,Launchpad,,1,21111161,no_gecko_id
+id#1351,wigoswap,WigoSwap,Dexs,wigoswap,1,20859950,
+parent#blackhole,blackhole,Blackhole,Dexs,blackhole,2,20518593,
+parent#fjord-foundry,fjord-foundry,Fjord Foundry,Launchpad,fjord-foundry,2,20473213,
+id#2337,ston.fi,STON.fi,Dexs,ston-2,1,20433807,
+parent#nado,nado,Nado,Derivatives,,2,20097448,no_gecko_id
+id#894,velora,Velora,DEX Aggregator,velora,1,19988651,
+id#7695,anchorage-by-figment-hype-staking,Anchorage By Figment HYPE Staking,Staking Pool,,1,19963529,no_gecko_id
+parent#metronome,metronome,Metronome,Synthetics,metronome,1,19862328,
+id#2187,dolomite,Dolomite,Lending,dolomite,1,19264962,
+id#7266,hastra,Hastra,RWA,,1,18977977,no_gecko_id
+id#1207,across,Across,Cross Chain Bridge,across-protocol,1,18854718,
+parent#ring-protocol,ring-protocol,Ring Protocol,Dexs,ring-protocol,1,18822781,
+id#5728,looter,Looter,Trading App,looter,1,18790383,
+parent#lifinity,lifinity,Lifinity,Dexs,lifinity,1,18682927,
+id#1173,jpool,JPool,Liquid Staking,,1,18657392,no_gecko_id
+parent#vvs-finance,vvs-finance,VVS Finance,Dexs,vvs-finance,2,18603274,
+id#6005,momentum,Momentum,Dexs,momentum-3,1,18534001,
+id#chain#near,near,Near,Chain,,1,18172355,no_gecko_id
+parent#gacha,gacha,Gacha,Physical TCG,,2,18155173,no_gecko_id
+id#221,defi-swap,Defi Swap,Dexs,crypto-com-chain,1,18141476,
+id#4980,spiko,Spiko,RWA,,1,18052940,no_gecko_id
+parent#scallop,scallop,Scallop,Lending,scallop-2,1,17980462,
+parent#paradex,paradex,Paradex,Derivatives,paradex,2,17874704,
+parent#dragon-swap,dragon-swap,Saphyre,Dexs,dragonswap,3,17861577,
+parent#magpie-ecosystem,magpie-ecosystem,Magpie Ecosystem,Yield,,4,17829821,several_gecko_ids
+id#5864,tronsave,TRONSAVE,Services,,1,17754639,no_gecko_id
+id#2,wbtc,WBTC,Bridge,,1,17729648,no_gecko_id
+id#6926,opinion,OPINION,Prediction Market,opinion,1,17527171,
+id#chain#ton,ton,TON,Chain,,1,17452237,no_gecko_id
+id#4367,echelon-market,Echelon Market,Lending,echelon-token,1,17373542,
+id#122,nexus-mutual,Nexus Mutual,Insurance,nxm,1,17309571,
+parent#tonstakers,tonstakers,Tonstakers,Liquid Staking,,1,17243215,no_gecko_id
+parent#based,based,Based,Interface,based-one,5,17235924,
+parent#avant-protocol,avant-protocol,Avant Protocol,Onchain Capital Allocator,,3,17148133,no_gecko_id
+id#1044,stader,Stader,Liquid Staking,stader,1,17010834,
+parent#silo-finance,silo-finance,Silo Finance,Lending,silo-finance-2,3,16966345,
+parent#fake-world-assets,fake-world-assets,Fake World Assets,Luck Games,fake-world-assets,2,16928412,excluded_category
+id#7930,huma,Huma,RWA,huma-finance,1,16903628,
+id#7357,quasar-builder,Quasar Builder,Block Builders,,1,16889391,no_gecko_id
+id#6432,onre,OnRe,RWA,,1,16877002,no_gecko_id
+parent#hyperswap,hyperswap,HyperSwap,Dexs,hyperswap,3,16815836,
+parent#bifrost-protocol,bifrost-protocol,Bifrost Protocol,Liquid Staking,bifrost-native-coin,1,16737869,
+parent#felix,felix,Felix,Onchain Capital Allocator,,4,16503956,no_gecko_id
+id#5006,dextools,DEXTools,Coins Tracker,dextools,1,16390994,
+id#7686,hypurrscan-hype-staking,HypurrScan HYPE Staking,Staking Pool,,1,15957809,no_gecko_id
+id#5410,debank-cloud,DeBank Cloud,Developer Tools,,1,15943469,no_gecko_id
+id#chain#tezos,tezos,Tezos,Chain,,1,15893174,no_gecko_id
+parent#fulcrom,fulcrom,Fulcrom,Derivatives,fulcrom,1,15879079,
+id#6684,phygitals,Phygitals,Physical TCG,,1,15661586,no_gecko_id
+parent#rabby,rabby,Rabby,Wallets,,2,15588868,no_gecko_id
+id#7680,nansen-hypurrcollective-hype-staking,Nansen-HypurrCollective HYPE Staking,Staking Pool,,1,15584579,no_gecko_id
+parent#etherex,etherex,Etherex,Dexs,etherex,2,15509993,
+parent#phoenix,phoenix,Phoenix,Dexs,,2,15472307,no_gecko_id
+id#chain#hyperevm,hyperliquid-l1,Hyperliquid L1,Chain,,1,15434947,no_gecko_id
+parent#lyra,lyra,Derive,Derivatives,derive,3,15305059,
+id#4107,flashtrade,FlashTrade,Derivatives,flash-trade,1,15300007,
+parent#okx-dex,okx-dex,OKX DEX,DEX Aggregator,,1,15236328,no_gecko_id
+id#5788,unit,Unit,Bridge,,1,15028137,no_gecko_id
+id#6522,immutable-orderbook,Immutable Orderbook,NFT Marketplace,,1,15019807,no_gecko_id
+id#3344,fx-protocol,fx Protocol,Dual-Token Stablecoin,fxn-token,1,14932453,
+id#1895,sideshift,SideShift,Cross Chain Bridge,sideshift-token,1,14626382,
+id#8267,hyperliquid-strategies-hype-staking,Hyperliquid Strategies HYPE Staking,Staking Pool,,1,14549113,no_gecko_id
+id#5234,stables-labs-usdx,Stables Labs USDX,Basis Trading,usdx-money-usdx,1,14475709,
+parent#uncx-network,uncx-network,UNCX Network,Token Locker,unicrypt-2,1,14402816,excluded_category
+id#7092,accountable,Accountable,Uncollateralized Lending,,1,14355629,no_gecko_id
+id#7024,godl-protocol,GODL protocol,Gamified Mining,godl-2,1,14314841,excluded_category
+id#3723,paal-ai,PAAL AI,Telegram Bot,paal-ai,1,14267697,excluded_category
+id#chain#doge,doge,Doge,Chain,,1,14219014,no_gecko_id
+parent#zora,zora,ZORA Protocol,Launchpad,zora,2,14184915,
+id#5181,limitless-exchange,Limitless Exchange,Prediction Market,limitless-3,1,14128801,
+parent#orderly-network,orderly-network,Orderly,Derivatives,orderly-network,1,14121782,
+parent#stake.link,stake.link,stake.link,Liquid Staking,stake-link,1,14105071,
+id#626,reserve-protocol,Reserve Protocol,Indexes,reserve-rights-token,1,14041015,
+id#3872,bear-vs-bull,Bear Vs Bull,Prediction Market,,1,14028648,no_gecko_id
+id#7846,fidelity-crypto-fund,Fidelity Crypto Fund,CeDeFi,,1,13891234,no_gecko_id
+id#chain#blast,blast,Blast,Chain,,1,13849270,no_gecko_id
+id#3329,kiloex,KiloEx,Derivatives,kiloex,1,13796055,
+id#1320,railgun,Railgun,Privacy,railgun,1,13787136,excluded_category
+id#4304,geodnet,Geodnet,Oracle,geodnet,1,13678745,
+parent#hyperlend,hyperlend,HyperLend,Lending,hyperlend,2,13655793,
+id#3667,amnis-finance,Amnis Finance,Liquid Staking,ami,1,13588914,
+parent#ramses-exchange-hl,ramses-exchange-hl,RamsesX,Dexs,ramses,5,13485411,
+id#7120,macaron.bid,Macaron.bid,Gamified Mining,,1,13357841,no_gecko_id
+id#5343,reservoir-protocol,Reservoir Protocol,CDP,reservoir,1,13309263,
+id#chain#cronos,cronos,Cronos,Chain,,1,13183996,no_gecko_id
+parent#yei-finance,yei-finance,Yei Finance,Lending,yei-finance,2,13173596,
+id#6075,beezie,Beezie,Physical TCG,,1,13144184,no_gecko_id
+parent#saucerswap,saucerswap,SaucerSwap,Dexs,saucerswap,2,13103329,
+parent#woofi,woofi,WOOFi,Dexs,woo-network,2,13014132,
+id#7555,matcha,Matcha,Trading App,,1,12941410,no_gecko_id
+parent#inverse-finance,inverse-finance,Inverse Finance,CDP,inverse-finance,1,12880291,
+id#4129,edgevana,Edgevana,Liquid Staking,,1,12740874,no_gecko_id
+parent#mayan-finance,mayan-finance,Mayan Finance,DEX Aggregator,,1,12638407,no_gecko_id
+id#6732,lab-terminal,LAB Terminal,Trading App,lab,1,12468828,
+id#7687,infinite-field-hype-staking,Infinite Field HYPE Staking,Staking Pool,,1,12463145,no_gecko_id
+parent#arbitrum-foundation,arbitrum-foundation,Arbitrum Foundation,MEV,arbitrum,2,12365148,
+parent#equalizer,equalizer,Equalizer,Dexs,equalizer-dex,2,12323314,
+parent#prisma,prisma,Prisma Finance,CDP,prisma-governance-token,1,12289753,
+parent#avalon-labs,avalon-labs,Avalon Labs,CDP,avalon-2,2,12046781,
+id#5588,yieldfi,YieldFi,Yield Aggregator,,1,11867956,no_gecko_id
+id#6205,k3-capital,K3 Capital,Risk Curators,,1,11508685,no_gecko_id
+id#7182,re,Re,RWA,re,1,11442485,
+parent#kodiak,kodiak,Kodiak,Dexs,kodiak-finance,3,11399729,
+id#6478,graphite-protocol,Graphite Protocol,Launchpad,graphite-protocol,1,11283160,
+parent#o1-exchange,o1-exchange,o1.exchange,Launchpad,o1-exchange,2,11059824,
+parent#stonkbrokers,stonkbrokers,StonkBrokers,Token Locker,stonkbroker,7,11058778,excluded_category
+id#chain#provenance,provenance,Provenance,Chain,,1,11020715,no_gecko_id
+id#278,ankr,Ankr,Liquid Staking,ankr,1,10926821,
+id#4995,helius-staked-sol,Helius Staked SOL,Liquid Staking,,1,10799829,no_gecko_id
+id#5353,adrena-protocol,Adrena Protocol,Derivatives,adrena,1,10746539,
+parent#solayer,solayer,Solayer,Restaking,solayer,1,10669840,
+id#chain#mantle,mantle,Mantle,Chain,,1,10591581,no_gecko_id
+id#7618,apyx-protocol,Apyx Protocol,RWA,,1,10570452,no_gecko_id
+id#6328,padre,Padre,Telegram Bot,padre,1,10443036,excluded_category
+id#148,tornado-cash,Tornado Cash,Privacy,tornado-cash,1,10392477,excluded_category
+parent#rhea-finance,rhea-finance,Rhea Finance,Lending,rhea-2,4,10232643,
+parent#lynex,lynex,Lynex,Dexs,lynex,2,10198429,
+id#6210,re7-labs,Re7 Labs,Risk Curators,,1,10197315,no_gecko_id
+parent#ratex,ratex,RateX,Yield,,1,10096170,no_gecko_id
+id#756,angle,Angle,CDP,angle-protocol,1,9993592,
+id#4553,morpheusai,MorpheusAI,AI Agents,morpheusai,1,9938880,excluded_category
+parent#thruster,thruster,Thruster,Dexs,thruster,2,9920414,
+parent#ekubo,ekubo,Ekubo Protocol,Dexs,ekubo-protocol,2,9767041,
+id#4238,zircuit-staking,Zircuit Staking,Farm,,1,9675436,no_gecko_id
+id#622,clipper,Clipper,Dexs,sail-2,1,9573087,
+parent#mellow-protocol,mellow-protocol,Mellow Protocol,Liquid Restaking,,1,9564432,no_gecko_id
+parent#rainbow,rainbow,Rainbow,Wallets,rainbow-3-2,4,9562282,excluded_category
+id#8862,mamo,Mamo,Yield Aggregator,mamo,1,9424605,
+id#2309,indigo,Indigo,CDP,indigo-dao-governance-token,1,9374408,
+parent#pacifica,pacifica,Pacifica,Derivatives,,1,9327982,no_gecko_id
+parent#extra-finance,extra-finance,Extra Finance,Leveraged Farming,extra-finance,2,9217236,
+id#362,perpetual-protocol,Perpetual Protocol,Derivatives,perpetual-protocol,1,9195598,
+id#6327,pepeboost,Pepeboost,Telegram Bot,,1,9187206,no_gecko_id
+parent#openeden,openeden,OpenEden,RWA,,2,9147758,no_gecko_id
+id#8156,predictstreet,PredictStreet,Prediction Market,,1,9122128,no_gecko_id
+id#6189,phantom-sol,Phantom SOL,Liquid Staking,,1,8962373,no_gecko_id
+id#6245,infinifi,infiniFi,Yield,,1,8953588,no_gecko_id
+id#551,solarbeam,Solarbeam,Dexs,solarbeam,1,8936340,
+id#chain#litecoin,litecoin,Litecoin,Chain,,1,8861288,no_gecko_id
+id#4945,mevx,MEVX,Telegram Bot,,1,8827046,no_gecko_id
+id#3603,sdai,sDAI,Yield,savings-xdai,1,8826325,
+id#3951,odos,ODOS,DEX Aggregator,odos,1,8765232,
+id#3104,ambient,Ambient,Dexs,,1,8705165,no_gecko_id
+parent#bitfi,bitfi,BitFi,Anchor BTC,,2,8689472,no_gecko_id
+id#2320,jojo,JOJO,Derivatives,,1,8543122,no_gecko_id
+id#6660,w-dex,W-DEX,Dexs,,1,8500753,no_gecko_id
+id#5775,infrared-finance,Infrared Finance,Liquid Staking,infrared-finance,1,8473637,
+id#5653,vector.fun,VECTOR.FUN,Launchpad,,1,8466662,no_gecko_id
+id#5647,sailor,Sailor,Dexs,,1,8387458,no_gecko_id
+parent#arrakis-finance,arrakis-finance,Arrakis Finance,Liquidity Manager,,2,8333443,no_gecko_id
+id#3877,solana-name-service,Solana Name Service,Domains,solana-name-service,1,8324797,excluded_category
+id#1431,x2y2,X2Y2,NFT Lending,x2y2,1,8270699,
+id#326,beefy,Beefy,Yield Aggregator,beefy-finance,1,8270192,
+id#6197,b.protocol-curator,B.Protocol Curator,Risk Curators,,1,8180671,no_gecko_id
+id#7314,jagpool-staked-sol,JagPool Staked SOL,Liquid Staking,,1,8176578,no_gecko_id
+id#6579,cap,cap,Lending,cap-4,1,8140599,
+id#6773,plasma-saving-vaults,Plasma Saving Vaults,Onchain Capital Allocator,,1,8131224,no_gecko_id
+id#6510,pvp.trade,pvp.trade,Interface,,1,8009407,no_gecko_id
+parent#jumper-exchange,jumper-exchange,Jumper (LI.FI powered),DEX Aggregator,,3,8008718,no_gecko_id
+id#2548,vela-exchange,Vela Exchange,Derivatives,vela-token,1,7846583,
+parent#lombard-finance,lombard-finance,Lombard,Restaked BTC,lombard-protocol,2,7837000,
+parent#guru-network-dao,guru-network-dao,Guru Network DAO,Dexs,ftm-guru,4,7824796,
+parent#merchant-moe,merchant-moe,Merchant Moe,Dexs,moe-3,2,7819574,
+parent#nu11dotfun,nu11dotfun,PEA,Gamified Mining,minebean,2,7760435,excluded_category
+id#6941,thorswap,THORSwap,DEX Aggregator,thorswap,1,7717466,
+id#6790,falcon-finance,Falcon Finance,Basis Trading,falcon-finance-ff,1,7701833,
+parent#beethoven-x,beethoven-x,Beets,Liquid Staking,beethoven-x,3,7660363,
+parent#fwx,fwx,FWX,Derivatives,be-for-fwx,2,7651936,
+parent#allbridge,allbridge,Allbridge,Bridge,allbridge,2,7583619,
+id#7160,forward-industries-sol,Forward Industries SOL,Liquid Staking,,1,7567595,no_gecko_id
+parent#phase,phase,Phase.cc,Liquid Staking,,1,7481679,no_gecko_id
+id#6567,aden,ADEN,Interface,,1,7469195,no_gecko_id
+id#3376,aark-digital,Aark Digital,Derivatives,aark-digital,1,7397824,
+id#3687,shuriken,Shuriken,Services,,1,7361468,no_gecko_id
+parent#hybra,hybra,Hybra,Dexs,hybr,3,7329499,
+parent#parcl,parcl,Parcl,Derivatives,parcl,1,7305993,
+id#chain#taiko,taiko,Taiko,Chain,,1,7266265,no_gecko_id
+parent#stakestone,stakestone,StakeStone,Liquid Staking,stakestone,1,7251532,
+id#7961,zinc,ZINC,Gamified Mining,zinc-2,1,7237642,excluded_category
+parent#alchemix,alchemix,Alchemix,Synthetics,alchemix,2,7202896,
+id#4570,fantasy.top,fantasy.top,SoFi,,1,7053188,no_gecko_id
+parent#valantis,valantis,Valantis,Liquid Staking,,2,6994449,no_gecko_id
+id#3091,equilibria,Equilibria,Yield,equilibria-finance,1,6838471,
+id#2837,wagmi,WAGMI,Dexs,wagmi-2,1,6804800,
+id#7688,hyperstake-hype-staking,HyperStake HYPE Staking,Staking Pool,,1,6783143,no_gecko_id
+id#7845,fidelity-digital-interest-token,Fidelity Digital Interest Token,RWA,fidelity-digital-interest-token,1,6738602,
+id#chain#arbitrum-nova,arbitrum-nova,Arbitrum Nova,Chain,,1,6718298,no_gecko_id
+parent#reservoir-tools,reservoir-tools,SakuraSwap,Dexs,,2,6614352,no_gecko_id
+parent#cian-protocol,cian-protocol,CIAN Protocol,Yield Aggregator,,1,6602097,no_gecko_id
+id#2607,frax-fpi,Frax FPI,Algo-Stables,frax-price-index-share,1,6601636,
+id#7488,aave-labs,Aave Labs,Developer Tools,,1,6592713,no_gecko_id
+id#5140,elixir,Elixir,Yield,elixir-finance,1,6582759,
+id#chain#quai-network,quai,Quai,Chain,,1,6581977,no_gecko_id
+id#3041,houdini-swap,Houdini Swap,DEX Aggregator,houdini-swap,1,6517486,
+id#chain#abstract,abstract,Abstract,Chain,,1,6440591,no_gecko_id
+parent#maverick-protocol,maverick-protocol,Maverick Protocol,Dexs,maverick-protocol,2,6422655,
+id#chain#pulsechain,pulsechain,PulseChain,Chain,,1,6387656,no_gecko_id
+parent#hylo,hylo,Hylo,Dual-Token Stablecoin,,2,6380940,no_gecko_id
+id#6625,sport.fun,Sport.fun,Prediction Market,football-fun,1,6341340,
+id#chain#akash-network,akash,Akash,Chain,,1,6340096,no_gecko_id
+id#8144,catapult-trade,Catapult Trade,Derivatives,,1,6318726,no_gecko_id
+id#chain#polygon-zkevm,polygon-zkevm,Polygon zkEVM,Chain,,1,6309289,no_gecko_id
+parent#vfat,vfat,vfat,Yield Aggregator,,2,6301623,no_gecko_id
+id#6875,tydro,Tydro,Lending,,1,6279873,no_gecko_id
+id#4863,tether-gold,Tether Gold,RWA,tether-gold,1,6274991,
+id#7689,imperator.co-hype-staking,Imperator.co HYPE Staking,Staking Pool,,1,6267687,no_gecko_id
+id#3883,storm-trade,Storm Trade,Derivatives,storm-trade,1,6235330,
+id#4518,colend-protocol,Colend Protocol,Lending,colend,1,6230999,
+id#3265,agni-finance,Agni Finance,Dexs,,1,6221083,no_gecko_id
+parent#reya,reya,Reya,Derivatives,reya,1,6209094,
+parent#thala-labs,thala-labs,Thala,Dexs,thala,4,6175333,
+parent#azverse,azverse,AZverse,Derivatives,,2,6173719,no_gecko_id
+id#4257,definitive,Definitive,DEX Aggregator,definitive,1,6163277,
+id#5286,fragmetric,Fragmetric,Liquid Restaking,fragmetric,1,6112302,
+id#4158,crypto.com-liquid-staking,Crypto.com Liquid Staking,Liquid Staking,,1,6047041,no_gecko_id
+id#5480,hyperion,Hyperion,Dexs,hyperion-2,1,6023825,
+parent#blend,blend,Blend,Lending,blend,3,5823968,
+parent#the-arena,the-arena,The Arena,SoFi,the-arena,4,5822780,excluded_category
+id#438,autofinance,AUTOfinance,Yield,tokemak,1,5820337,
+id#5742,bex,BEX,Dexs,,1,5778589,no_gecko_id
+id#1401,moonwell-apollo,Moonwell Apollo,Lending,moonwell,1,5770202,
+id#chain#aptos,aptos,Aptos,Chain,,1,5755862,no_gecko_id
+id#7682,asxn-hype-staking,ASXN HYPE Staking,Staking Pool,,1,5737821,no_gecko_id
+parent#bracket-protocol,bracket-protocol,Bracket Protocol,Liquid Staking,,2,5701859,no_gecko_id
+id#6359,ssv-network,SSV Network,Staking Pool,ssv-network,1,5680205,
+id#4400,vest-markets,Vest Markets,Derivatives,,1,5661710,no_gecko_id
+id#2361,mummy-finance,Mummy Finance,Derivatives,mummy-finance,1,5637646,
+id#5760,snake-finance,Snake Finance,Algo-Stables,snake-4,1,5617761,
+id#2531,vaultka,Vaultka,Yield,vaultka,1,5617274,
+id#6204,hyperithm,Hyperithm,Risk Curators,,1,5610699,no_gecko_id
+id#5022,raybot,RayBot,Telegram Bot,,1,5594526,no_gecko_id
+id#3954,surf-protocol,Surf Protocol,Derivatives,,1,5592195,no_gecko_id
+id#7692,cmi-hype-staking,CMI HYPE Staking,Staking Pool,,1,5573663,no_gecko_id
+id#6741,ember-protocol,Ember Protocol,Onchain Capital Allocator,,1,5466998,no_gecko_id
+id#1807,pinksale,PinkSale,Launchpad,pinksale,1,5444632,
+parent#defituna,defituna,DefiTuna,Dexs,defituna,2,5427401,
+id#chain#filecoin,filecoin,Filecoin,Chain,,1,5398153,no_gecko_id
+id#1892,azuro,Azuro,Prediction Market,azuro-protocol,1,5387647,
+id#1452,paycash,PayCash,Dexs,malinka,1,5386968,
+parent#kittenswap,kittenswap,Kittenswap Finance,Dexs,kittenswap,3,5361749,
+id#7694,usdt0-luganodes-hype-staking,USDT0-Luganodes HYPE Staking,Staking Pool,,1,5331012,no_gecko_id
+parent#bucket-protocol,bucket-protocol,Bucket Protocol,CDP,,2,5317939,no_gecko_id
+parent#swapx,swapx,SwapX,Dexs,swapx-2,2,5285731,
+id#8201,slvr,SLVR,Gamified Mining,,1,5246310,no_gecko_id
+id#6368,byreal,Byreal,Dexs,,1,5233269,no_gecko_id
+id#5898,usdd,USDD,CDP,,1,5178386,no_gecko_id
+parent#haedal,haedal,Haedal,Liquid Staking,haedal,3,5168778,
+id#7679,pier-two-hype-staking,Pier Two HYPE Staking,Staking Pool,,1,5136587,no_gecko_id
+parent#ede,ede,EDE,Derivatives,el-dorado-exchange,2,5122868,
+id#7691,hypurrcorea-hype-staking,HypurrCorea HYPE Staking,Staking Pool,,1,5122502,no_gecko_id
+parent#hyperbeat,hyperbeat,Hyperbeat,Yield Aggregator,,4,5100210,no_gecko_id
+parent#katana-ronin-dex,katana-ronin-dex,Katana Ronin Dex,Dexs,,2,5089569,no_gecko_id
+parent#holdstation,holdstation,Holdstation,Derivatives,holdstation,3,5084643,
+id#6673,gala-swap,Gala Swap,Dexs,,1,5068174,no_gecko_id
+id#4241,lava,Lava,Lending,,1,5051886,no_gecko_id
+id#7226,chopcorp,CHOPCORP,Gamified Mining,,1,5045060,no_gecko_id
+id#chain#manta,manta,Manta,Chain,,1,5026713,no_gecko_id
+id#7159,dfdvsol,dfdvSOL,Liquid Staking,,1,5010913,no_gecko_id
+parent#hydrex,hydrex,Hydrex,Dexs,hydrex,1,4975147,
+id#534,overtime,Overtime,Prediction Market,overtime,1,4962137,
+id#5886,tradewiz,TradeWiz,Telegram Bot,,1,4957622,no_gecko_id
+id#8481,fables,Fables,Dexs,,1,4957455,no_gecko_id
+id#6296,vault-bridge,Vault Bridge,Risk Curators,,1,4928069,no_gecko_id
+id#chain#rise,rise,RISE,Chain,,1,4926999,no_gecko_id
+id#7513,harmonic,Harmonic,MEV,,1,4920822,no_gecko_id
+id#chain#xdai,gnosis,Gnosis,Chain,,1,4886290,no_gecko_id
+parent#sudoswap,sudoswap,Sudoswap,NFT Marketplace,sudoswap,2,4833406,
+id#8704,argus-world,Argus World,Launchpad,,1,4777334,no_gecko_id
+id#7817,rise.rich,Rise.rich,Launchpad,,1,4777215,no_gecko_id
+id#2617,dedust,DeDust,Dexs,scaleton,1,4751670,
+parent#aera,aera,Aera,Onchain Capital Allocator,,2,4696150,no_gecko_id
+id#7392,snuggle,Snuggle,Liquidity Manager,,1,4666180,no_gecko_id
+parent#zerolend,zerolend,ZeroLend,Lending,zerolend,2,4648933,
+id#6592,heaven,Heaven,Dexs,heaven,1,4631575,
+id#8623,valhalla,Valhalla,Liquidity Automation,,1,4611910,no_gecko_id
+id#5189,pocket-universe,Pocket Universe,Security Extension,,1,4594351,no_gecko_id
+id#chain#arweave,arweave,Arweave,Chain,,1,4583528,no_gecko_id
+parent#solidly-labs,solidly-labs,Solidly Labs,Dexs,solidlydex,2,4533893,
+id#4837,step-finance,Step Finance,Portfolio Tracker,step-finance,1,4532811,
+id#7678,purrposeful-hype-staking,Purrposeful HYPE Staking,Staking Pool,,1,4512192,no_gecko_id
+id#7978,propr,Propr,Trading App,,1,4491519,no_gecko_id
+id#6129,boop.fun,boop.fun,Launchpad,boop-4,1,4482468,
+parent#satori-finance,satori-finance,Satori Finance,Derivatives,,1,4475626,no_gecko_id
+id#5963,resupply,Resupply,Lending,resupply,1,4453840,
+id#5284,plume-vaults,Plume Vaults,RWA,,1,4436201,no_gecko_id
+parent#flying-tulip,flying-tulip,Flying Tulip,Services,flying-tulip,3,4404827,excluded_category
+id#7428,pagcrypto,PagCrypto,Payments,,1,4382717,no_gecko_id
+id#chain#linea,linea,Linea,Chain,,1,4333325,no_gecko_id
+id#chain#rootstock,rootstock,Rootstock,Chain,,1,4327089,no_gecko_id
+id#6997,yuzu-money,Yuzu Money,Yield,,1,4319126,no_gecko_id
+parent#goplus-security,goplus-security,GoPlus Security,Developer Tools,goplus-security,2,4315298,excluded_category
+id#7676,validao-hype-staking,Validao HYPE Staking,Staking Pool,,1,4282784,no_gecko_id
+parent#seamless-protocol,seamless-protocol,Seamless Protocol,Onchain Capital Allocator,seamless-protocol,3,4239044,
+id#4777,clusters,Clusters,Domains,,1,4223715,no_gecko_id
+parent#dhedge,dhedge,Chamber,Yield,dhedge-dao,3,4213038,
+parent#hypurfi,hypurfi,HypurrFi,Lending,,2,4211339,no_gecko_id
+id#4813,moon.it,moon.it,Launchpad,,1,4194843,no_gecko_id
+id#6543,insilico-terminal,Insilico Terminal,Interface,,1,4169518,no_gecko_id
+id#6211,relend-network,Relend Network,Risk Curators,,1,4168831,no_gecko_id
+id#2142,sonne-finance,Sonne Finance,Lending,sonne-finance,1,4163615,
+id#5721,noon,Noon,Yield,,1,4161330,no_gecko_id
+id#8504,lp-agent,LP Agent,Liquidity Automation,,1,4142492,no_gecko_id
+id#340,olympus-dao,Olympus DAO,Reserve Currency,olympus,1,4128772,
+parent#gondi,gondi,Gondi,NFT Lending,,1,4089169,no_gecko_id
+parent#alphafi,alphafi,AlphaFi,Lending,alpha-fi,2,4081565,
+id#6198,block-analitica,Block Analitica,Risk Curators,,1,4025018,no_gecko_id
+id#1115,tectonic,Tectonic,Lending,tectonic,1,4014535,
+id#7901,death.fun,death.fun,Luck Games,,1,4003596,no_gecko_id
+id#4938,meso-finance,Meso Finance,Lending,meso-finance,1,3999744,
+parent#gate-products,gate-products,Gate DEX,Liquid Staking,,2,3960741,no_gecko_id
+id#7697,bitwise-hype-staking,Bitwise HYPE Staking,Staking Pool,,1,3953089,no_gecko_id
+id#2402,veno-finance,Veno Finance,Liquid Staking,veno-finance,1,3936563,
+id#1181,mojitoswap,MojitoSwap,Dexs,mojitoswap,1,3914484,
+id#chain#xrpl,xrpl,XRPL,Chain,,1,3909667,no_gecko_id
+parent#up,up,up,Dexs,up-2,2,3874804,
+id#6147,yala,Yala,CDP,yala,1,3867347,
+parent#impermax-finance,impermax-finance,Impermax Finance,Lending,impermax-2,2,3864112,
+parent#nuri-exchange,nuri-exchange,Nuri Exchange,Dexs,nuri-exchange,2,3805813,
+parent#pyth,pyth,Pyth,Oracle,pyth-network,4,3799984,
+id#7646,saturn,Saturn,Stablecoin Wrapper,,1,3796474,no_gecko_id
+id#2993,nodedao,NodeDAO,Liquid Staking,,1,3796149,no_gecko_id
+parent#genius-terminal,genius-terminal,Genius Terminal,Launchpad,,1,3773367,no_gecko_id
+id#5600,creator-bid,Creator Bid,AI Agents,creatorbid,1,3752542,excluded_category
+id#2454,geth,GETH,Liquid Staking,guarded-ether,1,3731740,
+parent#tria,tria,TRIA,Crypto Card Issuer,tria,2,3695918,
+id#7346,chutes,Chutes,Decentralized AI,chutes,1,3693238,
+parent#exponent,exponent,Exponent,Yield,,1,3690707,no_gecko_id
+id#7753,telegram-wallet,Telegram Wallet,Interface,,1,3653003,no_gecko_id
+parent#bungee,bungee,Bungee,Bridge Aggregator,,1,3651253,no_gecko_id
+id#6789,solstice,Solstice,Basis Trading,solstice,1,3638793,
+id#5715,flaunch,flaunch,Launchpad,,1,3595348,no_gecko_id
+id#3320,safe,Safe,Services,safe,1,3595077,excluded_category
+id#chain#thorchain,thorchain,THORChain,Chain,,1,3583381,no_gecko_id
+id#4086,garden,Garden,Cross Chain Bridge,,1,3578232,no_gecko_id
+parent#dreamcash,dreamcash,Dreamcash,Interface,,2,3577981,no_gecko_id
+id#6767,qubic-idle-compute,Qubic Idle Compute,Mining Pools,,1,3567546,no_gecko_id
+parent#enosys,enosys,Enosys,Dexs,flare-finance,3,3566278,
+id#chain#zora-chain,zora,Zora,Chain,,1,3560824,no_gecko_id
+id#7696,alphaticks-hype-staking,AlphaTicks HYPE Staking,Staking Pool,,1,3553725,no_gecko_id
+parent#yield-yak,yield-yak,Yield Yak,Yield Aggregator,yield-yak,1,3550262,
+id#5007,helio,Helio,Payments,,1,3534574,no_gecko_id
+id#3964,stakee,Stakee,Liquid Staking,,1,3532351,no_gecko_id
+id#7698,b-harvest-hype-staking,B-Harvest HYPE Staking,Staking Pool,,1,3517327,no_gecko_id
+id#6515,tree-news,Tree News,SoFi,tree-capital,1,3505881,excluded_category
+id#7005,neverland,Neverland,Lending,pixie-dust,1,3497686,
+parent#nest,nest,nest,Dexs,nest-2,1,3483114,
+id#4846,d2-finance,D2 Finance,Onchain Capital Allocator,,1,3432765,no_gecko_id
+parent#zerion,zerion,Zerion,Wallets,,1,3425904,no_gecko_id
+parent#syncswap-protocol,syncswap-protocol,SyncSwap Protocol,Dexs,,2,3400391,no_gecko_id
+id#chain#morph,morph,Morph,Chain,,1,3392238,no_gecko_id
+parent#stellaswap,stellaswap,StellaSwap,Dexs,stellaswap,2,3390979,
+id#chain#unichain,unichain,Unichain,Chain,,1,3390125,no_gecko_id
+id#5212,ntm.ai,NTM.ai,SoFi,,1,3383494,no_gecko_id
+id#128,hegic,Hegic,Options,hegic,1,3382351,
+parent#realt,realt,RealT,Lending,realtoken-ecosystem-governance,2,3380236,
+parent#pareto,pareto,Pareto,Yield Aggregator,idle,1,3357266,
+id#5786,doppler-finance,Doppler Finance,CeDeFi,,1,3357094,no_gecko_id
+parent#infinex,infinex,Infinex,Interface,infinex-2,2,3353130,
+id#5535,vader-ai,Vader AI,AI Agents,vaderai-by-virtuals,1,3344262,excluded_category
+parent#potatoswap,potatoswap,PotatoSwap,Dexs,,2,3344090,no_gecko_id
+parent#metadao,metadao,MetaDao,Dexs,meta-2-2,1,3305438,
+parent#typus-finance,typus-finance,Typus Finance,Options Vault,typus,3,3298847,
+id#chain#celestia,celestia,Celestia,Chain,,1,3293525,no_gecko_id
+id#2537,flux-finance,Flux Finance,Lending,,1,3289591,no_gecko_id
+id#5547,lagoon,Lagoon,Onchain Capital Allocator,,1,3278415,no_gecko_id
+parent#summer.fi,summer.fi,Summer.fi,CDP Manager,summer-2,2,3278091,
+id#3439,hydration-dex,Hydration DEX,Dexs,hydradx,1,3227258,
+id#7966,render-network-bme,Render Network BME,DePIN,render-token,1,3197684,excluded_category
+id#7467,decibel,Decibel,Derivatives,,1,3129842,no_gecko_id
+id#7539,bitway-earn,Bitway Earn,Basis Trading,bitway,1,3114952,
+id#7675,flowdex-hype-staking,FlowDex HYPE Staking,Staking Pool,,1,3113780,no_gecko_id
+parent#lorenzo-protocol,lorenzo-protocol,Lorenzo Protocol,Yield,lorenzo-protocol,1,3099547,
+id#6022,mainstreet,Mainstreet,Yield,main-street-yield,1,3078107,
+parent#sundaeswap,sundaeswap,SundaeSwap,Dexs,sundaeswap,1,3058852,
+id#7891,venice,Venice,Farm,venice-token,1,3057565,
+parent#beamswap,beamswap,BeamSwap,Dexs,beamswap,3,3057435,
+id#7611,layer3,Layer3,Foundation,layer3,1,3047468,
+id#5746,beraborrow,Beraborrow,CDP,pollen-2,1,3031193,
+id#249,stake-dao-yield,Stake DAO Yield,Yield,,1,3008455,no_gecko_id
+id#6910,ethereal-dex,Ethereal DEX,Derivatives,,1,2947843,no_gecko_id
+id#1004,colony,Colony,Yield,colony,1,2945711,
+parent#theo,theo,Theo,RWA,,2,2916969,no_gecko_id
+id#2608,streamflow,Streamflow,Payments,streamflow,1,2897245,excluded_category
+id#7693,hyperbeat-p2p-hypio-hype-staking,Hyperbeat-P2P-Hypio HYPE Staking,Staking Pool,,1,2856626,no_gecko_id
+id#7681,liquidspirit-hydromancer-rektgang-hype-staking,LiquidSpirit-Hydromancer-RektGang HYPE Staking,Staking Pool,,1,2828358,no_gecko_id
+id#2968,gnd-protocol,GND Protocol,Yield,gnd-protocol,1,2826364,
+parent#threshold-network,threshold-network,Threshold Network,Decentralized BTC,threshold-network-token,2,2820000,
+parent#bmx,bmx,BMX,Derivatives,bmx,2,2805160,
+id#5131,treehouse-protocol,Treehouse Protocol,DOR,treehouse,1,2776854,
+id#6196,apostro,Apostro,Risk Curators,,1,2749868,no_gecko_id
+id#3678,merkle-trade,Merkle Trade,Derivatives,merkle-trade,1,2729862,
+id#8378,letscash,LetsCash,Launchpad,,1,2686347,no_gecko_id
+id#4705,cellula,Cellula,Gaming,cellula,1,2678523,excluded_category
+parent#baseswap,baseswap,BaseSwap,Dexs,baseswap,2,2669168,
+id#5669,tribe.run,Tribe.run,SoFi,,1,2667531,no_gecko_id
+id#4737,coinbase-commerce,Coinbase Commerce,Payments,,1,2659742,no_gecko_id
+id#6785,telos-consilium,Telos Consilium,Risk Curators,,1,2644487,no_gecko_id
+id#6407,hyperwave,HyperWave,Yield,hyperwave,1,2631700,
+id#5090,level,Level,CDP,,1,2617728,no_gecko_id
+id#6199,clearstar,Clearstar,Risk Curators,,1,2614260,no_gecko_id
+id#6203,hakutora,Hakutora,Risk Curators,,1,2604750,no_gecko_id
+id#4194,cellana-finance,Cellana Finance,Dexs,cellena-finance,1,2586147,
+parent#mystic-finance,mystic-finance,Mystic Finance,Lending,,1,2581989,no_gecko_id
+id#6097,socket-protocol,SOCKET Protocol,Bridge Aggregator,,1,2563695,no_gecko_id
+parent#mm-finance,mm-finance,MM Finance,Dexs,,1,2561153,no_gecko_id
+id#8371,pools,Pools,Launchpad,,1,2561058,no_gecko_id
+id#4736,doubleup,DoubleUp,Luck Games,doubleup,1,2532197,excluded_category
+id#3875,aimbot,Aimbot,Telegram Bot,aimbot,1,2526769,excluded_category
+id#7208,definity-staked-sol,Definity Staked SOL,Liquid Staking,,1,2500508,no_gecko_id
+parent#babydogecoin,babydogecoin,BabyDogeCoin,Dexs,baby-doge-coin,3,2497450,
+id#6349,smithii,Smithii,Launchpad,shrimp-2,1,2493489,
+parent#morphex,morphex,Morphex,Derivatives,mpx,2,2490015,
+id#1707,clever,CLever,Yield,clever-token,1,2486813,
+parent#metavault,metavault,Metavault,Derivatives,metavault-trade,4,2477839,
+id#5005,manifold.xyz,manifold.xyz,NFT Launchpad,,1,2438501,no_gecko_id
+id#7053,curvance,Curvance,Lending,,1,2435435,no_gecko_id
+id#8053,dyli,DYLI,Physical TCG,,1,2424176,no_gecko_id
+parent#folks-finance,folks-finance,Folks Finance,Liquid Staking,folks,3,2421310,
+id#6213,tulipa-capital,Tulipa Capital,Risk Curators,,1,2417667,no_gecko_id
+id#4757,symbiotic,Symbiotic,Collateral Markets,,1,2412180,no_gecko_id
+parent#hercules,hercules,Hercules,Dexs,hercules-token,2,2342742,
+id#5905,multipli.fi,Multipli.fi,Yield,,1,2330723,no_gecko_id
+id#3569,phame-protocol,PHAME Protocol,Derivatives,phame,1,2329094,
+id#6631,helium-network,Helium Network,DePIN,helium,1,2296688,excluded_category
+id#7814,land-bid,Land Bid,Gamified Mining,land-bid,1,2296263,excluded_category
+id#6271,hydration-lending,Hydration Lending,Lending,,1,2296211,no_gecko_id
+parent#aegis,aegis,Aegis,Basis Trading,,2,2295817,no_gecko_id
+id#4235,lens-protocol,Lens Protocol,SoFi,,1,2279949,no_gecko_id
+parent#koi-finance,koi-finance,Koi Finance,Dexs,koi-3,2,2277714,
+id#5915,yo-protocol,YO Protocol,Yield Aggregator,yo,1,2271715,
+id#5814,pico-staked-sol,Pico Staked SOL,Liquid Staking,,1,2262567,no_gecko_id
+id#6824,aspecta-buildkey,Aspecta BuildKey,SoFi,aspecta,1,2259451,excluded_category
+parent#sudo-finance,sudo-finance,ZO,Derivatives,slp,2,2255232,
+id#8018,kraken-bitcoin-vault,Kraken Bitcoin Vault,Yield,,1,2242471,no_gecko_id
+id#chain#monad,monad,Monad,Chain,,1,2216079,no_gecko_id
+id#7301,stkesol-by-sol-strategies,STKESOL by SOL Strategies,Liquid Staking,,1,2208999,no_gecko_id
+parent#ln-exchange,ln-exchange,LN Exchange,Derivatives,,1,2188298,no_gecko_id
+parent#kaito,kaito,Kaito,Launchpad,kaito,1,2167242,
+parent#nile-exchange,nile-exchange,Nile Exchange,Dexs,nile,2,2163669,
+parent#tonco,tonco,TONCO,Dexs,,2,2157260,no_gecko_id
+parent#native,native,Native,Dexs,,2,2149558,no_gecko_id
+id#<5471>,opentrade,OpenTrade,RWA,,1,2132625,no_gecko_id
+parent#mimo,mimo,Mimo,Dexs,,1,2122749,no_gecko_id
+id#chain#stellar,stellar,Stellar,Chain,,1,2102621,no_gecko_id
+parent#milkyway-protocol,milkyway-protocol,MilkyWay Protocol,Liquid Staking,,1,2096688,no_gecko_id
+parent#zyberswap,zyberswap,ZyberSwap,Dexs,zyberswap,3,2096529,
+id#6297,almanak,Almanak,Onchain Capital Allocator,almanak,1,2096444,
+id#2139,sommelier,Sommelier,Onchain Capital Allocator,sommelier,1,2091347,
+id#6195,alphaping,AlphaPing,Risk Curators,,1,2073205,no_gecko_id
+id#5526,trevee-earn,Trevee Earn,Yield Aggregator,,1,2071498,no_gecko_id
+id#8497,ansem.io,Ansem.io,Launchpad,the-black-bull,1,2068028,
+id#7802,monster,Monster,Physical TCG,,1,2060202,no_gecko_id
+id#4712,splash-protocol,Splash Protocol,Dexs,splash-trade,1,2057193,
+id#3519,basepaint,BasePaint,Services,,1,2051529,no_gecko_id
+parent#txflow,txflow,TxFlow,Derivatives,,1,2050822,no_gecko_id
+id#4063,peapods-finance,Peapods Finance,Yield,peapods-finance,1,2034639,
+parent#minswap,minswap,Minswap,Dexs,minswap,2,2033854,
+id#6382,rango,Rango,Bridge Aggregator,,1,2027076,no_gecko_id
+id#3193,stusdt,stUSDT,RWA,staked-usdt,1,2023343,
+id#5330,bitget-sol,Bitget SOL,Liquid Staking,,1,1983328,no_gecko_id
+id#5294,kyros,Kyros,Liquid Restaking,kyros,1,1982654,
+id#5798,beradrome,Beradrome,Yield,beradrome,1,1981407,
+parent#ipor,ipor,IPOR Protocol,Onchain Capital Allocator,,1,1977272,no_gecko_id
+id#6061,40-acres,40 Acres,Lending,,1,1958965,no_gecko_id
+parent#looping-collective,looping-collective,Looping Collective,Yield,,2,1952745,several_gecko_ids
+id#5541,b14g,b14g,Restaking,,1,1943523,no_gecko_id
+id#4102,pingu-exchange,Pingu Exchange,Derivatives,pingu-exchange,1,1939792,
+id#6544,liquid-perps,Liquid Perps,Interface,,1,1928695,no_gecko_id
+id#6565,autopilot,Autopilot,Yield Aggregator,,1,1922051,no_gecko_id
+id#6535,gaib,GAIB,RWA,gaib,1,1914425,
+id#chain#moonriver,moonriver,Moonriver,Chain,,1,1900332,no_gecko_id
+id#8422,the-index,The Index,Indexes,the-index,1,1876008,
+id#8631,hashcats,HASHCATS,Gamified Mining,,1,1867426,no_gecko_id
+id#6232,eden-relay,Eden Relay,MEV,,1,1855190,no_gecko_id
+parent#zkswap-finance,zkswap-finance,zkSwap Finance,Dexs,zkswap-finance,3,1850397,
+parent#bedrock,bedrock,Bedrock,Liquid Restaking,bedrock-token,3,1849523,
+id#8082,invo-perps,Invo Perps,Interface,,1,1843320,no_gecko_id
+id#7699,meria-hype-staking,Meria HYPE Staking,Staking Pool,,1,1838314,no_gecko_id
+id#chain#sonic,sonic,Sonic,Chain,,1,1835887,no_gecko_id
+parent#kinetix,kinetix,Kinetix,Derivatives,kinetixfi,4,1829134,
+id#7989,pull.fun,Pull.fun,Physical TCG,,1,1828013,no_gecko_id
+id#3790,frankencoin,Frankencoin,CDP,frankencoin-shares,1,1819605,
+id#chain#monero,monero,Monero,Chain,,1,1812433,no_gecko_id
+id#7872,mememax,MemeMax,Interface,,1,1812043,no_gecko_id
+parent#pooltogether,pooltogether,PoolTogether,Yield Lottery,pooltogether,1,1806374,
+id#3934,stackingdao,StackingDAO,Liquid Staking,,1,1797667,no_gecko_id
+id#4152,polter-finance,Polter Finance,Lending,polter-finance,1,1792574,
+id#3311,retro,Retro,Dexs,retro-finance,1,1787965,
+id#5783,takara-lend,Takara Lend,Lending,,1,1769221,no_gecko_id
+id#420,elk,Elk,Dexs,elk-finance,1,1740160,
+id#271,honeyswap,Honeyswap,Dexs,honey,1,1738402,
+id#5782,verio,Verio,Liquid Staking,,1,1738388,no_gecko_id
+parent#sparkdex,sparkdex,SparkDEX,Dexs,sparkdex,5,1731977,
+id#8803,hypernova,Hypernova,Trading App,,1,1723755,no_gecko_id
+id#5002,lulo,Lulo,Yield Aggregator,,1,1723321,no_gecko_id
+id#chain#duck-chain,duckchain,DuckChain,Chain,,1,1723182,no_gecko_id
+id#8010,piteas,Piteas,DEX Aggregator,piteas,1,1722509,
+parent#metropolis-exchange,metropolis-exchange,Metropolis Exchange,Dexs,,2,1706917,no_gecko_id
+id#7202,kumbaya,Kumbaya,Dexs,,1,1691325,no_gecko_id
+id#chain#waves,waves,Waves,Chain,,1,1688782,no_gecko_id
+id#chain#gravity,gravity-by-galxe,Gravity by Galxe,Chain,,1,1685953,no_gecko_id
+id#8453,prizm,PRIZM,Trading App,,1,1673313,no_gecko_id
+id#7468,hyperlane,Hyperlane,Cross Chain Bridge,hyperlane,1,1663389,
+parent#benddao,benddao,BendDAO,NFT Lending,benddao,2,1660569,
+id#6091,echo.xyz,Echo.xyz,Private Investment Platform,,1,1659655,no_gecko_id
+id#1911,betswirl,BetSwirl,Prediction Market,betswirl,1,1658170,
+id#2052,junoswap,Junoswap,Dexs,junoswap-raw-dao,1,1647639,
+id#4584,ape.store,Ape.Store,Launchpad,,1,1641833,no_gecko_id
+parent#alien-base,alien-base,Alien Base,Dexs,alienbase,1,1641462,
+parent#aborean-finance,aborean-finance,Aborean Finance,Dexs,aborean,2,1599896,
+id#6546,mass,Mass,Interface,,1,1595407,no_gecko_id
+id#7832,yeet-bgt-auction,Yeet BGT Auction,Gamified Mining,yeet,1,1590695,excluded_category
+id#3575,scale,Scale,Dexs,,1,1586896,no_gecko_id
+parent#naddotfun,naddotfun,Nad.fun,Launchpad,,1,1583717,no_gecko_id
+id#chain#zcash,zcash,Zcash,Chain,,1,1561392,no_gecko_id
+id#7047,shmonad,ShMonad,Liquid Staking,,1,1548042,no_gecko_id
+id#3747,intentx,IntentX,Derivatives,,1,1544003,no_gecko_id
+parent#alphasec,alphasec,AlphaSec,Dexs,,1,1542844,no_gecko_id
+parent#dragonswap,dragonswap,DragonSwap Kaia,Dexs,,2,1534436,no_gecko_id
+id#5774,magma,Magma,Dexs,,1,1530335,no_gecko_id
+id#6182,fastlane,Fastlane,MEV,,1,1521268,no_gecko_id
+id#7588,rockawayx,RockawayX,Risk Curators,,1,1521148,no_gecko_id
+id#6804,alphagrowth,alphagrowth,Risk Curators,,1,1514059,no_gecko_id
+id#6924,rain,Rain,Prediction Market,rain,1,1511740,
+id#8356,stockrip,StockRip,Gamified Mining,stockrip,1,1507978,excluded_category
+id#chain#celo,celo,Celo,Chain,,1,1502483,no_gecko_id
+parent#shroom,shroom,Shroom,Liquidity Manager,mushroom-2,2,1501328,
+parent#lybra-finance,lybra-finance,Lybra Finance,CDP,lybra-finance,2,1486416,
+id#6964,makina,Makina,Onchain Capital Allocator,,1,1472079,no_gecko_id
+id#4921,waterneuron,WaterNeuron,Liquid Staking,waterneuron,1,1458154,
+parent#clearpool,clearpool,Clearpool,RWA,clearpool,2,1447051,
+id#5010,the-graph,The Graph,Developer Tools,the-graph,1,1445709,excluded_category
+id#5551,zivoe,Zivoe,RWA,,1,1442468,no_gecko_id
+id#1584,valas-finance,Valas Finance,Lending,valas-finance,1,1440575,
+id#7212,fluxion-network,Fluxion Network,Dexs,,1,1431472,no_gecko_id
+id#7895,armitage-by-wintermute,Armitage by Wintermute,Risk Curators,,1,1431356,no_gecko_id
+id#chain#soneium,soneium,Soneium,Chain,,1,1423750,no_gecko_id
+parent#liquidlabs,liquidlabs,Liquid Labs,Launchpad,liquidlaunch,3,1420769,
+parent#loopscale,loopscale,Loopscale,Lending,,1,1418168,no_gecko_id
+id#5658,moonlander,Moonlander,Derivatives,,1,1416284,no_gecko_id
+id#5195,grafun,GraFun,Launchpad,,1,1409635,no_gecko_id
+id#6460,laine-sol,Laine SOL,Liquid Staking,,1,1408176,no_gecko_id
+id#4915,kinetic,Kinetic,Lending,joule-2,1,1402905,
+parent#spectra,spectra,Spectra,Yield,spectra-finance,1,1402055,
+id#7238,maxbid,Maxbid,Trading App,,1,1398007,no_gecko_id
+id#7460,minara-ai-perps,Minara AI Perps,Interface,,1,1392062,no_gecko_id
+parent#matrixdock,matrixdock,MatrixDock,RWA,,3,1381066,no_gecko_id
+id#7059,capricorn,Capricorn,Dexs,,1,1370018,no_gecko_id
+id#6554,humidifi,HumidiFi,Dexs,humidifi,1,1359216,
+id#5381,lavarage,Lavarage,Derivatives,,1,1354972,no_gecko_id
+id#7337,chapool,Chapool,Physical TCG,,1,1354603,no_gecko_id
+id#8297,odinbot,OdinBot,Trading App,,1,1350448,no_gecko_id
+parent#contango,contango,Contango,Derivatives,contango,1,1345546,
+id#7365,miracle,Miracle,Interface,,1,1344036,no_gecko_id
+id#8550,rapid-launch,Rapid Launch,Launchpad,,1,1326281,no_gecko_id
+id#8382,sat-rush,Sat Rush,Gamified Mining,sat-rush,1,1324332,excluded_category
+id#435,hop-protocol,Hop Protocol,Cross Chain Bridge,hop-protocol,1,1312241,
+id#5035,aquarius-stellar,Aquarius Stellar,Dexs,aquarius,1,1309561,
+parent#izumi-finance,izumi-finance,iZUMi Finance,Dexs,izumi-finance,1,1308728,
+id#chain#op-bnb,opbnb,opBNB,Chain,,1,1303798,no_gecko_id
+id#3181,sui-foundation,Sui Foundation,Canonical Bridge,sui,1,1300709,
+parent#equation,equation,Equation,Derivatives,equation,3,1298290,
+id#6471,stronghold-staked-sol,Stronghold Staked SOL,Liquid Staking,,1,1294855,no_gecko_id
+id#5917,unchain-x,Unchain X,Dexs,unchain-x,1,1288856,
+parent#arcus,arcus,Arcus,Derivatives,,1,1286969,no_gecko_id
+id#5789,eggs-finance,Eggs Finance,Reserve Currency,eggs-finance,1,1285838,
+id#7782,easya-kickstart,EasyA Kickstart,Launchpad,,1,1274854,no_gecko_id
+parent#levvy-finance,levvy-finance,Levvy Finance,Lending,,2,1274835,no_gecko_id
+parent#pika-protocol,pika-protocol,Pika Protocol,Derivatives,pika-protocol,2,1253537,
+id#6613,livepeer,Livepeer,Video Infrastructure,livepeer,1,1249960,
+id#2491,liqwid,Liqwid,Lending,liqwid-finance,1,1246086,
+parent#marginfi,marginfi,marginfi,Liquid Staking,,2,1245118,no_gecko_id
+id#7012,piku-finance,Piku Finance,Basis Trading,piku-utility-token,1,1231856,
+id#5377,blazingapp,BlazingApp,Trading App,,1,1223775,no_gecko_id
+id#589,strike,Strike,Lending,strike,1,1216732,
+id#chain#hedera,hedera,Hedera,Chain,,1,1214881,no_gecko_id
+id#1304,buffer-finance,Buffer Finance,Options,ibuffer-token,1,1210550,
+parent#trends,trends,Trends,Launchpad,,2,1209535,no_gecko_id
+id#3968,vaulta-ram,Vaulta RAM,Dexs,,1,1207348,no_gecko_id
+id#3791,maya-protocol,Maya Protocol,Cross Chain Bridge,cacao,1,1197614,
+id#6642,privacy-cash,Privacy Cash,Privacy,,1,1188710,no_gecko_id
+id#1339,api3,Api3,Risk Curators,api3,1,1179153,
+id#3043,steer-protocol,Steer Protocol,Liquidity Manager,,1,1178713,no_gecko_id
+parent#upheaval-finance,upheaval-finance,Upheaval Finance,Dexs,upheaval,3,1176881,
+parent#helix,helix,Helix,Dexs,,2,1174675,no_gecko_id
+id#7319,flock.io,FLock.io,Decentralized AI,flock-2,1,1171469,
+id#chain#cosmoshub,cosmoshub,CosmosHub,Chain,,1,1162190,no_gecko_id
+id#6138,initiadex,InitiaDEX,Dexs,,1,1159446,no_gecko_id
+id#7626,ave.ai,Ave.ai,Trading App,,1,1157674,no_gecko_id
+parent#pear-protocol,pear-protocol,Pear Protocol,Interface,pear-protocol,2,1148509,
+id#4017,bank-ai,Bank AI,Services,bank,1,1143474,excluded_category
+id#5933,suite,SUITE,Trading App,suite-2,1,1141872,
+id#4146,kpk,KPK,Risk Curators,kpk,1,1137396,
+parent#magicsea,magicsea,MagicSea,Dexs,,2,1135545,no_gecko_id
+id#7272,onekey-perps,OneKey Perps,Interface,,1,1128372,no_gecko_id
+parent#unidex,unidex,UniDex,Derivatives,unidex,1,1126296,
+id#7261,orynth,Orynth,Launchpad,orynth,1,1125556,
+id#6723,alkimi,Alkimi,Services,alkimi-2,1,1124538,excluded_category
+id#291,integral,Integral,Dexs,integral,1,1114590,
+parent#ultrayield,ultrayield,UltraYield,Onchain Capital Allocator,,2,1110067,no_gecko_id
+id#447,illuvium,Illuvium,Gaming,illuvium,1,1106483,excluded_category
+parent#royco-protocol,royco-protocol,Royco Protocol,Yield,,1,1104589,no_gecko_id
+id#6483,angstrom,Angstrom,Dexs,,1,1101627,no_gecko_id
+id#8524,bidgrid,BidGrid,Gamified Mining,,1,1092129,no_gecko_id
+id#7967,brix,Brix,RWA,,1,1090287,no_gecko_id
+id#7100,kasu,Kasu,Uncollateralized Lending,,1,1089716,no_gecko_id
+parent#arcadia-finance,arcadia-finance,Arcadia Finance,Liquidity Manager,arcadia,1,1086014,
+id#5597,dappos-intentex,dappOS IntentEX,Dexs,dappos,1,1084510,
+id#4091,binaryx-platform,Binaryx Platform,RWA,,1,1070917,no_gecko_id
+id#3535,posttechsofi,PostTechSoFi,SoFi,,1,1070201,no_gecko_id
+id#5092,ethervista,Ethervista,Dexs,ethervista,1,1062908,
+parent#superlend-xyz,superlend-xyz,Superlend.xyz,Lending,,2,1054307,no_gecko_id
+id#7904,galaxy-curation,Galaxy Curation,Risk Curators,,1,1051099,no_gecko_id
+parent#solidlizard,solidlizard,SolidLizard,Dexs,solidlizard,1,1046627,
+id#chain#plume,plume-mainnet,Plume Mainnet,Chain,,1,1036107,no_gecko_id
+id#6413,full-sail,Full Sail,Dexs,full-sail,1,1028912,
+id#7506,b402,b402,Payments,,1,1025667,no_gecko_id
+id#7312,starke-staked-sol,Starke Staked SOL,Liquid Staking,,1,1021761,no_gecko_id
+id#7041,leverup,LeverUp,Derivatives,leverup,1,1014487,
+parent#bdex,bdex,BDEX,Dexs,,2,1007778,no_gecko_id
+id#1700,wombat-exchange,Wombat Exchange,Dexs,wombat-exchange,1,1007354,
+id#8314,cardz.game,CARDZ.GAME,Physical TCG,,1,1002683,no_gecko_id
+id#4211,pac-finance,Pac Finance,Lending,,1,1000640,no_gecko_id
+parent#xoxno,xoxno,XOXNO,NFT Marketplace,xoxno,3,1000394,
+id#8415,xox-perps,XOX Perps,Interface,,1,999339,no_gecko_id
+id#2735,get-protocol,GET Protocol,Services,get-token,1,993578,excluded_category
+id#chain#mode,mode,Mode,Chain,,1,988740,no_gecko_id
+id#3903,rain.fi,Rain.fi,Lending,,1,986258,no_gecko_id
+parent#balanceddao,balanceddao,Balanced,Dexs,balance-tokens,1,985922,
+id#1541,portal,Portal,Bridge,wormhole,1,983178,
+id#7532,perpl,Perpl,Derivatives,,1,977648,no_gecko_id
+id#8127,gemint,Gemint,Physical TCG,,1,971490,no_gecko_id
+id#chain#fluence,fluence,Fluence,Chain,,1,963025,no_gecko_id
+parent#bonzo-finance,bonzo-finance,Bonzo Finance,Lending,bonzo-finance,1,962553,
+id#chain#fuel-ignition,fuel-ignition,Fuel Ignition,Chain,,1,958834,no_gecko_id
+id#5843,flex-perpetuals,Flex Perpetuals,Derivatives,flex-2,1,949033,
+id#2940,turbos,Turbos,Dexs,turbos-finance,1,947876,
+id#7064,zorb,ZORB,Gamified Mining,,1,944246,no_gecko_id
+id#6724,geckoterminal,GeckoTerminal,Interface,,1,935170,no_gecko_id
+id#7706,anoncoin,Anoncoin,Launchpad,anoncoin-2,1,926173,
+id#6945,unlock-protocol,Unlock Protocol,Payments,unlockprotocoltoken,1,921870,excluded_category
+parent#flowx-finance,flowx-finance,FlowX Finance,Dexs,flowx-finance,2,921087,
+parent#logx,logx,LogX,Derivatives,logx-2,1,916059,
+id#6385,unicornx,UnicornX,Trading App,,1,899382,no_gecko_id
+id#7146,ape-church,Ape Church,Luck Games,,1,893740,no_gecko_id
+id#3833,amped-finance,Amped Finance,Derivatives,amped-finance,1,892615,
+id#1468,pact,Pact,Dexs,,1,892367,no_gecko_id
+id#6513,okto-wallet-perps,Okto Wallet Perps,Interface,,1,886273,no_gecko_id
+id#7969,dtrade,DTrade,Telegram Bot,,1,880224,no_gecko_id
+id#chain#bob,bob,BOB,Chain,,1,877690,no_gecko_id
+id#6173,strike-finance-perpetuals,Strike Finance Perpetuals,Derivatives,strike-2,1,872641,
+id#6559,hyperdash,HyperDash,Interface,,1,870651,no_gecko_id
+parent#bullpen,bullpen,Bullpen,Interface,,2,863664,no_gecko_id
+id#6753,migrate.fun,Migrate.Fun,Interface,agent-hustle-2,1,860401,
+id#4366,javsphere,Javsphere,Derivatives,javsphere,1,857002,
+id#chain#kcc,kcc,KCC,Chain,,1,843959,no_gecko_id
+id#4094,hyperion-exchange,Hyperion Exchange,Derivatives,,1,830099,no_gecko_id
+id#chain#chiliz,chiliz,Chiliz,Chain,,1,829125,no_gecko_id
+parent#supernova,supernova,Supernova,Dexs,,2,826642,no_gecko_id
+id#3171,kinza-finance,Kinza Finance,Lending,,1,821691,no_gecko_id
+id#6989,gtbtc,GTBTC,Restaked BTC,,1,817690,no_gecko_id
+id#7149,tau-labs,TAU Labs,Risk Curators,,1,815864,no_gecko_id
+id#6825,nodeops,NodeOps,DePIN,node-2,1,811667,excluded_category
+id#4772,jellyverse,Jellyverse,Dexs,jellyverse,1,807025,
+parent#rezerve,rezerve,Rezerve,Reserve Currency,rezerve-money,1,805987,
+parent#giga,giga,GIGA,Dexs,giga-2,2,804072,
+id#6908,foom-cash,FOOM Cash,Privacy,,1,795615,no_gecko_id
+parent#smardex-ecosystem,smardex-ecosystem,SMARDEX Ecosystem,Dexs,smardex,2,795201,
+parent#defi-app,defi-app,Defi App,Interface,home,1,794541,
+id#chain#worldchain,world-chain,World Chain,Chain,,1,785181,no_gecko_id
+id#7198,pizza-city,Pizza City,Gamified Mining,pizza-2,1,782198,excluded_category
+parent#astros-protocol,astros-protocol,Astros Protocol,Derivatives,,1,777548,no_gecko_id
+id#1303,iron-bank,Iron Bank,Lending,iron-bank,1,773167,
+id#6892,primefi,PrimeFi,Lending,primefi,1,770915,
+id#7437,cooler-loans,Cooler Loans,Lending,,1,766555,no_gecko_id
+parent#charm-finance,charm-finance,Charm Finance,Liquidity Manager,,1,765089,no_gecko_id
+parent#world-markets-inc,world-markets-inc,World Markets,Derivatives,,2,764533,no_gecko_id
+parent#cleopatra-exchange,cleopatra-exchange,Cleopatra Exchange,Dexs,cleopatra,2,761369,
+parent#blasterswap,blasterswap,Blasterswap,Dexs,,2,758180,no_gecko_id
+parent#fusionx-finance,fusionx-finance,FusionX Finance,Dexs,,2,758026,no_gecko_id
+id#3722,hipo,Hipo,Liquid Staking,hipo-governance-token,1,754371,
+id#chain#mythos,mythos,Mythos,Chain,,1,753472,no_gecko_id
+parent#echo-protocol,echo-protocol,Echo Protocol,Lending,,3,741240,no_gecko_id
+parent#pumpspace,pumpspace,AllBlue,Yield,,3,729443,no_gecko_id
+id#chain#xlayer,x-layer,X Layer,Chain,,1,729197,no_gecko_id
+id#7275,metascalp-perps,Metascalp Perps,Interface,,1,728596,no_gecko_id
+parent#human-protocol,human-protocol,Human Protocol,Identity & Reputation,,2,727916,no_gecko_id
+id#8027,stonks,sTONks,Launchpad,stonks-3,1,727007,
+id#4555,tlx-finance,TLX Finance,Derivatives,tlx,1,722219,
+id#chain#mint,mint,Mint,Chain,,1,719865,no_gecko_id
+id#chain#moonbeam,moonbeam,Moonbeam,Chain,,1,717683,no_gecko_id
+id#5726,affluent,Affluent,Lending,,1,715839,no_gecko_id
+id#7614,katana-perps,Katana Perps,Derivatives,,1,713794,no_gecko_id
+id#3580,digift,DigiFT,RWA,,1,708276,no_gecko_id
+id#4779,sofa.org,SOFA.org,Options,rch-token,1,708182,
+id#7868,reental,Reental,RWA,reental,1,706774,
+id#chain#iotex,iotex,IoTeX,Chain,,1,704362,no_gecko_id
+id#3498,liquis,Liquis,Yield,liquis,1,699837,
+id#7487,moonbot,MoonBot,Interface,,1,688267,no_gecko_id
+id#8588,true-dex,TRUE DEX,Derivatives,,1,686482,no_gecko_id
+parent#saros,saros,Saros,Dexs,saros-finance,2,686043,
+id#5608,navigator,Navigator,Derivatives,navi-2,1,682539,
+id#2954,airswap,AirSwap,DEX Aggregator,airswap,1,679628,
+id#chain#sophon,sophon,Sophon,Chain,,1,676238,no_gecko_id
+parent#ultrasolid,ultrasolid,Ultrasolid,Dexs,ultrasolid,1,675669,
+id#5622,kyo-finance,Kyo Finance,Dexs,kyo,1,674306,
+id#2740,plexus,PLEXUS,DEX Aggregator,plexus-app,1,668822,
+parent#nirvana,nirvana,Nirvana,Onchain Capital Allocator,nirvana-ana,1,666211,
+id#434,tarot,Tarot,Lending,tarot-2,1,664328,
+id#7313,lantern-staked-sol,Lantern Staked SOL,Liquid Staking,,1,654307,no_gecko_id
+id#7020,hivemapper,Hivemapper,DePIN,hivemapper,1,653013,excluded_category
+parent#zns,zns,ZNS,Domains,,2,649081,no_gecko_id
+id#7974,basenames,Basenames,Domains,,1,645037,no_gecko_id
+parent#thetis-market,thetis-market,Thetis Market,Derivatives,,1,641928,no_gecko_id
+id#6531,dexari,Dexari,Interface,,1,639931,no_gecko_id
+id#7669,bounce.tech,Bounce.Tech,Derivatives,,1,639347,no_gecko_id
+id#6991,valdora-finance,Valdora Finance,Liquid Staking,,1,638888,no_gecko_id
+parent#shoebill-finance,shoebill-finance,Shoebill Finance,Lending,,1,637265,no_gecko_id
+parent#yaka-finance,yaka-finance,Yaka Finance,Dexs,yaka,2,637210,
+id#7963,claimrush,ClaimRush,Gamified Mining,,1,635106,no_gecko_id
+parent#bulbaswap,bulbaswap,BulbaSwap,Dexs,,2,634607,no_gecko_id
+id#7834,shiny,Shiny,Physical TCG,,1,634177,no_gecko_id
+parent#redacted,redacted,Dinero,Liquid Staking,dinero-2,1,632962,
+parent#swapbased,swapbased,SwapBased,Dexs,base,2,632515,
+id#7600,aori,Aori,Cross Chain Bridge,,1,632262,no_gecko_id
+id#4821,fanx-protocol,FanX Protocol,Dexs,,1,631114,no_gecko_id
+id#5213,jeton,Jeton,DEX Aggregator,,1,630318,no_gecko_id
+id#6662,drip.trade,Drip.Trade,NFT Marketplace,,1,628830,no_gecko_id
+id#5196,prerich,prerich,Dexs,,1,622569,no_gecko_id
+parent#y2k-finance,y2k-finance,Y2K Finance,Derivatives,y2k,2,618165,
+parent#river-inc,river-inc,River,CeDeFi,river,1,608648,
+id#2867,ensuro,Ensuro,Insurance,,1,606712,no_gecko_id
+id#7603,current,Current,Lending,,1,604001,no_gecko_id
+id#8540,pair,PAIR,Launchpad,pair,1,602249,
+id#chain#megaeth,megaeth,MegaETH,Chain,,1,600734,no_gecko_id
+id#6294,gliquid,Gliquid,Dexs,,1,595610,no_gecko_id
+id#5465,vectis-finance,Vectis Finance,Yield,,1,595531,no_gecko_id
+id#4592,origami-finance,Origami Finance,Leveraged Farming,,1,594711,no_gecko_id
+parent#swapr,swapr,Swapr,Dexs,swapr,2,594596,
+id#3205,phux,PHUX,Dexs,phux-governance-token,1,591970,
+id#1544,concentrator,Concentrator,Yield,concentrator,1,591654,
+id#8621,basestonk,BaseStonk,Launchpad,basestonk,1,590795,
+id#6194,9summits,9Summits,Risk Curators,,1,590627,no_gecko_id
+parent#machinex,machinex,MachineX,Dexs,,2,587224,no_gecko_id
+id#7345,sierra-protocol,Sierra Protocol,Yield,sierra-2,1,584436,
+id#6641,cattos,Cattos,Gaming,defi-cattos,1,581831,excluded_category
+id#6947,p2p.me,P2P.me,Payments,p2p-protocol,1,580788,excluded_category
+id#1788,invariant,Invariant,Dexs,invariant,1,579744,
+id#4448,superform,Superform,Yield Aggregator,,1,579100,no_gecko_id
+id#chain#eni,eni,ENI,Chain,,1,578973,no_gecko_id
+id#8236,aeon,aeon,AI Agents,aeon-2,1,578249,excluded_category
+id#3421,mendi-finance,Mendi Finance,Lending,mendi-finance,1,576851,
+id#7447,printr,Printr,Launchpad,,1,575487,no_gecko_id
+id#2299,emdx,EMDX,Derivatives,emdx,1,575264,
+parent#kana-labs,kana-labs,Xyra Labs,Derivatives,,1,573977,no_gecko_id
+id#chain#reya,reyachain,ReyaChain,Chain,,1,570958,no_gecko_id
+id#6003,1dex,1DEX,Dexs,,1,566081,no_gecko_id
+parent#more-markets,more-markets,MORE,Lending,,1,559128,no_gecko_id
+id#7788,xaue-protocol,XAUE Protocol,RWA,,1,555690,no_gecko_id
+id#chain#kroma,kroma,Kroma,Chain,,1,552326,no_gecko_id
+id#6496,honeypop-dex,Honeypop DEX,Dexs,,1,547964,no_gecko_id
+id#6487,varlamore-capital,Varlamore Capital,Risk Curators,,1,544875,no_gecko_id
+parent#juicebox,juicebox,Juicebox,Launchpad,juicebox,1,541876,
+id#6032,walrus-protocol,Walrus Protocol,Developer Tools,walrus-2,1,540743,excluded_category
+parent#primit,primit,Primit,Derivatives,,1,537585,no_gecko_id
+id#8539,termix,TermiX,AI Agents,,1,537522,no_gecko_id
+id#5902,stout,Stout,CDP,,1,533141,no_gecko_id
+id#5945,magnum-bot,Magnum Bot,Trading App,,1,533077,no_gecko_id
+parent#ocelex,ocelex,Ocelex,Dexs,,2,532903,no_gecko_id
+id#5001,capyfi,Capyfi,Lending,,1,531495,no_gecko_id
+id#chain#merlin-chain,merlin,Merlin,Chain,,1,527354,no_gecko_id
+id#4136,bitflow,Bitflow,Dexs,,1,526521,no_gecko_id
+id#5970,jpg-store,JPG Store,NFT Marketplace,jpg-store,1,525756,
+id#1444,vesta-finance,Vesta Finance,CDP,vesta-finance,1,525008,
+parent#dexfinance,dexfinance,DexFi,Yield Aggregator,dexfi-governance,2,521696,
+id#5529,silverswap,SilverSwap,Dexs,,1,520716,no_gecko_id
+id#8090,blockchain-wallet-perps,Blockchain Wallet Perps,Interface,,1,520632,no_gecko_id
+id#5598,volboost,VolBoost,Volume Boosting,,1,519059,no_gecko_id
+parent#bunni,bunni,Bunni,Dexs,bunni,1,517025,
+id#7841,legend-trade,Legend Trade,Interface,,1,507708,no_gecko_id
+id#4430,web3.world,Web3.world,Dexs,web3-world,1,507382,
+id#5350,teleswap,TeleSwap,Bridge,teleport-system-token,1,504865,
+parent#adrastea,adrastea,Adrastea Finance,Liquid Staking,,1,503332,no_gecko_id
+id#7650,universalx,UniversalX,Trading App,,1,500306,no_gecko_id
+id#1660,swappi,Swappi,Dexs,swappi,1,499444,
+id#6963,rocksolid-network,RockSolid Network,Yield,,1,497436,no_gecko_id
+id#3563,cipher.rip,cipher.rip,SoFi,,1,492094,no_gecko_id
+id#6948,obol,Obol,Staking Pool,obol-2,1,486390,
+id#7073,capx-ai,Capx AI,AI Agents,capx-ai,1,480196,excluded_category
+id#7130,donut,Donut,Farm,,1,478328,no_gecko_id
+parent#molten,molten,Molten,Dexs,,3,476825,no_gecko_id
+id#chain#aurora,aurora,Aurora,Chain,,1,475263,no_gecko_id
+id#7144,pleasing-gold,Pleasing Gold,RWA,,1,470741,no_gecko_id
+id#chain#ronin,ronin,Ronin,Chain,,1,469954,no_gecko_id
+id#6819,quanto,Quanto,Derivatives,,1,469271,no_gecko_id
+id#4457,fly.trade,fly.trade,Cross Chain Bridge,fly-2,1,467830,
+id#3835,substance-exchange,Substance Exchange,Derivatives,,1,464618,no_gecko_id
+parent#dyorswap,dyorswap,DyorSwap,Launchpad,dyor,2,463700,
+id#chain#sanko,sanko,Sanko,Chain,,1,462852,no_gecko_id
+parent#caviarnine,caviarnine,CaviarNine,Dexs,floop,3,462689,
+parent#rooster-protocol,rooster-protocol,Rooster Protocol,Dexs,,2,459796,no_gecko_id
+parent#zest,zest,Zest,Lending,zest-protocol,2,458777,
+id#1594,symbiosis,Symbiosis,Cross Chain Bridge,symbiosis-finance,1,457288,
+id#449,qidao,QiDao,CDP,qi-dao,1,454778,
+id#6649,myriad-markets,Myriad Markets,Prediction Market,,1,453775,no_gecko_id
+parent#tangible,tangible,Tangible,Yield,tangible,2,442542,
+parent#asymmetry,asymmetry,Asymmetry,CDP,asymmetry-finance,1,435546,
+id#chain#dexalot,dexalot,Dexalot,Chain,,1,434833,no_gecko_id
+id#8602,attention-mine,Attention Mine,Gamified Mining,,1,434663,no_gecko_id
+parent#dopex,dopex,Stryke,Options,stryke,1,434478,
+id#7055,mu-digital,Mu Digital,RWA,,1,434211,no_gecko_id
+id#8307,bow.fun,bow.fun,Launchpad,,1,432819,no_gecko_id
+id#4606,yieldnest,YieldNest,Onchain Capital Allocator,yieldnest,1,432630,
+id#7161,backpack-sol,Backpack SOL,Liquid Staking,,1,427851,no_gecko_id
+id#8155,sentry,Sentry,Launchpad,,1,426345,no_gecko_id
+id#1732,verse,Verse,Dexs,verse-bitcoin,1,424687,
+id#7167,faith-protocol,FAITH Protocol,Gamified Mining,,1,421759,no_gecko_id
+id#3053,fluxbeam,FluxBeam,Dexs,,1,421460,no_gecko_id
+id#7606,arkada,Arkada,SoFi,,1,420013,no_gecko_id
+parent#revert,revert,Revert,Lending,,1,419904,no_gecko_id
+parent#premia,premia,Kyan,Options,,3,417808,no_gecko_id
+id#5627,sakefinance,SakeFinance,Lending,sone,1,414253,
+parent#brownfi,brownfi,BrownFi,Dexs,,3,413424,no_gecko_id
+id#7057,mustang-finance,Mustang Finance,CDP,,1,413102,no_gecko_id
+id#1140,netswap,NetSwap,Dexs,netswap,1,412881,
+parent#kittypunch,kittypunch,KittyPunch,Dexs,kona,2,411776,
+parent#sablier-finance,sablier-finance,Sablier,Payments,,1,410546,no_gecko_id
+id#chain#ink,ink,Ink,Chain,,1,409963,no_gecko_id
+id#220,vesper,Vesper,Yield Aggregator,vesper-finance,1,409680,
+id#7224,groypfi,GroypFi,DEX Aggregator,groyper-3,1,406562,
+id#728,defiplaza,DefiPlaza,Dexs,defiplaza,1,405134,
+id#5524,datadex,DataDex,Dexs,,1,404628,no_gecko_id
+id#6806,keyring,Keyring,Risk Curators,,1,403755,no_gecko_id
+id#chain#goat,goat,GOAT,Chain,,1,401392,no_gecko_id
+id#1554,kleros,Kleros,Services,kleros,1,400230,excluded_category
+parent#okieswap,okieswap,OkieSwap,Dexs,,4,396511,no_gecko_id
+id#5926,aave-chan,Aave-Chan,DAO Service Provider,,1,394289,no_gecko_id
+id#4799,termmax,TermMax,Lending,termmax,1,391881,
+parent#meta-pool,meta-pool,Meta Pool,Liquid Staking,meta-pool,1,391710,
+id#5027,memecast.ai,MEMECAST.AI,Prediction Market,memecast-ai,1,391294,
+id#5919,hanji-protocol,Hanji Protocol,Dexs,,1,391050,no_gecko_id
+id#3146,scatter,Scatter,NFT Marketplace,,1,390901,no_gecko_id
+id#chain#zilliqa,zilliqa,Zilliqa,Chain,,1,389924,no_gecko_id
+id#6655,rip.fun,RIP.FUN,NFT Marketplace,,1,389293,no_gecko_id
+id#7910,alt-fun,Alt Fun,Launchpad,alt,1,386687,
+id#7125,polycule,Polycule,Interface,polycule,1,386010,
+id#2228,aries-markets,Aries Markets,Lending,,1,383087,no_gecko_id
+id#6629,vexy,Vexy,NFT Marketplace,,1,379924,no_gecko_id
+parent#3jane,3jane,3Jane,Uncollateralized Lending,,1,378228,no_gecko_id
+parent#clutch-markets,clutch-markets,Clutch Markets,Dexs,clutch,1,377776,
+id#chain#katana-chain,katana,Katana,Chain,,1,377327,no_gecko_id
+id#172,index-coop,Index Coop,Indexes,index-cooperative,1,377080,
+id#2890,carbon-defi,Carbon Defi,Dexs,,1,376309,no_gecko_id
+id#7833,allox,AlloX,DEX Aggregator,,1,374869,no_gecko_id
+parent#xswap-protocol,xswap-protocol,XSwap Protocol,Dexs,xswap-protocol,2,371444,
+id#8500,immunefi,Immunefi,Services,immunefi,1,369889,excluded_category
+parent#mango-markets,mango-markets,Mango Markets,Derivatives,mango-markets,1,366247,
+id#chain#zeta,zetachain,ZetaChain,Chain,,1,363300,no_gecko_id
+id#6862,syntropia,Syntropia,Yield Aggregator,,1,362866,no_gecko_id
+parent#stabble,stabble,Stabble,Dexs,stabble,2,361779,
+parent#mezo-swap,mezo-swap,Mezo Tigris,CDP,,2,361574,no_gecko_id
+id#7958,america.fun,America.Fun,Launchpad,america-s-official-launchpad,1,356182,
+id#6566,dswap,Dswap,Dexs,,1,355103,no_gecko_id
+id#8482,topblast.lol,topblast.lol,Launchpad,,1,353207,no_gecko_id
+id#chain#somnia,somnia,Somnia,Chain,,1,351971,no_gecko_id
+id#chain#noble,noble,Noble,Chain,,1,351497,no_gecko_id
+parent#arbitrum-exchange,arbitrum-exchange,Arbitrum Exchange,Dexs,arbitrum-exchange,2,351459,
+id#8132,trasia,Trasia,Interface,,1,351102,no_gecko_id
+id#6358,eulerswap,EulerSwap,Dexs,,1,349815,no_gecko_id
+id#chain#imx,immutable-zkevm,Immutable zkEVM,Chain,,1,349293,no_gecko_id
+id#5950,justbet,JustBet,Luck Games,,1,348536,no_gecko_id
+parent#chronos,chronos,Chronos,Dexs,chronos-finance,1,345841,
+id#7237,chimpions-sol,Chimpions SOL,Liquid Staking,,1,345832,no_gecko_id
+id#7776,nerona,Nerona,Yield Aggregator,,1,345711,no_gecko_id
+id#6657,whatexchange,WhatExchange,Interface,,1,344925,no_gecko_id
+id#5880,ooga-booga,Ooga Booga,DEX Aggregator,ooga-booga,1,344904,
+parent#maia-dao-ecosystem,maia-dao-ecosystem,Maia DAO Ecosystem,Dexs,maia,3,342230,
+id#7042,kintsu,Kintsu,Liquid Staking,,1,342113,no_gecko_id
+id#6808,singularv,SingularV,Risk Curators,,1,341591,no_gecko_id
+id#7358,shimmerblocks,ShimmerBlocks,Block Builders,,1,341188,no_gecko_id
+parent#afx-protocol,afx-protocol,AFX Protocol,Derivatives,,1,338968,no_gecko_id
+parent#topaz,topaz,Topaz,Dexs,topaz,2,337709,
+id#7547,kreo,Kreo,Interface,,1,337237,no_gecko_id
+id#8633,route,Route,DEX Aggregator,,1,336501,no_gecko_id
+id#2397,gyroscope-protocol,Gyroscope Protocol,Dexs,gyroscope-gyd,1,334439,
+id#chain#botanix,botanix,Botanix,Chain,,1,333546,no_gecko_id
+id#6744,interface-social,Interface Social,Interface,,1,329871,no_gecko_id
+parent#lendle,lendle,Lendle,Lending,lendle,1,328826,
+id#6326,nova,Nova,Telegram Bot,,1,327571,no_gecko_id
+id#8532,cantex,Cantex,Dexs,,1,327319,no_gecko_id
+id#7083,o2-exchange,O2 Exchange,Dexs,,1,326877,no_gecko_id
+id#1882,ferro,Ferro,Dexs,ferro,1,326506,
+parent#squadswap,squadswap,SquadSwap,Dexs,squadswap,4,324257,
+parent#dango,dango,Dango,Derivatives,,1,324217,no_gecko_id
+id#5233,kerberus,Kerberus,Security Extension,,1,323853,no_gecko_id
+id#2586,equilibre,Equilibre,Dexs,equilibre,1,323108,
+id#6805,avantgarde,Avantgarde,Risk Curators,,1,322303,no_gecko_id
+id#8577,pez-family,Pez Family,Launchpad,,1,318171,no_gecko_id
+id#2858,glif,GLIF,Liquid Staking,,1,314492,no_gecko_id
+id#6784,legion,Legion,Launchpad,,1,312691,no_gecko_id
+id#6176,kofi-finance,Kofi Finance,Liquid Staking,,1,310162,no_gecko_id
+id#3918,butter.xyz,Butter.xyz,Dexs,,1,308704,no_gecko_id
+id#2734,blast-api,Blast API,Developer Tools,,1,308254,no_gecko_id
+id#7604,airnfts,AirNFTs,NFT Marketplace,airnft-token,1,307661,
+id#chain#swellchain,swellchain,Swellchain,Chain,,1,306422,no_gecko_id
+id#5309,nabla-finance,Nabla Finance,Dexs,nabla,1,304465,
+id#7987,bulk,BULK,Derivatives,,1,303181,no_gecko_id
+id#chain#sei,sei,Sei,Chain,,1,300109,no_gecko_id
+id#5671,hfun,Hfun,Launchpad,hypurr-fun,1,299631,
+id#chain#kaia,kaia,Kaia,Chain,,1,298520,no_gecko_id
+id#7329,fira,Fira,Lending,,1,297835,no_gecko_id
+id#8064,pumpbox,PumpBox,Physical TCG,,1,297426,no_gecko_id
+id#8848,orbio,Orbio,AI Agents,orbio-so,1,294520,excluded_category
+id#chain#flare,flare,Flare,Chain,,1,294389,no_gecko_id
+id#chain#stacks,stacks,Stacks,Chain,,1,293807,no_gecko_id
+id#5094,gaspump,GasPump,Launchpad,,1,292876,no_gecko_id
+id#chain#story,data-network,Data Network,Chain,,1,292515,no_gecko_id
+parent#pepeteam,pepeteam,PepeTeam,Liquid Staking,,1,291144,no_gecko_id
+id#7197,openledger,OpenLedger,Decentralized AI,openledger-2,1,291066,
+id#6558,dextrabot,dextrabot,Interface,,1,290244,no_gecko_id
+id#7218,alphaq,AlphaQ,Dexs,,1,288401,no_gecko_id
+parent#dackieswap,dackieswap,DackieSwap,Dexs,dackieswap-2,2,286737,
+id#7824,ready-cards,Ready Cards,Physical TCG,ready,1,284693,excluded_category
+id#7655,thorwallet,THORWallet,DEX Aggregator,thor-wallet,1,284120,
+id#5737,wavex,waveX,Derivatives,,1,283929,no_gecko_id
+id#chain#xchain,xchain,XCHAIN,Chain,,1,280819,no_gecko_id
+id#4043,liquidloans,LiquidLoans,CDP,liquid-loans,1,279121,
+id#6333,kgen,KGeN,SoFi,kgen,1,278456,excluded_category
+id#6575,aqua,Aqua,Telegram Bot,,1,277312,no_gecko_id
+id#5528,kongswap,KongSwap,Dexs,kongswap,1,276802,
+id#4642,zeno-exchange,Zeno Exchange,Derivatives,,1,276446,no_gecko_id
+parent#velocimeter,velocimeter,Velocimeter,Dexs,fantom-velocimeter,1,275264,
+id#6545,lootbase,Lootbase,Interface,,1,274291,no_gecko_id
+id#4128,econia,Econia,Dexs,,1,272274,no_gecko_id
+id#chain#multiversx,multiversx,MultiversX,Chain,,1,272156,no_gecko_id
+id#chain#berachain,berachain,Berachain,Chain,,1,267472,no_gecko_id
+id#7006,speedtrading,SpeedTrading,Derivatives,,1,266918,no_gecko_id
+id#7701,prestocks,PreStocks,RWA,,1,265395,no_gecko_id
+parent#mars-protocol,mars-protocol,Mars Protocol,Derivatives,mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3,1,265386,
+id#chain#plasma,plasma,Plasma,Chain,,1,264958,no_gecko_id
+id#2385,exactly,Exactly,Lending,exa,1,264678,
+id#5454,emojicoin.fun,Emojicoin.fun,Launchpad,,1,263767,no_gecko_id
+id#8821,faze,FAZE,Launchpad,,1,263224,no_gecko_id
+parent#spaace,spaace,Spaace,NFT Marketplace,,2,262018,no_gecko_id
+id#3620,xena-finance,Xena Finance,Derivatives,xena-finance,1,260719,
+id#6352,tapp-exchange,Tapp Exchange,Dexs,,1,260602,no_gecko_id
+id#6126,uniderp,UniDerp,Launchpad,,1,259830,no_gecko_id
+parent#deepbook,deepbook,DeepBook,Dexs,deep,1,256973,
+id#5766,bulla-exchange,Bulla Exchange,Dexs,bulla-4,1,256065,
+id#7011,ventuals,Ventuals,Interface,,1,255991,no_gecko_id
+id#7284,apexliquid-perps,Apexliquid Perps,Interface,,1,255826,no_gecko_id
+parent#axelar-network,axelar-network,Axelar Network,Bridge,axelar,1,254741,
+id#1614,0vix,0vix,Lending,,1,253600,no_gecko_id
+id#chain#apechain,apechain,ApeChain,Chain,,1,253595,no_gecko_id
+id#6301,oxium,Oxium,Dexs,,1,253141,no_gecko_id
+id#7659,auki,Auki,DePIN,auki-labs,1,251678,excluded_category
+id#3117,astroport,Astroport,Dexs,astroport-fi,1,249525,
+id#6798,lithos,Lithos,Dexs,lithos,1,249195,
+id#6872,element-nft-marketplace,Element NFT Marketplace,NFT Marketplace,,1,246373,no_gecko_id
+id#chain#metis,metis,Metis,Chain,,1,245662,no_gecko_id
+parent#supswap,supswap,SupSwap,Dexs,,2,243552,no_gecko_id
+id#6020,liquid-ron,Liquid Ron,Liquid Staking,,1,239604,no_gecko_id
+id#6916,collex,Collex,Physical TCG,,1,236561,no_gecko_id
+id#6783,symmio,SYMMIO,Derivatives,symmio,1,234806,
+parent#flow-swap,flow-swap,FlowSwap,Dexs,flow,1,234630,
+id#5533,memejob,MemeJob,Launchpad,,1,233771,no_gecko_id
+parent#liminal,liminal,Liminal,Interface,,1,233737,no_gecko_id
+id#7296,wundertrading-perps,WunderTrading Perps,Interface,,1,232424,no_gecko_id
+id#chain#canto,canto,Canto,Chain,,1,232353,no_gecko_id
+id#6446,k-bit,K-BIT,Derivatives,,1,231719,no_gecko_id
+id#4426,ashperp,AshPerp,Derivatives,,1,230467,no_gecko_id
+parent#swapmode,swapmode,SwapMode,Dexs,swapmode,2,230134,
+id#7205,permapod,Permapod,Lending,,1,230122,no_gecko_id
+id#7184,project-0,Project 0,Lending,,1,228271,no_gecko_id
+id#6954,supercexy,Supercexy,Interface,,1,226754,no_gecko_id
+id#1986,canto-lending,Canto Lending,Lending,,1,226531,no_gecko_id
+parent#inception,inception,Inception,Yield,,1,223477,no_gecko_id
+id#8042,temple,Temple,Dexs,,1,219180,no_gecko_id
+id#597,babyswap,BabySwap,Dexs,babyswap,1,219158,
+parent#aftermath-finance,aftermath-finance,Aftermath Finance,Dexs,,1,218558,no_gecko_id
+id#7751,eva-markets,eva Markets,RWA,,1,218523,no_gecko_id
+id#6334,gluex,GlueX,DEX Aggregator,,1,217152,no_gecko_id
+id#8262,ccxt-perps,CCXT Perps,Interface,,1,217135,no_gecko_id
+id#3337,none-trading,None Trading,Services,none-trading,1,215835,excluded_category
+id#8506,coinbarrel,Coinbarrel,Launchpad,,1,215829,no_gecko_id
+id#8664,copyfomo,copyfomo,Telegram Bot,copy,1,215587,excluded_category
+id#6084,rank-trading,Rank Trading,Yield,rank-2,1,215563,
+id#8272,squeeze,Squeeze,Launchpad,,1,215495,no_gecko_id
+id#6742,emporium,Emporium,Physical TCG,,1,215305,no_gecko_id
+id#7457,doma-dex-v3,Doma DEX V3,Dexs,,1,215156,no_gecko_id
+id#5857,degen-express,Degen Express,Launchpad,,1,213080,no_gecko_id
+id#6952,hypersignals,HyperSignals,Interface,,1,211111,no_gecko_id
+id#4729,lynx,Lynx,Derivatives,,1,210339,no_gecko_id
+id#4294,infusion,Infusion,Dexs,,1,209289,no_gecko_id
+id#chain#lisk,lisk,Lisk,Chain,,1,209196,no_gecko_id
+id#8849,mev-x-homelander,MEV-X Homelander,Liquidity Automation,,1,206658,no_gecko_id
+id#7615,paragon,Paragon,Interface,,1,205571,no_gecko_id
+id#6561,superx,SuperX,Interface,,1,205075,no_gecko_id
+id#8405,vultisig,Vultisig,DEX Aggregator,vultisig,1,204573,
+id#1616,radioshack,RadioShack,Dexs,radioshack,1,203679,
+id#8313,luna,LUNA,Gamified Mining,,1,201904,no_gecko_id
+id#7298,coal,COAL,Gamified Mining,,1,201795,no_gecko_id
+id#6184,gt3,GT3,Dexs,gt3-finance,1,201172,
+id#6209,ouroboros-capital,Ouroboros Capital,Risk Curators,,1,199412,no_gecko_id
+id#8094,atomic-perps,Atomic Perps,Interface,atomic-wallet-coin,1,195090,
+id#chain#superposition,superposition,Superposition,Chain,,1,194500,no_gecko_id
+id#5845,wasabee,Wasabee,Dexs,,1,193549,no_gecko_id
+id#8513,umia,Umia,Launchpad,umia,1,188028,
+id#8522,ignix,Ignix,Launchpad,,1,187679,no_gecko_id
+parent#dipcoin,dipcoin,DipCoin,Derivatives,,2,186865,no_gecko_id
+id#6897,bend,BEND,Lending,,1,186101,no_gecko_id
+id#7725,topstrike,TopStrike,Gaming,,1,185256,no_gecko_id
+id#5689,kaio,KAIO,RWA,kaio,1,184291,
+id#3761,hopr,HOPR,Privacy,hopr,1,182592,excluded_category
+id#8096,vibeliquid-perps,VibeLiquid Perps,Interface,,1,182324,no_gecko_id
+id#chain#kub,kub,KUB,Chain,,1,181887,no_gecko_id
+id#7210,space-and-time,Space and Time,Developer Tools,space-and-time,1,180264,excluded_category
+id#6260,reachme,ReachMe,SoFi,,1,180189,no_gecko_id
+id#1601,wingriders,WingRiders,Dexs,wingriders,1,180007,
+id#chain#astar,astar,Astar,Chain,,1,178827,no_gecko_id
+id#7812,orai-quant-terminal,Orai Quant Terminal,Onchain Capital Allocator,,1,178524,no_gecko_id
+id#2252,llamalend,Llamalend,NFT Lending,,1,177582,no_gecko_id
+parent#hedgehood,hedgehood,HedgeHood,Meme,hedgehood,2,176964,
+id#5745,burrbear,BurrBear,Dexs,burr-governance-token,1,176085,
+id#7292,senpi-perps,Senpi Perps,Interface,,1,175885,no_gecko_id
+parent#alandale,alandale,Alandale,Dexs,,1,175798,no_gecko_id
+parent#eddyfinance,eddyfinance,EddyFinance,Dexs,,1,175776,no_gecko_id
+parent#miroshark,miroshark,MiroShark,AI Agents,miroshark,2,174662,excluded_category
+id#4319,myx-finance,MYX Finance,Derivatives,myx-finance,1,174539,
+id#6013,moar-market,Moar Market,Leveraged Farming,,1,173694,no_gecko_id
+id#8452,deepstate,Deepstate,Dexs,,1,173623,no_gecko_id
+id#7276,splash-wallet-perps,Splash Wallet Perps,Interface,,1,172896,no_gecko_id
+id#8290,steel,STEEL,Gamified Mining,,1,172895,no_gecko_id
+id#8498,entropy.io,entropy.io,Interface,,1,172717,no_gecko_id
+parent#figure-markets,figure-markets,Figure Markets,OTC Marketplace,,1,171026,no_gecko_id
+id#384,firebird,Firebird,DEX Aggregator,firebird-finance,1,169979,
+id#7683,galaxy-digital-hype-staking,Galaxy Digital HYPE Staking,Staking Pool,,1,169811,no_gecko_id
+parent#everclear,everclear,Everclear.org,Cross Chain Bridge,everclear,1,169149,
+id#8095,hyperx-perps,HyperX Perps,Interface,,1,168854,no_gecko_id
+id#6913,feather,Feather,Risk Curators,,1,168816,no_gecko_id
+id#6896,zia,Zia,Dexs,,1,168639,no_gecko_id
+id#7030,taiko-swap,Taiko Swap,Dexs,,1,168124,no_gecko_id
+parent#powercity,powercity,POWERCITY,CDP,powercity-watt,2,165742,
+parent#rfx-exchange,rfx-exchange,RFX Exchange,Derivatives,,1,163991,no_gecko_id
+parent#treble,treble,Treble,Dexs,treble,3,163308,
+parent#somnex,somnex,Somnex,Derivatives,,3,162965,no_gecko_id
+id#7018,beamable-network,Beamable Network,DePIN,beamable-network-token,1,162176,excluded_category
+parent#ociswap,ociswap,Ociswap,Dexs,ociswap,2,161759,
+parent#peach,peach,Peach,Launchpad,,1,161067,no_gecko_id
+id#8476,token.select,token.select,Launchpad,select,1,161000,
+id#5906,yuzu-finance,Yuzu Finance,Dexs,,1,158802,no_gecko_id
+id#8589,bucket-shop,Bucket Shop,Yield,,1,157064,no_gecko_id
+id#7271,coinpilot,Coinpilot,Interface,,1,156753,no_gecko_id
+parent#parallel-protocol,parallel-protocol,Parallel Protocol,CDP,mimo-parallel-governance-token,1,155665,
+id#4691,eisen-finance,EISEN Finance,DEX Aggregator,,1,148830,no_gecko_id
+id#5640,sonex,Sonex,Dexs,,1,148296,no_gecko_id
+id#chain#etherlink,etherlink,Etherlink,Chain,,1,147276,no_gecko_id
+id#5964,bakerdao,BakerDAO,Reserve Currency,bread-2,1,147024,
+id#chain#rari,rari,Rari,Chain,,1,146350,no_gecko_id
+parent#rujira,rujira,Rujira,Dexs,rujira,1,146165,
+id#2842,sharky,Sharky,NFT Lending,sharky-fi,1,144937,
+id#6562,wallet-v,Wallet V,Interface,,1,143485,no_gecko_id
+id#2855,noah-swap,Noah Swap,Dexs,,1,141585,no_gecko_id
+id#6667,botanix-stbtc,Botanix stBTC,Liquid Staking,,1,141239,no_gecko_id
+id#7922,tangent-finance,Tangent Finance,Lending,,1,140419,no_gecko_id
+parent#1inch,1inch,1inch,Dexs,1inch,1,139920,
+id#3609,basedmarkets,basedmarkets,Derivatives,based-markets,1,139017,
+id#5875,tea-fi,Tea-Fi,Yield,tea-fi,1,138490,
+id#5980,liquidops,LiquidOps,Lending,liquidops,1,138272,
+id#4154,orby-network,Orby Network,CDP,orb,1,137894,
+parent#bullbit-protocol,bullbit-protocol,Bullbit Protocol,Derivatives,bullbit,2,137082,
+id#4015,deepr-finance,Deepr Finance,Lending,deepr,1,135171,
+id#6215,alterscope,Alterscope,Risk Curators,,1,134831,no_gecko_id
+parent#ribbon-finance,ribbon-finance,Ribbon Finance,Options Vault,ribbon-finance,1,134002,
+id#5643,sailfish-finance,SailFish Finance,Dexs,,1,131495,no_gecko_id
+id#8000,traderline-predictions,Traderline Predictions,Interface,,1,131051,no_gecko_id
+id#173,badger-dao,Badger DAO,Yield Aggregator,badger-dao,1,129154,
+id#8432,what-the-hook,What The Hook,Liquidity Automation,what-the-hook,1,128769,
+id#2290,ghostmarket,GhostMarket,NFT Marketplace,ghostmarket,1,127908,
+id#6821,giza,Giza,AI Agents,giza,1,127490,excluded_category
+id#7260,elfomofi,ElfomoFi,Dexs,,1,127346,no_gecko_id
+id#chain#ethereumclassic,ethereumclassic,EthereumClassic,Chain,,1,126627,no_gecko_id
+id#6983,luna.fun,Luna.fun,Launchpad,,1,125720,no_gecko_id
+id#7994,nansen-perps,Nansen Perps,Interface,,1,125392,no_gecko_id
+id#6455,virtue,Virtue,CDP,,1,125051,no_gecko_id
+id#6419,privex,PriveX,Interface,,1,123402,no_gecko_id
+id#7385,dexly-trade,Dexly Trade,Interface,,1,121702,no_gecko_id
+id#7844,vena-finance,Vena Finance,Lending,,1,120696,no_gecko_id
+id#6481,hyperbrick,HyperBrick,Dexs,,1,119396,no_gecko_id
+id#8867,xnet,XNET,DePIN,xnet-mobile-2,1,119172,excluded_category
+id#chain#earnm,earnm,Earnm,Chain,,1,116374,no_gecko_id
+id#4295,lets-get-hai,Lets Get HAI,CDP,kite,1,115472,
+parent#capybara-exchange,capybara-exchange,Capybara Exchange,Dexs,,1,114795,no_gecko_id
+id#3493,friendroom,FriendRoom,SoFi,friend-room,1,114540,excluded_category
+id#6752,lit.trade,Lit.Trade,Interface,,1,114494,no_gecko_id
+id#8484,kintara,Kintara,Gaming,kintara,1,113597,excluded_category
+id#3814,sumer.money,Sumer.money,Lending,,1,113140,no_gecko_id
+id#613,swop,Swop,Dexs,swop,1,112733,
+id#6865,foxify,foxify,Derivatives,foxify,1,112281,
+id#8038,yourgrails,YourGrails,Physical TCG,,1,111274,no_gecko_id
+parent#ferra,ferra,Ferra,Dexs,,2,111253,no_gecko_id
+id#5474,swing,Swing,DEX Aggregator,swing-xyz,1,109824,
+id#chain#nuls,nuls,Nuls,Chain,,1,109557,no_gecko_id
+id#4804,soroswap,Soroswap,Dexs,,1,108017,no_gecko_id
+id#5977,privacy-pools,Privacy Pools,Privacy,,1,107774,no_gecko_id
+id#7450,lamboo,Lamboo,DEX Aggregator,,1,107281,no_gecko_id
+id#chain#polkadot,polkadot,Polkadot,Chain,,1,107089,no_gecko_id
+parent#hubra,hubra,Hubra,Liquid Staking,,1,106483,no_gecko_id
+id#8617,cook-market,Cook Market,Launchpad,cook-market,1,105665,
+parent#mento,mento,Mento,Dexs,mento,2,104338,
+id#225,enzyme-finance,Enzyme Finance,Indexes,melon,1,104029,
+id#7853,polygun,Polygun,Interface,,1,102833,no_gecko_id
+id#7711,liquid-protocol,Liquid Protocol,Launchpad,,1,102729,no_gecko_id
+id#7265,prism-dex,Prism DEX,Dexs,,1,100098,no_gecko_id
+id#2804,forge,Forge,Dexs,,1,99636,no_gecko_id
+id#7098,santa-browser,Santa Browser,Services,,1,99582,no_gecko_id
+id#6302,alpha-arcade,Alpha Arcade,Prediction Market,,1,99452,no_gecko_id
+parent#9mm,9mm,9MM Pro,Dexs,9mm,1,98989,
+id#8529,hookers,Hookers,Launchpad,,1,98835,no_gecko_id
+id#chain#eclipse,eclipse,Eclipse,Chain,,1,96795,no_gecko_id
+parent#lift,lift,LIFT,Launchpad,,2,95773,no_gecko_id
+id#854,xexchange,xExchange,Dexs,maiar-dex,1,94181,
+id#5885,meridian-amm,Meridian AMM,Dexs,,1,93418,no_gecko_id
+parent#flamingo,flamingo,Flamingo,Dexs,flamingo-finance,1,93374,
+id#6880,jaine,JAINE,Dexs,,1,93061,no_gecko_id
+id#chain#neon,neon,Neon,Chain,,1,92597,no_gecko_id
+id#8225,flowr,flowr,Gamified Mining,,1,92450,no_gecko_id
+id#8380,crshmarket,CRSHMARKET,Prediction Market,,1,92199,no_gecko_id
+id#4786,time.fun,time.fun,SoFi,,1,92022,no_gecko_id
+id#8309,agnt,AGNT,Launchpad,agnt-social,1,91793,
+id#6088,zyfai,ZyFAI,AI Agents,zyfi,1,91754,excluded_category
+id#3454,dano-finance,Dano Finance,Dexs,,1,91658,no_gecko_id
+parent#dove-swap,dove-swap,Dove Swap,Dexs,,1,91637,no_gecko_id
+id#8101,suigar,Suigar,Luck Games,,1,91533,no_gecko_id
+parent#hydradex,hydradex,Hydradex,Dexs,,2,91239,no_gecko_id
+parent#omni-exchange,omni-exchange,Omni Exchange,Dexs,,3,90945,no_gecko_id
+parent#paintswap,paintswap,Paintswap,Dexs,paint-swap,1,90919,
+parent#synthra,synthra,Synthra Finance,Dexs,,4,90133,no_gecko_id
+id#4811,mintswap-finance,MintSwap Finance,Dexs,,1,89738,no_gecko_id
+id#8173,peptides,PEPTIDES,Interface,peptides-2,1,89525,
+id#chain#hemi,hemi,Hemi,Chain,,1,89269,no_gecko_id
+id#3055,unlimited-network,Unlimited Network,Derivatives,unlimited-network-token,1,89025,
+id#3585,tangleswap,TangleSwap,Dexs,tangleswap-void,1,88365,
+id#5954,dextoro,DexToro,Trading App,dextoro-2,1,86980,
+id#3257,icpswap,ICPSwap,Dexs,icpswap-token,1,86920,
+parent#covo-finance,covo-finance,Covo Finance,Derivatives,,2,86424,no_gecko_id
+id#7040,kaching,Kaching,Luck Games,,1,86074,no_gecko_id
+id#7148,cheesepad,CheesePad,Launchpad,,1,85885,no_gecko_id
+id#3234,derpdex,DerpDEX,Dexs,,1,85727,no_gecko_id
+parent#popdex,popdex,PopDEX,Derivatives,,1,84971,no_gecko_id
+id#5724,sx-bet,SX Bet,Prediction Market,,1,84823,no_gecko_id
+id#6066,kairos-timeboost,Kairos Timeboost,MEV,,1,84446,no_gecko_id
+parent#monetrix,monetrix,Monetrix,Basis Trading,,2,84037,no_gecko_id
+id#742,furucombo,Furucombo,Services,furucombo,1,83980,excluded_category
+id#7630,mememarket,MemeMarket,Launchpad,,1,83004,no_gecko_id
+id#6727,somnia-exchange,Somnia Exchange,Dexs,nia-2,1,82870,
+id#7306,sai,Sai,Derivatives,,1,82864,no_gecko_id
+id#7799,jade,Jade,Gamified Mining,jade-protocol-2,1,82573,excluded_category
+id#5304,yamfore,Yamfore,Lending,yamfore,1,82238,
+parent#grizzlyfi,grizzlyfi,Grizzlyfi,Derivatives,grizzly-honey,2,82127,
+id#3123,stealcam,Stealcam,NFT Marketplace,,1,81343,no_gecko_id
+id#chain#bitcoin-cash,bitcoincash,Bitcoincash,Chain,,1,81096,no_gecko_id
+id#7286,echosync-perps,EchoSync Perps,Interface,,1,80926,no_gecko_id
+id#6012,bodega-market,Bodega Market,Prediction Market,bodega,1,80903,
+id#3209,pinnako,Pinnako,Derivatives,pinnako,1,80053,
+id#4109,segment-finance,Segment Finance,Lending,segment,1,79557,
+id#2532,zonic,Zonic,NFT Marketplace,,1,79351,no_gecko_id
+id#3532,manga-fi,Manga FI,Yield,,1,79190,no_gecko_id
+id#8092,xbit-perps,XBIT Perps,Interface,,1,78903,no_gecko_id
+parent#pearlfi,pearlfi,PearlFi,Dexs,pearl,1,78649,
+id#5573,machfi,MachFi,Lending,,1,77968,no_gecko_id
+id#3703,chainchat,Chainchat,SoFi,,1,77240,no_gecko_id
+id#7770,nextrare,NextRare,Physical TCG,,1,76863,no_gecko_id
+id#6207,m11-credit,M11 Credit,Risk Curators,,1,76627,no_gecko_id
+id#8586,jetbit,Jetbit,Derivatives,,1,76531,no_gecko_id
+id#5437,taraswap,Taraswap,Dexs,taraswap,1,76089,
+id#5298,rabbit-swap,Rabbit Swap,Dexs,rabbitswap-2,1,75906,
+parent#umoja-protocol,umoja-protocol,Umoja Protocol,Synthetics,umoja,1,75674,
+id#6736,cashmere,Cashmere,Bridge,,1,73051,no_gecko_id
+id#7158,chatter-shield,Chatter Shield,Developer Tools,,1,72055,no_gecko_id
+id#7935,basedbid,basedbid,Launchpad,,1,71670,no_gecko_id
+id#5290,surge-trade,Surge Trade,Derivatives,surge-2,1,71509,
+id#2737,persistence-dex,Persistence DEX,Dexs,,1,69911,no_gecko_id
+id#695,dinosaur-eggs,Dinosaur Eggs,Dexs,dinosaureggs,1,69416,
+id#8034,avici,Avici,Crypto Card Issuer,avici,1,68920,
+id#5865,flarebank,FlareBank,Reserve Currency,,1,68729,no_gecko_id
+id#7273,gem-wallet-perps,Gem Wallet Perps,Interface,,1,68142,no_gecko_id
+id#6329,hyperbloom,HyperBloom,DEX Aggregator,,1,67666,no_gecko_id
+id#6901,shift-protocol,Shift Protocol,Onchain Capital Allocator,,1,67371,no_gecko_id
+parent#flowbot,flowbot,FlowBot,Interface,,1,67033,no_gecko_id
+id#7838,apriori,aPriori,Liquid Staking,apriori,1,66653,
+id#5592,prime-staking,Prime Staking,Liquid Staking,,1,66147,no_gecko_id
+id#7601,lunarbase,Lunarbase,Dexs,,1,65877,no_gecko_id
+id#3509,nether.fi,Nether.Fi,Derivatives,netherfi,1,65770,
+id#8546,keyrock,Keyrock,Risk Curators,,1,65427,no_gecko_id
+id#7469,welephant,WELEPHANT,Gamified Mining,wrapped-elephant,1,65347,excluded_category
+id#8749,gas,Gas,Gaming,,1,65274,no_gecko_id
+id#680,tinyman,Tinyman,Dexs,tiny,1,65214,
+parent#cro-trade,cro-trade,cro.trade,Interface,,2,64772,no_gecko_id
+parent#rollup-finance,rollup-finance,Rollup Finance,Derivatives,,1,64444,no_gecko_id
+id#8085,vergex-perps,Vergex Perps,Interface,,1,63483,no_gecko_id
+id#chain#alienx,alienx,AlienX,Chain,,1,63389,no_gecko_id
+id#6551,sendshot,Sendshot,Launchpad,send-2,1,62750,
+id#8091,onyx-perps,Onyx Perps,Interface,,1,62566,no_gecko_id
+parent#kuru,kuru,Kuru,DEX Aggregator,,2,62499,no_gecko_id
+parent#bitgenie,bitgenie,BitGenie,Dexs,bitgenie,1,62009,
+parent#ajna,ajna,Ajna Protocol,Lending,ajna-protocol,2,61531,
+id#5029,bellum-exchange,Bellum Exchange,Launchpad,,1,61410,no_gecko_id
+id#1201,zunami-protocol,Zunami Protocol,Yield Aggregator,,1,60925,no_gecko_id
+parent#monday-trade,monday-trade,Monday Trade,Derivatives,,2,60531,no_gecko_id
+id#4256,stability,Stability,Liquidity Manager,stability,1,60389,
+id#6931,moneyx,MoneyX,Derivatives,,1,60233,no_gecko_id
+id#3822,hover,Hover,Lending,hover,1,59299,
+id#3605,blex,BLEX,Derivatives,,1,57892,no_gecko_id
+id#chain#mezo,mezo,Mezo,Chain,,1,57808,no_gecko_id
+parent#bluemove,bluemove,BlueMove,NFT Marketplace,bluemove,1,57161,
+id#3032,winr-protocol,WINR Protocol,Prediction Market,winr-protocol,1,56719,
+id#8366,orvex,Orvex,Dexs,,1,55682,no_gecko_id
+id#6283,bookusd,BOOKUSD,CDP,,1,55591,no_gecko_id
+id#6077,solomon-usdv,Solomon USDv,Basis Trading,solomon,1,55497,
+id#6743,hypertek,HyperTek,Prediction Market,,1,55120,no_gecko_id
+parent#tristero,tristero,Tristero,Dexs,,1,55107,no_gecko_id
+id#7613,nfprompt,NFPrompt,NFT Marketplace,nfprompt-token,1,54708,
+id#5324,asset-chain-swap,Asset Chain Swap,Dexs,,1,54309,no_gecko_id
+id#5765,mondrian-swap,Mondrian Swap,Dexs,,1,54231,no_gecko_id
+id#chain#tempo,tempo,Tempo,Chain,,1,53126,no_gecko_id
+id#6390,peer,Peer,Payments,,1,52853,no_gecko_id
+id#3325,gambit-trade,Gambit Trade,Derivatives,,1,52368,no_gecko_id
+parent#hypertrade,hypertrade,Hypertrade,Dexs,,1,51591,no_gecko_id
+id#7843,fluxflow-v3,FluxFlow V3,Dexs,,1,51361,no_gecko_id
+id#4788,dusa-protocol,Dusa Protocol,Dexs,,1,50461,no_gecko_id
+id#6337,racks,Racks,Derivatives,,1,50438,no_gecko_id
+id#8701,foci,Foci,Launchpad,foci,1,50316,
+parent#shapeswap,shapeswap,ShapeSwap,Dexs,,2,50215,no_gecko_id
+id#6325,hypercat,HyperCat,Dexs,,1,50030,no_gecko_id
+parent#ellipse,ellipse,Ellipse,Dexs,ellipse,3,49700,
+id#8534,hertzflow,HertzFlow,Derivatives,,1,49353,no_gecko_id
+parent#evplusai,evplusai,EVplusAI,Interface,,2,48733,no_gecko_id
+parent#rialto,rialto,Rialto,DEX Aggregator,,1,48490,no_gecko_id
+id#7835,worm,Worm,Prediction Market,,1,48137,no_gecko_id
+parent#voodoo-trade,voodoo-trade,Voodoo Trade,Derivatives,,1,47935,no_gecko_id
+id#7578,edel,Edel,Lending,edel,1,47729,
+id#8690,wonk-fun,Wonk Fun,Launchpad,,1,47621,no_gecko_id
+id#5908,witty,Witty,Gaming,,1,46765,no_gecko_id
+id#6246,skate-amm,Skate AMM,Dexs,,1,45926,no_gecko_id
+id#chain#matchain,matchain,Matchain,Chain,,1,45741,no_gecko_id
+id#8475,drake-exchange,Drake Exchange,Derivatives,,1,45544,no_gecko_id
+id#3816,xfai,Xfai,Dexs,xfit,1,44901,
+parent#vicuna,vicuna,Vicuna Finance,Lending,,2,44226,no_gecko_id
+id#chain#igra,igra,Igra,Chain,,1,43551,no_gecko_id
+id#chain#citrea,citrea,Citrea,Chain,,1,43422,no_gecko_id
+id#7780,dune-protocol,Dune Protocol,Gamified Mining,,1,43154,no_gecko_id
+id#6344,alkimiya,Alkimiya,Derivatives,,1,42339,no_gecko_id
+id#6409,carbon.inc,Carbon.inc,Derivatives,,1,42139,no_gecko_id
+id#6591,hx-finance,HX Finance,Dexs,,1,42090,no_gecko_id
+id#7862,strato,STRATO,CDP,,1,41995,no_gecko_id
+id#7943,blackopal,BlackOpal,RWA,,1,41496,no_gecko_id
+id#chain#fuse,fuse,Fuse,Chain,,1,41484,no_gecko_id
+id#7291,ranger-finance-perps,Ranger Finance Perps,Interface,,1,40823,no_gecko_id
+id#4693,basecamp,Basecamp,Launchpad,,1,40676,no_gecko_id
+id#2648,archerswap,ArcherSwap,Dexs,archerswap-bow,1,40332,
+id#7336,satsuma,Satsuma,Dexs,,1,39960,no_gecko_id
+parent#spinup,spinup,SpinUp,Dexs,,2,39823,no_gecko_id
+parent#rocket,rocket,Rocket,Derivatives,,1,39723,no_gecko_id
+id#8624,zerc20,zERC20,Privacy,,1,39668,no_gecko_id
+id#8338,pmav,pmav,Launchpad,,1,39534,no_gecko_id
+id#2979,tsunamix,TsunamiX,Derivatives,,1,39317,no_gecko_id
+id#chain#redstone,redstone,Redstone,Chain,,1,39123,no_gecko_id
+parent#ascent-exchange,ascent-exchange,Ascent Exchange,Dexs,,2,38892,no_gecko_id
+id#3566,friend3,Friend3,SoFi,friend3,1,38729,excluded_category
+id#8263,owly,Owly,Interface,,1,38168,no_gecko_id
+parent#kim-exchange,kim-exchange,KIM Exchange,Dexs,kim-token,2,38061,
+id#chain#grx-chain,grx-chain,GRX Chain,Chain,,1,37345,no_gecko_id
+id#chain#ancient8,ancient8,Ancient8,Chain,,1,36751,no_gecko_id
+parent#swaphood,swaphood,SwapHood,Dexs,,2,36280,no_gecko_id
+id#4674,yfx-v4,YFX V4,Derivatives,,1,35963,no_gecko_id
+id#6167,basisos,BasisOS,Basis Trading,basisos-by-virtuals,1,35919,
+id#chain#shape,shape,Shape,Chain,,1,35773,no_gecko_id
+parent#clober,clober,Clober,Dexs,,1,35716,no_gecko_id
+id#6177,ivx-protocol,IVX Protocol,Options,,1,35691,no_gecko_id
+id#5934,finder-bot,Finder Bot,AI Agents,,1,35571,no_gecko_id
+id#8075,hypurrquant,HypurrQuant,DEX Aggregator,,1,35281,no_gecko_id
+id#7147,infinityname,InfinityName,Domains,,1,34948,no_gecko_id
+parent#motoswap,motoswap,Motoswap,Dexs,moto,2,34901,
+id#7001,rubyscore,RubyScore,Services,,1,34792,no_gecko_id
+parent#alpaca-finance,alpaca-finance,Alpaca Finance,Derivatives,alpaca-finance,1,34675,
+id#7077,stabull-finance,Stabull Finance,Dexs,stabull-finance,1,34412,
+id#8610,world-is-flat,World is Flat,Onchain Voting,world-is-flat,1,34360,
+id#chain#exsat,exsat,exSat,Chain,,1,34340,no_gecko_id
+id#4196,dinari,Dinari,RWA,,1,34104,no_gecko_id
+id#1812,fluidtokens,FluidTokens,Lending,fluidtokens,1,34054,
+id#7295,uxuy-perps,Uxuy Perps,Interface,,1,34049,no_gecko_id
+id#6810,somnialend,SomniaLend,Lending,,1,33662,no_gecko_id
+id#7088,haystack,Haystack,Trading App,haystack,1,33604,
+id#7542,perptools,PERPTools,Interface,,1,33577,no_gecko_id
+parent#kuraswap,kuraswap,KuraSwap,Dexs,kura,2,33381,
+id#7173,aur-protocol,AUR Protocol,Gamified Mining,,1,33327,no_gecko_id
+id#chain#core,core,CORE,Chain,,1,33049,no_gecko_id
+id#5467,agdex,AGDEX,Derivatives,,1,33020,no_gecko_id
+id#6961,oroswap,OroSwap,Dexs,,1,32458,no_gecko_id
+id#chain#xrplevm,xrpl-evm,XRPL EVM,Chain,,1,32374,no_gecko_id
+id#4263,gaming-dex,Gaming DEX,Dexs,,1,32350,no_gecko_id
+id#chain#seda,seda,Seda,Chain,,1,32240,no_gecko_id
+id#6434,nerite,Nerite,CDP,nerite,1,32162,
+id#8348,roar,ROAR,Gamified Mining,,1,31968,no_gecko_id
+id#6877,zealousswap,ZealousSwap,Dexs,zeal,1,31760,
+id#4181,scopuly,Scopuly,Dexs,scopuly-token,1,31479,
+id#7524,megamine,Megamine,Gamified Mining,,1,31460,no_gecko_id
+id#7473,purrlend,Purrlend,Lending,,1,31344,no_gecko_id
+id#7515,amigo,Amigo,SoFi,,1,31205,no_gecko_id
+parent#factor,factor,Factor,Yield,factor,1,30960,
+id#6109,lobbyfi,LobbyFi,Governance Incentives,,1,30915,no_gecko_id
+id#6677,zapzy,Zapzy,Launchpad,zapzy,1,30892,
+id#3823,keom-protocol,Keom Protocol,Lending,,1,30884,no_gecko_id
+id#3983,immortalx,ImmortalX,Derivatives,,1,30771,no_gecko_id
+id#7187,omnihub,OmniHub,NFT Marketplace,,1,30660,no_gecko_id
+id#8582,umbrae,Umbrae,Dexs,,1,30577,no_gecko_id
+id#659,jetswap,JetSwap,Dexs,jetswap-token,1,30522,
+id#6816,solid-yield,Solid Yield,Yield,,1,30239,no_gecko_id
+id#7527,ratio,Ratio,Prediction Market,,1,30134,no_gecko_id
+parent#nemo,nemo,Nemo,Yield Aggregator,,2,29969,no_gecko_id
+parent#voltage,voltage,Voltage,Dexs,fusefi,2,29943,
+id#4834,napier,Napier,Yield,,1,29670,no_gecko_id
+id#5610,jetstream,Jetstream,Derivatives,,1,29553,no_gecko_id
+id#8674,tolly,Tolly,Launchpad,,1,29290,no_gecko_id
+id#5601,verus-market,Verus Market,Dexs,,1,29207,no_gecko_id
+id#7290,moontrader-perps,MoonTrader Perps,Interface,,1,28946,no_gecko_id
+id#4475,etaswap,EtaSwap,DEX Aggregator,,1,28930,no_gecko_id
+parent#fathom,fathom,Fathom,CDP,fathom-protocol,1,28845,
+id#4500,firefly,firefly,Dexs,,1,28447,no_gecko_id
+parent#kinto,kinto,Kinto,Interface,kinto,1,28434,
+id#6192,worldle,Worldle,Gaming,,1,28383,no_gecko_id
+parent#coin98-protocol,coin98-protocol,Coin98 Protocol,Interface,coin98,1,27962,
+id#chain#onus,onus,Onus,Chain,,1,27564,no_gecko_id
+id#5273,defx,Defx,Derivatives,,1,27173,no_gecko_id
+parent#mosaic,mosaic,Mosaic,Dexs,,1,27081,no_gecko_id
+id#8512,alfaclub,AlfaClub,SoFi,alfaclub,1,27031,excluded_category
+id#7570,mineloot,MineLoot,Gamified Mining,mineloot,1,26996,excluded_category
+id#chain#mind-network,mind-network,Mind Network,Chain,,1,26797,no_gecko_id
+id#7562,callput,CallPut,Options,,1,26764,no_gecko_id
+id#7886,preddy,Preddy,Interface,,1,26681,no_gecko_id
+id#chain#prom,prom,Prom,Chain,,1,26590,no_gecko_id
+parent#shido-dex,shido-dex,Shido Dex,Dexs,shido-dex,1,26553,
+id#3429,yfx,YFX,Derivatives,yfx,1,26300,
+id#6089,haven1-hswap,Haven1 hSwap,Dexs,,1,25838,no_gecko_id
+id#7419,zentra-finance,Zentra Finance,Lending,,1,25806,no_gecko_id
+id#chain#fraxtal,fraxtal,Fraxtal,Chain,,1,25615,no_gecko_id
+parent#ravenhood,ravenhood,Ravenhood,Volume Boosting,ravenhood,1,25600,
+id#6533,consensus-liquidity-dex,Consensus Liquidity DEX,Dexs,,1,25458,no_gecko_id
+parent#xo-protocol,xo-protocol,XO Protocol,Prediction Market,,1,25227,no_gecko_id
+id#6206,llamarisk,LlamaRisk,Risk Curators,,1,25150,no_gecko_id
+id#7823,aveforge,AveForge,Gaming,,1,25087,no_gecko_id
+id#chain#vana,vana,Vana,Chain,,1,24761,no_gecko_id
+parent#interest-labs,interest-labs,Interest Labs,Dexs,,2,24405,no_gecko_id
+id#8332,hoodfrens,HoodFrens,SoFi,,1,24398,no_gecko_id
+id#4827,scoop,scoop,SoFi,,1,23876,no_gecko_id
+id#7566,omnipair,Omnipair,Lending,omnipair,1,23513,
+id#2898,liondex,LionDEX,Derivatives,liondex,1,23454,
+parent#aperture-finance,aperture-finance,Aperture Finance,Dexs,aperture-finance,1,23434,
+id#4631,viridian-exchange,Viridian Exchange,Dexs,,1,23335,no_gecko_id
+parent#raphael-exchange,raphael-exchange,Raphael Exchange,Dexs,,2,23200,no_gecko_id
+id#4904,rheo,Rheo,Lending,,1,23171,no_gecko_id
+id#8375,frontier,Frontier,Launchpad,,1,22918,no_gecko_id
+id#8119,ohayo-global,OHAYO Global,Interface,,1,22787,no_gecko_id
+id#5571,satoshi-perps,SATOSHI PERPS,Derivatives,,1,22720,no_gecko_id
+id#7393,velto,Velto,Interface,,1,22631,no_gecko_id
+id#2487,stargaze,Stargaze,NFT Marketplace,stargaze,1,22445,
+parent#stable-swap,stable-swap,Stable Swap,Dexs,,2,22360,no_gecko_id
+id#845,axial,Axial,Dexs,axial-token,1,22308,
+id#490,plenty,Plenty,Dexs,plenty-ply,1,22123,
+id#6256,permute,Permute,Bridge,,1,21400,no_gecko_id
+id#8330,yieldzio,Yieldzio,Interface,,1,21369,no_gecko_id
+id#8677,ubi.fun,UBI.fun,Launchpad,,1,21122,no_gecko_id
+id#chain#bsquared,bsquared,BSquared,Chain,,1,20877,no_gecko_id
+parent#moneyfi,moneyfi,MoneyFi,Yield Aggregator,,2,20813,no_gecko_id
+id#8185,tron-services,Tron Services,Staking Rental,,1,20705,no_gecko_id
+parent#lilswap,lilswap,LilSwap,DEX Aggregator,,2,20612,no_gecko_id
+parent#ebisu-finance,ebisu-finance,Ebisu,CDP,,1,20584,no_gecko_id
+id#8634,dexlab,DexLab,Launchpad,dexlab-3,1,20527,
+id#7867,tradoor-perps-aggregator,Tradoor Perps Aggregator,Interface,,1,20452,no_gecko_id
+id#8449,wise-token,Wise Token,Yield,wise-token11,1,20268,
+parent#sperax,sperax,Sperax,Yield Aggregator,sperax,1,19856,
+id#2350,kyotoswap,KyotoSwap,Dexs,kyotoswap,1,19845,
+parent#vanillaswap,vanillaswap,VanillaSwap,Dexs,,2,19827,no_gecko_id
+id#chain#shimmer_evm,shimmerevm,ShimmerEVM,Chain,,1,19794,no_gecko_id
+id#7938,kaskad,Kaskad,Lending,kaskad,1,19792,
+id#183,wing-finance,Wing Finance,Lending,wing-finance,1,19738,
+parent#bim,bim,BIM,Yield Aggregator,bim-2,1,19680,
+id#7732,hit-one,Hit One,Interface,,1,19672,no_gecko_id
+id#6568,earnium,Earnium,Dexs,,1,19585,no_gecko_id
+id#chain#boba,boba,Boba,Chain,,1,19478,no_gecko_id
+id#8160,gwei-name-service,Gwei Name Service,Domains,,1,19184,no_gecko_id
+parent#valiant-trade,valiant-trade,Valiant Trade,Interface,,1,19069,no_gecko_id
+id#301,nerve,Nerve,Dexs,nerve-finance,1,19042,
+id#8514,ride-markets,Ride Markets,DEX Aggregator,,1,18926,no_gecko_id
+parent#arthswap,arthswap,ArthSwap,Dexs,arthswap,1,18762,
+id#6181,orki-finance,Orki Finance,CDP,,1,18623,no_gecko_id
+id#2847,world-mobile-token,World Mobile Token,Services,world-mobile-token,1,18471,excluded_category
+parent#filament,filament,Filament Finance,Derivatives,,1,18243,no_gecko_id
+id#8493,agen.space,Agen.space,Launchpad,,1,18149,no_gecko_id
+id#419,saber,Saber,Dexs,saber,1,18147,
+id#5307,morfi,MorFi,Dexs,,1,18114,no_gecko_id
+id#8328,surge-credit,Surge Credit,Lending,,1,17787,no_gecko_id
+id#364,volmex,Volmex,Yield,,1,17741,no_gecko_id
+id#8311,orchard,Orchard,Gamified Mining,,1,17573,no_gecko_id
+id#chain#doma,doma,Doma,Chain,,1,17464,no_gecko_id
+id#8125,liquidbots,LiquidBots,Interface,,1,17394,no_gecko_id
+parent#forest-protocol,forest-protocol,Forest Protocol,Dexs,forest-protocol,1,17238,
+id#7923,3f,3F,Leveraged Farming,,1,17166,no_gecko_id
+id#chain#songbird,songbird,Songbird,Chain,,1,17143,no_gecko_id
+parent#pacaswap,pacaswap,PacaSwap,Dexs,pacaswap,1,16998,
+id#7494,otomate.trade,otomate.trade,Interface,,1,16891,no_gecko_id
+id#5862,hyperyield,HyperYield,Lending,,1,16836,no_gecko_id
+id#6620,thirdfy,Thirdfy,Dexs,thirdfy,1,16547,
+id#5185,meme-cooking,Meme Cooking,Launchpad,,1,16535,no_gecko_id
+id#8543,archade,Archade,Launchpad,,1,16503,no_gecko_id
+id#chain#telos,telos,Telos,Chain,,1,16423,no_gecko_id
+parent#cap-finance,cap-finance,Cap Finance,Derivatives,cap,1,16419,
+id#3246,sobal,Sobal,Dexs,,1,16332,no_gecko_id
+id#chain#adventure-layer,adventure-layer,Adventure Layer,Chain,,1,15987,no_gecko_id
+parent#kaspacom,kaspacom,KaspaCom,Dexs,,1,15986,no_gecko_id
+id#1466,alex,ALEX,Dexs,alexgo,1,15964,
+parent#hydro-protocol,hydro-protocol,HYDRO,Lending,hydro-protocol-2,1,15942,
+id#2513,liquid-bolt,Liquid Bolt,Yield,,1,15848,no_gecko_id
+parent#cryptex-finance,cryptex-finance,Cryptex Finance,Derivatives,cryptex-finance,1,15541,
+id#5895,puppyfun,Puppyfun,Launchpad,,1,15297,no_gecko_id
+id#8088,origami-tech-perps,Origami Tech Perps,Interface,,1,15289,no_gecko_id
+id#7870,openchat,OpenChat,SoFi,openchat,1,15188,excluded_category
+id#7983,mycelia-signal,Mycelia Signal,Oracle,,1,15087,no_gecko_id
+id#7889,flex,Flex,Lending,,1,15001,no_gecko_id
+id#8087,cwallet-perps,Cwallet Perps,Interface,,1,14991,no_gecko_id
+id#6878,coinhain,Coinhain,Dexs,,1,14953,no_gecko_id
+id#chain#osmosis-chain,osmosis,Osmosis,Chain,,1,14856,no_gecko_id
+parent#sectorone,sectorone,DLMM KING,Dexs,,1,14853,no_gecko_id
+id#7262,hydro-inflow,Hydro Inflow,Yield,,1,14780,no_gecko_id
+id#chain#algorand,algorand,Algorand,Chain,,1,14609,no_gecko_id
+id#2546,nftearth,NFTEarth,NFT Marketplace,nftearth,1,14606,
+id#7274,katoshi-perps,Katoshi Perps,Interface,,1,14601,no_gecko_id
+parent#fenix-finance,fenix-finance,Fenix Finance,Dexs,fenix,2,14463,
+id#chain#appchain,appchain,Appchain,Chain,,1,14415,no_gecko_id
+id#8166,yeno,YeNo,Interface,,1,14344,no_gecko_id
+id#8037,mercury,Mercury,Gamified Mining,,1,14047,no_gecko_id
+id#6899,marquee,Marquee,Insurance,,1,13990,no_gecko_id
+id#6886,open-stablecoin-index,Open Stablecoin Index,Indexes,squill,1,13592,
+id#7478,liquidium,Liquidium,Lending,liquidium-token,1,13415,
+id#8269,autorange,AutoRange,Dexs,,1,13365,no_gecko_id
+id#8336,elara-finance,Elara Finance,Treasury Manager,,1,13332,no_gecko_id
+id#7453,pump-party,Pump Party,Gaming,,1,13243,no_gecko_id
+id#4733,wen-markets,wen markets,Launchpad,,1,13169,no_gecko_id
+id#8743,kicker,kicker,Yield,,1,13096,no_gecko_id
+id#7477,simpledex,SimpleDEX,Dexs,,1,13088,no_gecko_id
+id#5636,zarban,Zarban,Lending,,1,13016,no_gecko_id
+id#7288,gtr.trade-perps,GTR.trade Perps,Interface,gtr-trade,1,12831,
+id#8007,pokeliquid,Pokeliquid,Derivatives,,1,12679,no_gecko_id
+id#6345,volta-markets,Volta Markets,Derivatives,,1,12671,no_gecko_id
+parent#sheriff,sheriff,Sheriff,Dexs,,2,12553,no_gecko_id
+id#7945,ryze-protocol,Ryze Protocol,Dexs,,1,12472,no_gecko_id
+id#chain#dfk,dfk,DFK,Chain,,1,12368,no_gecko_id
+id#8866,loan-meme,Loan Meme,Lending,,1,12339,no_gecko_id
+parent#panoptic,panoptic,Panoptic protocol,Options,,1,12312,no_gecko_id
+id#7651,monorail,Monorail,DEX Aggregator,,1,12012,no_gecko_id
+id#5065,apex-defi,Apex DeFi,Dexs,,1,11871,no_gecko_id
+id#4041,horiza,Horiza,Dexs,,1,11860,no_gecko_id
+id#chain#dash,dash,Dash,Chain,,1,11773,no_gecko_id
+id#7972,dotmega-domains,dotMEGA Domains,Domains,,1,11760,no_gecko_id
+id#chain#corn,corn,Corn,Chain,,1,11656,no_gecko_id
+id#8878,zipcoin,Zipcoin,Privacy,zip-coin,1,11595,excluded_category
+parent#snap,snap,Snap,Dexs,,1,11559,no_gecko_id
+id#6813,salsadex,Salsadex,Interface,,1,11492,no_gecko_id
+id#2504,rarible,Rarible,Services,rarible,1,11455,excluded_category
+id#chain#deri-chain,deri-chain,Deri Chain,Chain,,1,11379,no_gecko_id
+id#7887,polytrader,Polytrader,Interface,,1,11327,no_gecko_id
+id#6458,nexapia,Nexapia,Dexs,,1,11304,no_gecko_id
+parent#loxodrome,loxodrome,Loxodrome,Dexs,,2,11257,no_gecko_id
+id#8708,rankz,Rankz,Physical TCG,,1,11151,no_gecko_id
+id#8086,cipher-perps,Cipher Perps,Interface,,1,11146,no_gecko_id
+id#8869,cro.trade-aggregator,cro.trade Aggregator,DEX Aggregator,,1,11092,no_gecko_id
+id#6529,odyssey-finance,Odyssey Finance,Yield Aggregator,,1,11064,no_gecko_id
+id#2773,auragi-finance,Auragi Finance,Dexs,,1,10900,no_gecko_id
+id#5684,zoo.fun,ZOO.FUN,Launchpad,,1,10476,no_gecko_id
+id#8099,flooor.fun,flooor.fun,NFT Marketplace,,1,10463,no_gecko_id
+id#chain#kusama,kusama,Kusama,Chain,,1,10288,no_gecko_id
+id#8161,wei-name-service,Wei Name Service,Domains,,1,10184,no_gecko_id
+id#8081,topdog-perps,Topdog Perps,Interface,,1,10184,no_gecko_id
+id#6201,fence-finance,Fence Finance,Risk Curators,,1,10131,no_gecko_id
+id#5246,makenow.meme,makenow.meme,Launchpad,,1,10113,no_gecko_id
+id#6448,topcut-finance,TopCut Finance,Prediction Market,,1,10104,no_gecko_id
+parent#predy-finance,predy-finance,Predy Finance,Derivatives,,2,10080,no_gecko_id
+id#chain#gatelayer,gatelayer,GateLayer,Chain,,1,10060,no_gecko_id
+id#7289,hyprearn-perps,Hyprearn Perps,Interface,,1,9793,no_gecko_id
+parent#velar-protocol,velar-protocol,Velar Protocol,Dexs,velar,1,9761,
+parent#ubeswap,ubeswap,Ubeswap,Dexs,ubeswap,1,9706,
+id#7282,calculus,Calculus,AI Agents,,1,9697,no_gecko_id
+id#8462,fake-wall-street,Fake Wall Street,Luck Games,,1,9679,no_gecko_id
+parent#xtrade-protocol,xtrade-protocol,XTrade Protocol,Trading App,,2,9571,no_gecko_id
+id#5150,swap.coffee,swap.coffee,DEX Aggregator,,1,9538,no_gecko_id
+parent#solon,solon,Solon,Launchpad,solonpad,1,9435,
+id#6850,vibe-trading,Vibe Trading,Interface,,1,9410,no_gecko_id
+id#8875,realfi,RealFi,RWA,,1,9074,no_gecko_id
+id#8080,mmt-perps,MMT Perps,Interface,,1,8805,no_gecko_id
+id#7436,alphix,Alphix,Dexs,,1,8672,no_gecko_id
+id#8084,jester-perps,Jester Perps,Interface,,1,8631,no_gecko_id
+id#3299,fcon-dex,FCON DEX,Dexs,null,1,8571,
+id#8331,hololaunch,HoloLaunch,Launchpad,,1,8568,no_gecko_id
+parent#krokoswap,krokoswap,KrokoSwap,Dexs,,1,8433,no_gecko_id
+id#8670,guessone,GuessOne,Gamified Mining,,1,8424,no_gecko_id
+id#4989,velo-finance,Velo Finance,Dexs,velo,1,8375,
+id#chain#hashkey,hashkey-chain,HashKey Chain,Chain,,1,8361,no_gecko_id
+id#5016,cyberperp,Cyberperp,Derivatives,cyberperp,1,8360,
+id#7348,xeleb-protocol,Xeleb Protocol,AI Agents,xeleb-protocol,1,8354,excluded_category
+parent#zebra,zebra,Zebra,Dexs,,2,8257,no_gecko_id
+id#5846,hedgey,Hedgey,Payments,,1,8207,no_gecko_id
+id#8676,radardex,RadarDEX,Launchpad,,1,8190,no_gecko_id
+id#7085,muscadine,Muscadine,Risk Curators,,1,8183,no_gecko_id
+id#chain#iota_evm,iota-evm,IOTA EVM,Chain,,1,8078,no_gecko_id
+parent#arctide,arctide,Arctide,Dexs,,1,8045,no_gecko_id
+id#chain#hydration-chain,hydration,Hydration,Chain,,1,7935,no_gecko_id
+id#7044,aethonswap,AethonSwap,Dexs,aethonswap,1,7911,
+id#6166,roots,Roots,CDP,mead-2,1,7793,
+parent#sharpe-ai,sharpe-ai,Sharpe AI,Yield,sharpe-ai,1,7763,
+id#3694,everdex,Everdex,Dexs,,1,7720,no_gecko_id
+id#8271,rh.fun,RH.fun,Launchpad,,1,7696,no_gecko_id
+id#5612,margin-zero,Margin Zero,Options,,1,7660,no_gecko_id
+id#4930,spacewhale,SpaceWhale,Derivatives,,1,7654,no_gecko_id
+id#7188,possumlabs,PossumLabs,Launchpad,,1,7615,no_gecko_id
+id#5512,neby-dex,NEBY DEX,Dexs,,1,7525,no_gecko_id
+id#7501,wswap,Wswap,Dexs,,1,7474,no_gecko_id
+id#6585,dsx,DSX,Telegram Bot,,1,7467,no_gecko_id
+id#8228,smartx,SmartX,Interface,,1,7408,no_gecko_id
+id#8200,frothswap,FrothSwap,Dexs,,1,7335,no_gecko_id
+id#7021,bean-exchange,Bean Exchange,Dexs,,1,7326,no_gecko_id
+parent#linehub,linehub,LineHub,Dexs,,3,7274,no_gecko_id
+id#794,oolongswap,OolongSwap,Dexs,oolongswap,1,7154,
+id#chain#bifrost-chain,bifrost,Bifrost,Chain,,1,7104,no_gecko_id
+id#7074,narbet,NarBet,Luck Games,,1,7103,no_gecko_id
+id#6317,xflows,XFlows,Dexs,,1,7014,no_gecko_id
+id#6509,defi-dollar,DeFi Dollar,CDP,,1,6996,no_gecko_id
+id#5548,neutral-trade,Neutral Trade,Onchain Capital Allocator,,1,6890,no_gecko_id
+id#4162,goat-protocol,Goat Protocol,Yield Aggregator,goat-protocol,1,6882,
+parent#archly-finance,archly-finance,Archly Finance,Dexs,archly-finance,1,6761,
+id#chain#flow,flow,Flow,Chain,,1,6698,no_gecko_id
+id#2782,aktionariat,Aktionariat,RWA,,1,6599,no_gecko_id
+id#7335,juiceswap,Juiceswap,Dexs,,1,6544,no_gecko_id
+id#6396,1776.meme,1776.MEME,Launchpad,,1,6460,no_gecko_id
+id#6636,vibes,Vibes,Trading App,,1,6444,no_gecko_id
+id#8688,tsunami,Tsunami,Launchpad,,1,6392,no_gecko_id
+id#6729,musical-chairs,Musical Chairs,Gaming,,1,6380,no_gecko_id
+id#799,rubicon,Rubicon,Dexs,rubicon,1,6356,
+id#4087,lexer-markets,Lexer Markets,Derivatives,lexer-markets,1,6308,
+id#8477,shield-swap,Shield Swap,Dexs,,1,6292,no_gecko_id
+id#7609,markit,MarkIt,Prediction Market,,1,6262,no_gecko_id
+id#8619,lienfi,LienFi,RWA,lienfi,1,6221,
+id#chain#harmony,harmony,Harmony,Chain,,1,6207,no_gecko_id
+id#chain#dogechain,dogechain,Dogechain,Chain,,1,6177,no_gecko_id
+id#7518,dream,Dream,Options,,1,6103,no_gecko_id
+id#7323,playground,Playground,Payments,,1,6058,no_gecko_id
+id#8353,whale.ag,whale.ag,Interface,,1,6031,no_gecko_id
+id#8426,midas-markets,Midas Markets,Interface,,1,5922,no_gecko_id
+id#4987,opus,Opus,CDP,,1,5917,no_gecko_id
+id#2603,alienfi,AlienFi,Dexs,alienfi,1,5885,
+parent#robinswap,robinswap,RobinSwap,Dexs,,2,5861,no_gecko_id
+id#8576,loopr,Loopr,Yield,,1,5767,no_gecko_id
+id#chain#strato-chain,strato-chain,Strato Chain,Chain,,1,5745,no_gecko_id
+id#7424,czt,CZT,SoFi,,1,5743,no_gecko_id
+parent#denaria,denaria,Denaria,Derivatives,,2,5598,no_gecko_id
+id#7366,canonic,Canonic,Dexs,,1,5579,no_gecko_id
+id#8250,bot.fun,bot.fun,Launchpad,,1,5546,no_gecko_id
+id#2326,kperp-exchange,KPerp Exchange,Derivatives,,1,5380,no_gecko_id
+id#5369,reddex,reddex,Dexs,liquid-crypto,1,5328,
+id#6693,colorpool,ColorPool,Dexs,,1,5320,no_gecko_id
+id#6765,surf-liquid,Surf Liquid,Yield,surf-2,1,5308,
+id#chain#karura,karura,Karura,Chain,,1,5260,no_gecko_id
+id#8689,calamari,Calamari,Dexs,,1,5096,no_gecko_id
+id#4204,rockswap,Rockswap,Dexs,rockswap,1,5088,
+id#8679,aka,AKA,Launchpad,,1,5086,no_gecko_id
+id#7968,turbo,Turbo,Dexs,,1,5031,no_gecko_id
+id#6130,sentinel-trader-bot,Sentinel Trader Bot,Trading App,,1,5008,no_gecko_id
+id#5237,falcon-bot,Falcon Bot,Telegram Bot,,1,4982,no_gecko_id
+id#8464,lyra-protocol,Lyra Protocol,Trading App,,1,4950,no_gecko_id
+id#1453,vaulta-rex,Vaulta REX,Lending,,1,4911,no_gecko_id
+id#8239,quiver-protocol,Quiver Protocol,Liquidity Manager,,1,4903,no_gecko_id
+id#8381,solauncher,Solauncher,Launchpad,,1,4810,no_gecko_id
+id#7398,fwog.fun,Fwog.fun,Launchpad,,1,4779,no_gecko_id
+id#3418,meowl,Meowl,Services,meowl,1,4744,excluded_category
+id#6436,pumper,Pumper,Trading App,,1,4737,no_gecko_id
+parent#veax,veax,Veax,Dexs,veax,2,4722,
+id#7244,harbor,Harbor,Yield,,1,4712,no_gecko_id
+id#2102,titano-swych,Titano Swych,Dexs,titano,1,4613,
+id#8212,greentown,GreenTown,SoFi,,1,4575,no_gecko_id
+id#chain#winr,winr-chain,WINR Chain,Chain,,1,4523,no_gecko_id
+id#8612,gage,Gage,Lending,,1,4488,no_gecko_id
+parent#echodex,echodex,EchoDEX,Dexs,echodex-community-portion,2,4433,
+parent#launchy,launchy,Launchy,Dexs,,2,4398,no_gecko_id
+id#7311,mixoor,Mixoor,Privacy,mixoor,1,4372,excluded_category
+id#1791,vaultcraft,VaultCraft,Yield,vaultcraft,1,4355,
+id#7896,diem-relay,DIEM Relay,Liquid Staking,,1,4355,no_gecko_id
+id#4605,whales-market,Whales Market,OTC Marketplace,whales-market,1,4334,
+parent#gdex,gdex,GDEX,Derivatives,,2,4327,no_gecko_id
+id#chain#superseed,superseed,Superseed,Chain,,1,4317,no_gecko_id
+id#7386,rifts-finance,Rifts Finance,Yield,rifts-finance,1,4240,
+id#8682,ark-launch,ARK Launch,Launchpad,,1,4232,no_gecko_id
+parent#goo-exchange,goo-exchange,Goo Exchange,Dexs,,2,4231,no_gecko_id
+id#7131,torodex,ToroDex,Interface,,1,4215,no_gecko_id
+parent#hyperlynx,hyperlynx,Hyperlynx,Dexs,,2,4082,no_gecko_id
+id#7787,tizi,Tizi,Yield Aggregator,,1,3946,no_gecko_id
+parent#superswap,superswap,SuperSwap,Dexs,,2,3937,no_gecko_id
+id#7798,coffer,Coffer,Dexs,,1,3919,no_gecko_id
+id#6860,punk.coffee,Punk.Coffee,Prediction Market,,1,3833,no_gecko_id
+id#7017,honeypot-finance,Honeypot Finance,Interface,,1,3830,no_gecko_id
+id#8824,loong,Loong,Launchpad,,1,3808,no_gecko_id
+id#3713,touch.fan,Touch.fan,SoFi,,1,3803,no_gecko_id
+parent#vapordex,vapordex,VaporDex,Dexs,vaporfi,1,3787,
+id#1908,openbisea,OpenBiSea,Dexs,,1,3750,no_gecko_id
+id#3928,jibswap,JIBSWAP,Dexs,,1,3720,no_gecko_id
+id#1074,autoshark,AutoShark,Dexs,autoshark,1,3718,
+id#4119,omnidrome,Omnidrome,Dexs,,1,3695,no_gecko_id
+id#7544,taco,Taco,Interface,,1,3635,no_gecko_id
+id#7183,nickel,NICKEL,Gamified Mining,,1,3582,no_gecko_id
+parent#planet,planet,Planet,Dexs,planet-finance,1,3579,
+id#chain#neo-x-mainnet,neo-x-mainnet,Neo X Mainnet,Chain,,1,3565,no_gecko_id
+id#828,crodex,Crodex,Dexs,crodex,1,3564,
+id#7771,pool-party,Pool Party,Dexs,send-token-2,1,3539,
+id#8368,caldera,Caldera,Bridge Aggregator,caldera,1,3537,
+id#8345,boardwalk,Boardwalk,Launchpad,boardwalk,1,3503,
+id#5251,trueo,Trueo,Prediction Market,true,1,3500,
+parent#virtus-protocol,virtus-protocol,VIRTUS Protocol,Dexs,,2,3445,no_gecko_id
+id#8711,mog,Mog,Derivatives,,1,3430,no_gecko_id
+id#chain#aelf,aelf,aelf,Chain,,1,3426,no_gecko_id
+id#6384,arch-swap,Arch Swap,Dexs,,1,3324,no_gecko_id
+parent#trado-finance,trado-finance,Trado Finance,Derivatives,,1,3301,no_gecko_id
+id#8050,bloxwap,Bloxwap,Interface,bloxwap,1,3288,
+id#chain#satoshivm,satoshivm,SatoshiVM,Chain,,1,3281,no_gecko_id
+id#3758,goku-money,Goku Money,CDP,,1,3238,no_gecko_id
+id#8487,astro,Astro,Luck Games,,1,3204,no_gecko_id
+parent#smbswap,smbswap,SMBSwap,Dexs,,2,3199,no_gecko_id
+id#chain#eventum,eventum,Eventum,Chain,,1,3199,no_gecko_id
+id#chain#tac,tac,TAC,Chain,,1,3078,no_gecko_id
+id#4208,juice-finance,Juice Finance,Leveraged Farming,juice-finance,1,3063,
+parent#kayen-finance,kayen-finance,Kayen Finance,Liquid Staking,,2,3043,no_gecko_id
+id#1440,polaris-finance,Polaris Finance,Dexs,polar-token,1,3038,
+id#8359,mesha,Mesha,Derivatives,,1,3022,no_gecko_id
+id#chain#hpp,hpp,HPP,Chain,,1,2884,no_gecko_id
+id#6936,superstack,Superstack,Interface,,1,2884,no_gecko_id
+parent#keller-finance,keller-finance,Keller Finance,Dexs,,2,2870,no_gecko_id
+id#chain#polynomial,polynomial,Polynomial,Chain,,1,2848,no_gecko_id
+id#8526,hyperfx,HyperFX,DEX Aggregator,,1,2790,no_gecko_id
+id#7909,bond,Bond,Dexs,,1,2787,no_gecko_id
+id#8310,robhood,Robhood,Gamified Mining,,1,2786,no_gecko_id
+id#8048,hey,HEY,SoFi,,1,2739,no_gecko_id
+parent#chimpx-ai,chimpx-ai,ChimpX AI,Dexs,,1,2670,no_gecko_id
+id#chain#babylon-genesis,babylon-genesis,Babylon Genesis,Chain,,1,2655,no_gecko_id
+id#5202,infinite-trading-protocol,Infinite Trading Protocol,AI Agents,infinite-trading-protocol,1,2648,excluded_category
+id#6666,winnieswap,WinnieSwap,Dexs,,1,2637,no_gecko_id
+parent#tickerspring,tickerspring,TickerSpring,Trading App,ticker-spring,2,2574,
+id#chain#b3,b3,B3,Chain,,1,2566,no_gecko_id
+id#6868,cheapgm,CheapGM,Payments,,1,2559,no_gecko_id
+id#8808,primus,Primus,Oracle,,1,2557,no_gecko_id
+id#5685,quill-finance,Quill Finance,CDP,,1,2528,no_gecko_id
+id#7888,kiyotaka-prediction-market,Kiyotaka Prediction Market,Interface,,1,2518,no_gecko_id
+id#8495,user.fun,user.fun,Launchpad,,1,2500,no_gecko_id
+id#6217,silent-protocol,Silent Protocol,Privacy,,1,2454,no_gecko_id
+id#chain#cross,cross,CROSS,Chain,,1,2446,no_gecko_id
+id#chain#joc,joc,JOC,Chain,,1,2430,no_gecko_id
+parent#hadouken-finance,hadouken-finance,Hadouken Finance,Dexs,,1,2417,no_gecko_id
+parent#parityswap,parityswap,ParitySwap,Dexs,,2,2409,no_gecko_id
+id#chain#kasplex,kasplex,Kasplex,Chain,,1,2406,no_gecko_id
+id#chain#pearl-research,pearl,Pearl,Chain,,1,2373,no_gecko_id
+id#chain#csc,csc,CSC,Chain,,1,2329,no_gecko_id
+parent#dfx-finance,dfx-finance,DFX Finance,Dexs,dfx-finance,1,2317,
+id#7842,hash-paylink,Hash PayLink,Payments,,1,2312,no_gecko_id
+parent#rwaperp,rwaperp,RWAPerp.xyz,Interface,,1,2268,no_gecko_id
+id#8525,robin,Robin,Domains,,1,2264,no_gecko_id
+id#5198,swap-country,Swap Country,Dexs,,1,2237,no_gecko_id
+id#7781,tsunami-v3,Tsunami V3,Dexs,,1,2148,no_gecko_id
+id#7778,updown,UpDown,Derivatives,,1,2113,no_gecko_id
+id#chain#karak,k2,K2,Chain,,1,2054,no_gecko_id
+id#7700,armsys,ARMSys,Yield,,1,2048,no_gecko_id
+parent#octoswap,octoswap,OctoSwap,Dexs,,2,2034,no_gecko_id
+id#chain#move,movement,Movement,Chain,,1,2025,no_gecko_id
+id#8198,dropswap,DropSwap,DEX Aggregator,,1,2023,no_gecko_id
+id#6316,votre,Votre,Lending,,1,2018,no_gecko_id
+id#6094,humanfi,HumanFi,DEX Aggregator,,1,1984,no_gecko_id
+id#5346,solar-dex,Solar Dex,Dexs,,1,1934,no_gecko_id
+id#7591,arbitrage-inc,Arbitrage Inc,DEX Aggregator,,1,1926,no_gecko_id
+id#6898,elix.fi,Elix.fi,Dexs,,1,1926,no_gecko_id
+id#8227,catnip,Catnip,Dexs,,1,1874,no_gecko_id
+id#6874,stratex,StratEx,Yield Aggregator,,1,1864,no_gecko_id
+id#chain#molten-network,molten-network,Molten Network,Chain,,1,1862,no_gecko_id
+id#261,cometh,Cometh,Dexs,must,1,1848,
+id#4396,optionblitz,OptionBlitz,Options,,1,1783,no_gecko_id
+parent#archery,archery,Archery,Dexs,,2,1779,no_gecko_id
+id#6944,kensei,Kensei,Launchpad,,1,1762,no_gecko_id
+parent#swapsicle,swapsicle,Swapsicle,Dexs,swapsicle-pops,1,1748,
+id#chain#beam,beam,Beam,Chain,,1,1737,no_gecko_id
+id#chain#syndicate,syndicate,Syndicate,Chain,,1,1682,no_gecko_id
+id#5036,bcraft,BCraft,Gaming,,1,1655,no_gecko_id
+parent#goblin-protocols,goblin-protocols,Goblin protocols,Yield Aggregator,,1,1652,no_gecko_id
+id#8846,flipper-perps,Flipper Perps,Interface,,1,1647,no_gecko_id
+id#8463,lockin,lockin,Trading App,,1,1640,no_gecko_id
+id#7622,holoworld-ai,Holoworld AI,Launchpad,,1,1625,no_gecko_id
+id#318,dfyn-network,Dfyn Network,Dexs,dfyn-network,1,1612,
+id#chain#chia,chia,Chia,Chain,,1,1589,no_gecko_id
+id#351,gravity-finance,Gravity Finance,Dexs,gravity-finance,1,1576,
+id#chain#lukso,lukso,LUKSO,Chain,,1,1575,no_gecko_id
+id#chain#orderly-network,orderly-network,Orderly Network,Chain,,1,1546,no_gecko_id
+id#8488,quote,Quote,Interface,,1,1467,no_gecko_id
+id#6229,fastjpeg,FastJPEG,Launchpad,,1,1447,no_gecko_id
+parent#superswap-ink,superswap-ink,SuperSwap Ink,DEX Aggregator,,1,1445,no_gecko_id
+id#7350,secondswap,SecondSwap,OTC Marketplace,,1,1411,no_gecko_id
+id#8741,meow,Meow,DEX Aggregator,,1,1411,no_gecko_id
+id#chain#xdc,xdc,XDC,Chain,,1,1370,no_gecko_id
+id#7407,deltadefi,DeltaDeFi,Dexs,,1,1367,no_gecko_id
+id#7602,circuit,Circuit,CDP,,1,1360,no_gecko_id
+id#7035,pinot-v3,Pinot V3,Dexs,,1,1356,no_gecko_id
+id#4365,swych-perpetual,Swych Perpetual,Derivatives,swych,1,1340,
+id#5501,memewe.club,MemeWe.Club,Launchpad,,1,1308,no_gecko_id
+id#chain#fluent,fluent,Fluent,Chain,,1,1300,no_gecko_id
+id#8318,sherwood,Sherwood,Privacy,sherwood,1,1294,excluded_category
+id#7794,deluthium,Deluthium,DEX Aggregator,,1,1270,no_gecko_id
+id#6474,ybtc.b,YBTC.B,Anchor BTC,,1,1261,no_gecko_id
+id#7672,priority,Priority,Telegram Bot,,1,1250,no_gecko_id
+id#8177,rivrdex,RivrDEX,Dexs,,1,1245,no_gecko_id
+id#8051,obsdn,OBSDN,Derivatives,,1,1241,no_gecko_id
+id#7847,delphi,Delphi,Prediction Market,,1,1240,no_gecko_id
+parent#tartswap,tartswap,TartSwap,DEX Aggregator,,1,1230,no_gecko_id
+parent#dtx,dtx,DTX,Dexs,,1,1223,no_gecko_id
+id#8667,heks.fun,heks.fun,Launchpad,,1,1198,no_gecko_id
+id#3098,usdo,USDO,CDP,,1,1197,no_gecko_id
+id#7718,suidex,SuiDex,Dexs,,1,1196,no_gecko_id
+id#588,mobius-money,Mobius Money,Dexs,mobius-money,1,1191,
+parent#meridiandotxyz,meridiandotxyz,Meridian.xyz,Derivatives,,2,1169,no_gecko_id
+id#2464,omax-swap,Omax Swap,Dexs,,1,1166,no_gecko_id
+id#5929,getheminames,getHemiNames,Domains,,1,1159,no_gecko_id
+id#7831,metalex,MetaLeX,DAO Service Provider,,1,1158,no_gecko_id
+id#chain#bitgert,bitgert,Bitgert,Chain,,1,1151,no_gecko_id
+id#1517,domination-finance,Domination Finance,Derivatives,,1,1149,no_gecko_id
+id#8521,cl8y-dex,CL8Y DEX,Dexs,,1,1117,no_gecko_id
+id#chain#unit-zero,unit-zero,Unit Zero,Chain,,1,1087,no_gecko_id
+id#8211,hermes-trade,Hermes Trade,Prediction Market,,1,1067,no_gecko_id
+id#chain#viction,viction,Viction,Chain,,1,1037,no_gecko_id
+id#5297,lsp.finance,LSP.Finance,Staking Pool,,1,1026,no_gecko_id
+parent#shroomy-protocol,shroomy-protocol,Shroomy Protocol,Dexs,shroomy,1,987,
+id#8785,packed,Packed,Launchpad,,1,985,no_gecko_id
+id#8434,miner,MINER,Gamified Mining,,1,968,no_gecko_id
+id#7528,namoshi-name-service,Namoshi Name Service,Domains,,1,967,no_gecko_id
+id#5912,chedda-finance,Chedda Finance,Lending,,1,964,no_gecko_id
+id#chain#shibarium,shibarium,Shibarium,Chain,,1,954,no_gecko_id
+id#7902,pred,PRED,Prediction Market,,1,954,no_gecko_id
+id#8445,bonker,Bonker,Launchpad,,1,939,no_gecko_id
+id#8601,bubble-curve,Bubble Curve,Launchpad,,1,933,no_gecko_id
+id#4988,jvault,JVault,Farm,jvault-token,1,902,
+id#chain#coti,coti,Coti,Chain,,1,897,no_gecko_id
+id#8282,aaro-trade,Aaro Trade,Launchpad,,1,847,no_gecko_id
+id#chain#swan,swan,Swan,Chain,,1,833,no_gecko_id
+id#8067,hookos,HookOS,Launchpad,,1,832,no_gecko_id
+id#6982,perpmate,Perpmate,Interface,,1,826,no_gecko_id
+parent#wise-lending,wise-lending,Wise Lending,Lending,,1,814,no_gecko_id
+id#chain#velas,velas,Velas,Chain,,1,783,no_gecko_id
+id#8841,dxap,DXAP,Interface,,1,778,no_gecko_id
+id#7567,silhouette-naked,Silhouette Naked,Interface,,1,764,no_gecko_id
+parent#mercurifi,mercurifi,Mercurifi,Dexs,,1,746,no_gecko_id
+id#7820,sour-finance,Sour Finance,Derivatives,,1,744,no_gecko_id
+id#6289,moonpie,MoonPie,Launchpad,,1,739,no_gecko_id
+parent#lunya,lunya,Lunya,Launchpad,,2,734,no_gecko_id
+id#7324,splitswap,SplitSwap,Privacy,,1,729,no_gecko_id
+id#chain#nibiru,nibiru,Nibiru,Chain,,1,721,no_gecko_id
+parent#durianfun,durianfun,Durianfun,Launchpad,,3,716,no_gecko_id
+id#7423,minebtc,MineBTC,Gamified Mining,,1,691,no_gecko_id
+id#826,minmax-finance,MinMax Finance,Dexs,minmax,1,688,
+id#chain#genesys,genesys,Genesys,Chain,,1,680,no_gecko_id
+id#7791,thaw,Thaw,Luck Games,,1,676,no_gecko_id
+id#chain#sx-network,sx-network,SX Network,Chain,,1,672,no_gecko_id
+id#8245,signalview,Signalview,Interface,,1,670,no_gecko_id
+id#6083,sonicxswap,Sonicxswap,Dexs,,1,661,no_gecko_id
+id#8335,fanex,Fanex,Launchpad,,1,649,no_gecko_id
+id#8118,fibo,Fibo,Prediction Market,,1,648,no_gecko_id
+id#chain#bitcichain,bitcichain,Bitcichain,Chain,,1,631,no_gecko_id
+id#8017,hypemarket,HypeMarket,Prediction Market,,1,622,no_gecko_id
+id#4719,physica-finance,Physica Finance,Dexs,,1,617,no_gecko_id
+id#3501,valorem,Valorem,Options Vault,,1,609,no_gecko_id
+id#8203,hoodit,Hoodit,Dexs,,1,601,no_gecko_id
+id#7752,frenflow,FrenFlow,Prediction Market,,1,599,no_gecko_id
+id#8363,wildcard-games,Wildcard Games,Luck Games,,1,594,no_gecko_id
+parent#ammalgam,ammalgam,Ammalgam,Lending,,1,586,no_gecko_id
+parent#betterswap,betterswap,BetterSwap,Dexs,,1,585,no_gecko_id
+id#7543,pigeonhouse,PigeonHouse,Launchpad,level941,1,566,
+parent#crovia,crovia,Crovia,NFT Marketplace,,2,563,no_gecko_id
+id#8661,surged,Surged,Launchpad,,1,556,no_gecko_id
+id#8687,arclotls,ArcLotls,Gamified Mining,,1,534,no_gecko_id
+id#4530,feefree,FeeFree,Dexs,,1,534,no_gecko_id
+parent#obsidian,obsidian,Obsidian,Dexs,obsidian-2,1,527,
+id#2195,gravis-finance,Gravis Finance,Dexs,gravis-finance,1,521,
+id#471,complus-network,Complus Network,Dexs,complus-network,1,511,
+id#chain#shido,shido,Shido,Chain,,1,510,no_gecko_id
+id#5803,ginseng-swap,Ginseng Swap,Dexs,,1,498,no_gecko_id
+id#4926,akka,AKKA,DEX Aggregator,,1,493,no_gecko_id
+id#6777,xdock.meme,xdock.meme,Launchpad,,1,493,no_gecko_id
+parent#huckleberry,huckleberry,Huckleberry,Dexs,huckleberry,1,488,
+id#7863,stockfi,StockFi,Lending,,1,467,no_gecko_id
+id#8559,solstocker,SolStocker,Launchpad,,1,463,no_gecko_id
+id#8197,robinflow,RobinFlow,Token Locker,,1,451,no_gecko_id
+id#7031,madness-finance,Madness Finance,Dexs,,1,451,no_gecko_id
+id#8137,liquidiction,Liquidiction,Interface,,1,449,no_gecko_id
+id#chain#numbers,numbers,Numbers,Chain,,1,447,no_gecko_id
+parent#currentx,currentx,CurrentX,Dexs,,2,433,no_gecko_id
+id#8194,7.exchange,7.exchange,DEX Aggregator,,1,412,no_gecko_id
+id#chain#energyweb,energyweb,EnergyWeb,Chain,,1,408,no_gecko_id
+id#7643,bcswap,BCSwap,Dexs,,1,407,no_gecko_id
+id#6399,eaglefi,EagleFi,Dexs,,1,405,no_gecko_id
+parent#moraswap,moraswap,Moraswap,Dexs,,1,394,no_gecko_id
+parent#international-meme-fund,international-meme-fund,International Meme Fund,Launchpad,international-meme-fund,1,393,
+id#8189,keep.coffee,keep.coffee,Launchpad,,1,393,no_gecko_id
+id#8675,sashimi.fun,Sashimi.fun,Launchpad,,1,393,no_gecko_id
+id#8124,grambo,Grambo,Launchpad,,1,392,no_gecko_id
+id#228,futureswap,FutureSwap,Derivatives,futureswap,1,370,
+parent#hyperdex,hyperdex,HyperDex,DEX Aggregator,,1,366,no_gecko_id
+parent#quainance,quainance,Quainance,Dexs,,1,359,no_gecko_id
+id#8374,liquary,Liquary,Interface,,1,359,no_gecko_id
+id#8762,puzzle-ranges,Puzzle Ranges,Dexs,,1,359,no_gecko_id
+id#8791,souless,Souless,Launchpad,,1,356,no_gecko_id
+id#8260,arrowpad.fun,ArrowPad.fun,Launchpad,,1,352,no_gecko_id
+id#2383,ampleswap,AmpleSwap,Dexs,,1,346,no_gecko_id
+id#6252,mimboku-aggregator,Mimboku Aggregator,DEX Aggregator,,1,346,no_gecko_id
+id#8881,vailox,Vailox,OTC Marketplace,,1,345,no_gecko_id
+id#7801,grider-perps,GRIDer Perps,Interface,,1,344,no_gecko_id
+id#7293,supurr.app-perps,supurr.app Perps,Interface,,1,342,no_gecko_id
+id#7294,unigox-perps,Unigox Perps,Interface,,1,340,no_gecko_id
+id#6054,razor-dex,Razor DEX,Dexs,,1,337,no_gecko_id
+id#202,saddle-finance,Saddle Finance,Dexs,saddle-finance,1,333,
+id#8324,robinlaunchpad,RobinLaunchpad,Launchpad,,1,323,no_gecko_id
+id#5832,fibonacci-dex,Fibonacci Dex,Dexs,,1,317,no_gecko_id
+id#8811,peddles,Peddles,Launchpad,,1,316,no_gecko_id
+id#chain#endurance,endurance,Endurance,Chain,,1,315,no_gecko_id
+id#1269,solarflare,Solarflare,Dexs,solarflare,1,313,
+id#6254,mint-park,Mint Park,NFT Marketplace,,1,308,no_gecko_id
+id#7607,rosetta,Rosetta,Yield Aggregator,,1,304,no_gecko_id
+id#8352,sogo-terminal,SOGO Terminal,Interface,,1,303,no_gecko_id
+id#7552,orbit-finance,Orbit Finance,Dexs,,1,301,no_gecko_id
+id#chain#kardia,kardia,Kardia,Chain,,1,276,no_gecko_id
+id#5859,erc-burner,ERC Burner,DEX Aggregator,,1,276,no_gecko_id
+id#7713,grelfswap,GrelfSwap,DEX Aggregator,grelf,1,275,
+id#8468,agentranking,AgentRanking,Launchpad,,1,274,no_gecko_id
+parent#sendfun,sendfun,Sendfun,Dexs,,2,273,no_gecko_id
+id#5665,artexswap,ArtexSwap,Dexs,,1,270,no_gecko_id
+id#7757,wedefin,WeDeFin,Indexes,,1,268,no_gecko_id
+id#7247,babydoge-bridge,BabyDoge Bridge,Bridge,,1,261,no_gecko_id
+id#8757,fomotail,Fomotail,Trading App,,1,259,no_gecko_id
+id#8015,omni-terminal,Omni Terminal,Interface,,1,257,no_gecko_id
+id#7034,purpsexchange,PurpsExchange,Dexs,,1,255,no_gecko_id
+id#7545,qiedex,QIEDex,Dexs,,1,248,no_gecko_id
+id#chain#q-protocol,q-protocol,Q Protocol,Chain,,1,245,no_gecko_id
+id#8045,mintpad,Mintpad,NFT Marketplace,,1,243,no_gecko_id
+id#8354,merryforge,MerryForge,Launchpad,,1,241,no_gecko_id
+id#8265,purrflow,PurrFlow,DEX Aggregator,,1,232,no_gecko_id
+id#7395,lunar-finance-bridge-aggregator,Lunar Finance Bridge Aggregator,Bridge Aggregators,,1,231,no_gecko_id
+id#5717,vinufinance,VinuFinance,Lending,,1,225,no_gecko_id
+id#2244,heliswap,HeliSwap,Dexs,heliswap,1,224,
+id#7608,pistachio,Pistachio,Yield Aggregator,,1,219,no_gecko_id
+id#8776,felynx,Felynx,DEX Aggregator,,1,206,no_gecko_id
+id#8122,truecurrent,TrueCurrent,Derivatives,,1,203,no_gecko_id
+id#5423,hydrometer-finance,Hydrometer Finance,Dexs,,1,185,no_gecko_id
+id#8184,hyperank,hypeRank,Interface,,1,180,no_gecko_id
+id#7433,zenland,Zenland,Services,,1,178,no_gecko_id
+id#812,empiredex,EmpireDEX,Dexs,,1,173,no_gecko_id
+id#8608,alphapilot,AlphaPilot,Interface,,1,172,no_gecko_id
+id#3355,sable-finance,Sable Finance,CDP,sable,1,171,
+id#7858,clawdstrategy,ClawdStrategy,AI Agents,,1,169,no_gecko_id
+id#8798,outbidfun.lol,outbidfun.lol,Launchpad,,1,165,no_gecko_id
+id#7394,lunar-finance-aggregator,Lunar Finance Aggregator,DEX Aggregator,,1,164,no_gecko_id
+id#6070,copump,Copump,Launchpad,,1,160,no_gecko_id
+id#7869,challenge4trading-perp,Challenge4Trading Perp,Derivatives,,1,153,no_gecko_id
+id#8350,dexlaunch,DexLaunch,Launchpad,,1,144,no_gecko_id
+id#7431,royalbet,RoyalBet,Telegram Bot,,1,139,no_gecko_id
+id#5306,maxapy,maxAPY,Yield Aggregator,,1,137,no_gecko_id
+id#7168,crystal-exchange,Crystal Exchange,Dexs,,1,136,no_gecko_id
+parent#warpx,warpx,WarpX,Dexs,warpx-exchange,2,135,
+id#8126,dashswallet,DashsWallet,Portfolio Tracker,,1,131,no_gecko_id
+id#1063,embr-finance,Embr Finance,Dexs,embr,1,128,
+id#7177,yusan,Yusan,Lending,,1,128,no_gecko_id
+id#chain#acala,acala,Acala,Chain,,1,124,no_gecko_id
+id#8008,hbank-perps,HBANK Perps,Interface,,1,124,no_gecko_id
+id#chain#peaq,peaq,Peaq,Chain,,1,121,no_gecko_id
+id#8699,vibes.fun,vibes.fun,Launchpad,,1,120,no_gecko_id
+id#8258,peeps,Peeps,Launchpad,,1,116,no_gecko_id
+id#8293,tirelire,Tirelire,Liquidity Manager,,1,111,no_gecko_id
+parent#stable-jack,stable-jack,StableJack,Interface,jack-2,1,111,
+id#3264,0x0.ai,0x0.ai,Privacy,0x0-ai-ai-smart-contract,1,106,excluded_category
+id#8800,biatec-dex,Biatec DEX,Dexs,,1,105,no_gecko_id
+id#7803,rerange,RERANGE,Derivatives,,1,104,no_gecko_id
+id#6799,leadfi-leadbtc,LeadFi leadBTC,Bridge,,1,101,no_gecko_id
+parent#gensuki,gensuki,Gensuki,Launchpad,,1,99,no_gecko_id
+id#535,teddy-cash,Teddy Cash,CDP,teddy,1,99,
+id#5318,g8keep,g8keep,Launchpad,,1,98,no_gecko_id
+id#7939,kublerx,Kublerx,Dexs,,1,98,no_gecko_id
+id#8698,dynamito,Dynamito,Launchpad,,1,87,no_gecko_id
+id#8247,diggers,Diggers,Launchpad,,1,86,no_gecko_id
+id#chain#perennial-chain,perennial,Perennial,Chain,,1,82,no_gecko_id
+id#7008,aura-aggregator,Aura Aggregator,DEX Aggregator,,1,82,no_gecko_id
+id#8470,base-dollar,Base Dollar,CDP,,1,74,no_gecko_id
+id#7933,hodl.dance,hodl.dance,Launchpad,,1,73,no_gecko_id
+id#8533,epsilon,Epsilon,DEX Aggregator,,1,72,no_gecko_id
+id#7432,graveyard-protocol,Graveyard Protocol,Services,,1,65,no_gecko_id
+id#7569,nexus-trading-labs,Nexus Trading Labs,Interface,,1,64,no_gecko_id
+id#8047,tinyplace,TinyPlace,AI Agents,,1,59,no_gecko_id
+id#1777,pandora,Pandora,Dexs,pandora-spirit,1,59,
+id#7558,xmarket,Xmarket,Prediction Market,,1,54,no_gecko_id
+id#4143,sobax,SOBAX,Derivatives,sobax,1,53,
+id#8167,prynt,Prynt,Launchpad,,1,52,no_gecko_id
+id#6988,baumz,Baumz,Interface,,1,50,no_gecko_id
+id#4943,scribe-v4,Scribe V4,Dexs,,1,49,no_gecko_id
+id#chain#step,step,Step,Chain,,1,48,no_gecko_id
+parent#helios,helios,Helios,Dexs,,1,48,no_gecko_id
+id#6420,apebot,ApeBot,Telegram Bot,,1,48,no_gecko_id
+id#7189,hypersurface,Hypersurface,Options,,1,47,no_gecko_id
+id#8575,pennysia,Pennysia,DEX Aggregator,,1,45,no_gecko_id
+parent#meridian,meridian,Meridian,Dexs,meridian-mst,1,42,
+id#7664,xpert,Xpert,Lending,,1,41,no_gecko_id
+id#5013,demented-games,Demented Games,Prediction Market,,1,38,no_gecko_id
+id#7931,onix.finance,Onix.Finance,DEX Aggregator,,1,38,no_gecko_id
+id#chain#degen,degen,Degen,Chain,,1,38,no_gecko_id
+id#8102,outcome.xyz,Outcome.xyz,Interface,,1,36,no_gecko_id
+id#8775,boneyard,BoneYard,Gamified Mining,,1,34,no_gecko_id
+id#7239,tephra,Tephra,DEX Aggregator,,1,33,no_gecko_id
+id#8832,rayls-swap,Rayls Swap,Dexs,,1,32,no_gecko_id
+id#chain#eden-chain,eden,Eden,Chain,,1,31,no_gecko_id
+id#7485,inoswap,InoSwap,DEX Aggregator,,1,27,no_gecko_id
+parent#parity,parity,Parity,Dexs,,2,26,no_gecko_id
+parent#stratium,stratium,Stratium,Interface,,1,26,no_gecko_id
+id#8153,ophis,Ophis,DEX Aggregator,,1,25,no_gecko_id
+id#8446,prism,prism,DePIN,prism-4,1,24,excluded_category
+id#7229,corex-markets,Corex Markets,Derivatives,,1,23,no_gecko_id
+id#1795,gin-finance,Gin Finance,Dexs,gin-finance,1,22,
+id#8195,hoodpump,HoodPump,Launchpad,,1,21,no_gecko_id
+id#8584,weso-defi,WESO DeFi,Dexs,,1,21,no_gecko_id
+id#1397,kromatika,Kromatika,Dexs,kromatika,1,21,
+id#8285,windfall-lotto,Windfall Lotto,Luck Games,,1,20,no_gecko_id
+id#chain#robonomics,robonomics,Robonomics,Chain,,1,20,no_gecko_id
+parent#torch,torch,Torch Finance,Dexs,,1,20,no_gecko_id
+id#8600,fox-brokers,Fox Brokers,Launchpad,,1,19,no_gecko_id
+id#8491,morpheus,Morpheus,Dexs,,1,19,no_gecko_id
+id#6699,vii-finance,VII Finance,Leveraged Farming,,1,17,no_gecko_id
+id#8755,fuci,Fuci,AI Agents,,1,17,no_gecko_id
+parent#standard-protocol,standard-protocol,Standard Protocol,Dexs,standard-protocol,1,16,
+id#8433,virae,Virae,Interface,,1,16,no_gecko_id
+id#8171,profunding,ProFunding,Interface,,1,16,no_gecko_id
+parent#tempo-dex,tempo-dex,Tempo Dex,Dexs,,1,14,no_gecko_id
+id#3255,horizondex,HorizonDEX,Dexs,horizon-2,1,14,
+id#8496,robin-labs,Robin Labs,Launchpad,,1,14,no_gecko_id
+id#chain#assetchain,asset-chain,Asset Chain,Chain,,1,14,no_gecko_id
+id#8259,hoodmint,HoodMint,Launchpad,,1,13,no_gecko_id
+id#8731,watchcrypto,WatchCrypto,Interface,,1,13,no_gecko_id
+id#8650,stochastic-finance,Stochastic Finance,Options,,1,12,no_gecko_id
+id#8172,teraswap,TeraSwap,DEX Aggregator,,1,10,no_gecko_id
+id#7747,streamlock,Streamlock,Launchpad,streamlock,1,10,
+id#8505,halfmoon,HalfMoon,Interface,,1,10,no_gecko_id
+id#8507,growstreams,GrowStreams,Payments,,1,9,no_gecko_id
+id#8358,goon,Goon,Launchpad,,1,9,no_gecko_id
+id#3258,narwhal-finance,Narwhal Finance,Derivatives,,1,9,no_gecko_id
+id#8343,sabre,Sabre,Telegram Bot,,1,8,no_gecko_id
+id#7819,dexr,DEXR,DEX Aggregator,,1,8,no_gecko_id
+id#8655,pixeldeed,PixelDeed,NFT Marketplace,,1,8,no_gecko_id
+id#8680,circlewarp,CircleWarp,Launchpad,,1,7,no_gecko_id
+parent#swaap,swaap,Swaap,Dexs,,1,7,no_gecko_id
+id#3527,blazebot,BlazeBot,Telegram Bot,blazebot,1,7,excluded_category
+id#8616,ref-market,Ref Market,Services,,1,6,no_gecko_id
+id#8323,frostyfi,FrostyFi,AI Agents,,1,5,no_gecko_id
+id#3977,squadefi,SquaDeFi,SoFi,,1,5,no_gecko_id
+parent#unitflow-finance,unitflow-finance,Unitflow Finance,Dexs,,1,4,no_gecko_id
+id#8204,dott,DOTT,Launchpad,,1,4,no_gecko_id
+id#5314,quenta,Quenta,Derivatives,,1,4,no_gecko_id
+id#7952,blink-perps,Blink Perps,Interface,,1,3,no_gecko_id
+id#chain#ethereal,ethereal,Ethereal,Chain,,1,3,no_gecko_id
+id#6425,cobaltx,CobaltX,Dexs,,1,3,no_gecko_id
+id#chain#vinu,vinuchain,VinuChain,Chain,,1,3,no_gecko_id
+id#8120,ayebot,Ayebot,Telegram Bot,,1,3,no_gecko_id
+id#8863,trnch,TRNCH,DEX Aggregator,,1,3,no_gecko_id
+parent#beralis,beralis,Beralis Dex,Dexs,,1,3,no_gecko_id
+id#4916,boson-protocol,Boson Protocol,RWA,boson-protocol,1,2,
+id#7430,hikari-finance,Hikari Finance,Yield,,1,2,no_gecko_id
+id#8216,barker,Barker,Yield Aggregator,,1,1,no_gecko_id
+id#7259,triggerx,TriggerX,Developer Tools,,1,1,no_gecko_id
+id#8305,bowyard,BowYard,Launchpad,,1,1,no_gecko_id
+id#8706,dawablauncher,DaWabLauncher,Launchpad,,1,1,no_gecko_id
+id#chain#moca,moca,Moca,Chain,,1,1,no_gecko_id
+id#chain#stratis,stratis,Stratis,Chain,,1,1,no_gecko_id
+id#8244,quiver,Quiver,Launchpad,,1,1,no_gecko_id
+id#7890,zona,Zona,Lending,,1,1,no_gecko_id
+id#528,symmetric,Symmetric,Dexs,symmetric,1,1,
+id#1698,pandora-swap,Pandora Swap,Dexs,,1,1,no_gecko_id
+id#7685,red-pond-hype-staking,Red Pond HYPE Staking,Staking Pool,,1,0,no_gecko_id
+id#8807,trdefi,TRDEFI,Onchain Capital Allocator,,1,0,no_gecko_id
+id#8815,story.fun,Story.fun,Launchpad,,1,0,no_gecko_id
+id#8062,intrinsic,Intrinsic,Dexs,,1,0,no_gecko_id
+id#5183,erinaceus-vrf,Erinaceus VRF,Oracle,,1,0,no_gecko_id
+id#8046,fanvibe,FanVibe,Prediction Market,,1,0,no_gecko_id
+id#8789,world-by-starra,World by Starra,DEX Aggregator,,1,0,no_gecko_id
+id#3924,d8x,D8X,Derivatives,,1,0,no_gecko_id
+id#2099,okcswap,OKCSwap,Dexs,,1,0,no_gecko_id
+id#chain#lightlink,lightlink,LightLink,Chain,,1,0,no_gecko_id
+id#8809,frenlaunch,frenlaunch,Launchpad,,1,0,no_gecko_id
+id#5733,solera,Solera,Lending,,1,0,no_gecko_id
+id#chain#syscoin,syscoin,Syscoin,Chain,,1,0,no_gecko_id
+id#chain#oasys,defiverse,DeFiVerse,Chain,,1,0,no_gecko_id
+id#8056,velkonix,Velkonix,Lending,,1,0,no_gecko_id
+id#chain#darwinia,darwinia,Darwinia,Chain,,1,0,no_gecko_id
+id#6848,befi-perps,BeFi Perps,Interface,,1,0,no_gecko_id
+id#chain#pendulum,pendulum,Pendulum,Chain,,1,0,no_gecko_id
+parent#xpanse,xpanse,Xpanse,Interface,horizon-protocol,1,0,
+id#chain#saakuru,saakuru,Saakuru,Chain,,1,0,no_gecko_id
+id#chain#loop,loop,Loop,Chain,,1,0,no_gecko_id
+id#chain#heima,heima,Heima,Chain,,1,0,no_gecko_id
+id#6846,lode,LODE,Interface,,1,0,no_gecko_id
+id#7624,gameclub,GameClub,Prediction Market,,1,0,no_gecko_id
+id#chain#thundercore,thundercore,ThunderCore,Chain,,1,0,no_gecko_id
+id#chain#neuroweb,neuroweb,NeuroWeb,Chain,,1,0,no_gecko_id
+id#8139,arrowpad,ArrowPad,Launchpad,,1,0,no_gecko_id
+id#3520,monarchpay,MonarchPay,Payments,,1,0,no_gecko_id
+id#8442,fairylaunch,FairyLaunch,Launchpad,,1,0,no_gecko_id
+id#8734,kiltr,Kiltr,Dexs,,1,0,no_gecko_id
+id#8700,rep369,REP369,Meme,,1,0,no_gecko_id
+id#chain#flynet,flynet,Flynet,Chain,,1,0,no_gecko_id
+id#7684,cp0x-hype-staking,cp0x HYPE Staking,Staking Pool,,1,0,no_gecko_id
+id#8121,overpass,Overpass,Yield,,1,0,no_gecko_id
+id#8113,money-protocol,Money Protocol,CDP,,1,0,no_gecko_id
+id#8421,stratabook,Stratabook,Dexs,,1,0,no_gecko_id
+id#8392,house-of-joshi,House of Joshi,DEX Aggregator,,1,0,no_gecko_id
+parent#honeyplay,honeyplay,HoneyPlay,Dexs,,3,0,no_gecko_id
+parent#junoswap.trade,junoswap.trade,Junoswap.trade,Dexs,,2,0,no_gecko_id
+parent#avalove,avalove,AvaLove Launch,Launchpad,,1,0,no_gecko_id
+id#8367,openlaunch,Openlaunch,Dexs,,1,0,no_gecko_id
+id#8865,adexto,Adexto,Launchpad,,1,0,no_gecko_id
+id#8860,latch-protocol,Latch Protocol,Dexs,,1,0,no_gecko_id
+id#7526,velox-dex,Velox DEX,Dexs,,1,0,no_gecko_id
+id#6052,catex,Catex,Dexs,catex-2,1,0,
+id#5999,hard-swap,HARD Swap,Dexs,,1,0,no_gecko_id
+id#8361,trending,Trending,Interface,,1,0,no_gecko_id
+id#8870,fledgo,Fledgo,Launchpad,,1,0,no_gecko_id
+id#8882,peddlequest,PeddleQuest,Services,,1,0,no_gecko_id
+id#8567,oter-finance,Oter Finance,Lending,,1,0,no_gecko_id
+id#8844,lockcurve,Lockcurve,Launchpad,,1,0,no_gecko_id
+id#3464,sharesgram,SharesGram,SoFi,sharesgram,1,0,excluded_category
+id#3467,backedfi,BackedFi,RWA,,1,0,no_gecko_id
+id#7264,megaswap,Megaswap,Dexs,,1,0,no_gecko_id
+id#8545,0swap,0Swap,Dexs,,1,0,no_gecko_id
+id#3370,sweep-n-flip,Sweep n Flip,NFT Marketplace,,1,0,no_gecko_id
+id#8565,lodestar-protocol,Lodestar Protocol,Lending,,1,0,no_gecko_id
+id#8710,sprivio,Sprivio,Launchpad,,1,0,no_gecko_id
+id#8714,load,Load,Launchpad,,1,0,no_gecko_id
+id#8771,floatout,Floatout,Interface,,1,0,no_gecko_id
+id#8580,swaponhood,SwapOnHood,DEX Aggregator,,1,0,no_gecko_id
+id#5038,tanukix,TanukiX,Dexs,,1,0,no_gecko_id
+id#8028,g1flare,G1Flare,Interface,,1,0,no_gecko_id
+id#chain#skale,skale,SKALE,Chain,,1,0,no_gecko_id
+id#7367,neptunehub,NeptuneHub,DEX Aggregator,,1,0,no_gecko_id
+id#4896,ducata,Ducata,Yield,,1,0,no_gecko_id
+id#7344,ton4you,Ton4You,Options,,1,0,no_gecko_id
+id#3622,monocerus,Monocerus,Dexs,,1,0,no_gecko_id
+id#8640,hot-take,Hot Take,Prediction Market,,1,0,no_gecko_id
+id#7735,premarket,Premarket,Prediction Market,,1,0,no_gecko_id
+id#7690,hypercn-hype-staking,HyperCN HYPE Staking,Staking Pool,,1,0,no_gecko_id
+id#7507,qielend,QIELend,Lending,,1,0,no_gecko_id
+id#7504,evently,evently,Prediction Market,,1,0,no_gecko_id
+parent#tideswap,tideswap,TideSwap,DEX Aggregator,,2,0,no_gecko_id
+id#7772,phlox,Phlox,Dexs,,1,0,no_gecko_id
+id#5040,xtrade,XTrade,Dexs,,1,0,no_gecko_id
+id#3172,concordex,Concordex,Dexs,,1,0,no_gecko_id
+id#7068,mon-bridge-dex,Mon Bridge Dex,DEX Aggregator,,1,0,no_gecko_id
+id#6588,zapfi,Zapfi,Privacy,,1,0,no_gecko_id
+id#chain#rollux,rollux,Rollux,Chain,,1,0,no_gecko_id
+id#8326,kolswap,KOLSwap,Dexs,,1,0,no_gecko_id
+id#8289,prismapad,Prismapad,Launchpad,,1,0,no_gecko_id
+id#8304,owlorderfi,OwlOrderFi,DEX Aggregator,,1,0,no_gecko_id
+id#6266,haiku,Haiku,DEX Aggregator,,1,0,no_gecko_id
+id#5810,coinbase-bridge,Coinbase Bridge,Bridge,,1,0,no_gecko_id
+parent#subzero,subzero,Subzero,Dexs,,1,0,no_gecko_id
+parent#piperx,piperx,PiperX,Dexs,,2,0,no_gecko_id
+id#chain#edu-chain,edu-chain,EDU Chain,Chain,,1,0,no_gecko_id
+id#chain#neutron,neutron,Neutron,Chain,,1,0,no_gecko_id
+id#5793,unleash-protocol,Unleash Protocol,Lending,,1,0,no_gecko_id
+id#483,nftx,NFTX,NFT Marketplace,nftx,1,0,
+id#265,reflexer,Reflexer,CDP,reflexer-ungovernance-token,1,0,
+id#chain#omax,omax,Omax,Chain,,1,0,no_gecko_id
+id#8068,t3tris-finance,T3tris Finance,Onchain Capital Allocator,,1,-16879,no_gecko_id
+parent#strata,strata,Strata,Yield,,1,-3513928,no_gecko_id

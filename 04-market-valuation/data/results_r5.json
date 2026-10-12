@@ -1,0 +1,345 @@
+{
+ "H1": {
+  "main": {
+   "n": 168,
+   "b_share": 0.1984,
+   "b_cat": 0.1597,
+   "diff": 0.0388,
+   "se_diff": 0.0819,
+   "p_one_sided": 0.31785,
+   "p_two_sided": 0.63569
+  },
+  "rep": {
+   "n": 149,
+   "b_share": 0.2033,
+   "b_cat": 0.2347,
+   "diff": -0.0314,
+   "se_diff": 0.0835,
+   "p_one_sided": 0.64652,
+   "p_two_sided": 0.70696
+  }
+ },
+ "H2": {
+  "main": {
+   "n": 120,
+   "b_take": -0.0318,
+   "se": 0.1884,
+   "p_one_sided": 0.56694,
+   "p_two_sided": 0.86613,
+   "a_lnF": 0.3703,
+   "r2": 0.664
+  },
+  "rep": {
+   "n": 101,
+   "b_take": 0.2785,
+   "se": 0.1729,
+   "p_one_sided": 0.05357,
+   "p_two_sided": 0.10715,
+   "a_lnF": 0.3733,
+   "r2": 0.596
+  }
+ },
+ "H3": {
+  "main": {
+   "n": 117,
+   "b_resid": 0.1278,
+   "se": 0.112,
+   "p_one_sided": 0.87315,
+   "p_two_sided": 0.2537
+  },
+  "rep": {
+   "n": 98,
+   "b_resid": 0.2938,
+   "se": 0.1032,
+   "p_one_sided": 0.9978,
+   "p_two_sided": 0.0044
+  }
+ },
+ "verdicts": {
+  "H1": {
+   "p_main_one_sided": 0.31785,
+   "p_holm": 0.95355,
+   "main_holds": false,
+   "replication_same_sign_p10": false,
+   "recognised": false
+  },
+  "H2": {
+   "p_main_one_sided": 0.56694,
+   "p_holm": 1,
+   "main_holds": false,
+   "replication_same_sign_p10": true,
+   "recognised": false
+  },
+  "H3": {
+   "p_main_one_sided": 0.87315,
+   "p_holm": 1,
+   "main_holds": false,
+   "replication_same_sign_p10": false,
+   "recognised": false
+  }
+ },
+ "robustness": {
+  "no_winsor": {
+   "H1": {
+    "n": 168,
+    "b_share": 0.2374,
+    "b_cat": 0.1685,
+    "diff": 0.069,
+    "se_diff": 0.0719,
+    "p_one_sided": 0.16887,
+    "p_two_sided": 0.33774
+   },
+   "H2": {
+    "n": 120,
+    "b_take": -0.0515,
+    "se": 0.1958,
+    "p_one_sided": 0.60382,
+    "p_two_sided": 0.79237,
+    "a_lnF": 0.3301,
+    "r2": 0.65
+   },
+   "H3": {
+    "n": 117,
+    "b_resid": 0.1091,
+    "se": 0.1269,
+    "p_one_sided": 0.80501,
+    "p_two_sided": 0.38998
+   }
+  },
+  "drop_W1": {
+   "H1": {
+    "n": 135,
+    "b_share": 0.2059,
+    "b_cat": 0.2818,
+    "diff": -0.076,
+    "se_diff": 0.0745,
+    "p_one_sided": 0.84622,
+    "p_two_sided": 0.30755
+   },
+   "H2": {
+    "n": 98,
+    "b_take": -0.0094,
+    "se": 0.1942,
+    "p_one_sided": 0.51926,
+    "p_two_sided": 0.96147,
+    "a_lnF": 0.4043,
+    "r2": 0.691
+   },
+   "H3": {
+    "n": 95,
+    "b_resid": 0.0583,
+    "se": 0.1288,
+    "p_one_sided": 0.67469,
+    "p_two_sided": 0.65063
+   }
+  },
+  "drop_W2": {
+   "H1": {
+    "n": 110,
+    "b_share": 0.2018,
+    "b_cat": 0.1129,
+    "diff": 0.0889,
+    "se_diff": 0.1055,
+    "p_one_sided": 0.19954,
+    "p_two_sided": 0.39908
+   },
+   "H2": {
+    "n": 79,
+    "b_take": 0.0462,
+    "se": 0.216,
+    "p_one_sided": 0.41541,
+    "p_two_sided": 0.83081,
+    "a_lnF": 0.4417,
+    "r2": 0.722
+   },
+   "H3": {
+    "n": 77,
+    "b_resid": 0.3291,
+    "se": 0.1536,
+    "p_one_sided": 0.9839,
+    "p_two_sided": 0.03221
+   }
+  },
+  "drop_W3": {
+   "H1": {
+    "n": 91,
+    "b_share": 0.1874,
+    "b_cat": 0.1122,
+    "diff": 0.0752,
+    "se_diff": 0.1052,
+    "p_one_sided": 0.23714,
+    "p_two_sided": 0.47428
+   },
+   "H2": {
+    "n": 63,
+    "b_take": -0.1517,
+    "se": 0.2361,
+    "p_one_sided": 0.73975,
+    "p_two_sided": 0.5205,
+    "a_lnF": 0.2441,
+    "r2": 0.653
+   },
+   "H3": {
+    "n": 62,
+    "b_resid": 0.0233,
+    "se": 0.1963,
+    "p_one_sided": 0.54726,
+    "p_two_sided": 0.90548
+   }
+  },
+  "drop_largest_category": {
+   "category": "Dexs",
+   "H1": {
+    "n": 116,
+    "b_share": 0.1664,
+    "b_cat": 0.1211,
+    "diff": 0.0452,
+    "se_diff": 0.0701,
+    "p_one_sided": 0.25948,
+    "p_two_sided": 0.51895
+   },
+   "H2": {
+    "n": 87,
+    "b_take": -0.0244,
+    "se": 0.207,
+    "p_one_sided": 0.54702,
+    "p_two_sided": 0.90596,
+    "a_lnF": 0.3972,
+    "r2": 0.751
+   },
+   "H3": {
+    "n": 84,
+    "b_resid": 0.1504,
+    "se": 0.1632,
+    "p_one_sided": 0.82165,
+    "p_two_sided": 0.3567
+   }
+  },
+  "alt_clustering": {
+   "H1_protocol_only": {
+    "n": 168,
+    "b_share": 0.1984,
+    "b_cat": 0.1597,
+    "diff": 0.0388,
+    "se_diff": 0.0837,
+    "p_one_sided": 0.32157,
+    "p_two_sided": 0.64314
+   },
+   "H2_twoway": {
+    "n": 120,
+    "b_take": -0.0318,
+    "se": 0.1368,
+    "p_one_sided": 0.59182,
+    "p_two_sided": 0.81637,
+    "a_lnF": 0.3703,
+    "r2": 0.664
+   },
+   "H3_twoway": {
+    "n": 117,
+    "b_resid": 0.1278,
+    "se": 0.1128,
+    "p_one_sided": 0.87146,
+    "p_two_sided": 0.25708
+   }
+  },
+  "no_curve": {
+   "H2": {
+    "n": 117,
+    "b_take": -0.0817,
+    "se": 0.1958,
+    "p_one_sided": 0.66181,
+    "p_two_sided": 0.67637,
+    "a_lnF": 0.3594,
+    "r2": 0.668
+   },
+   "H3": {
+    "n": 114,
+    "b_resid": 0.1178,
+    "se": 0.1133,
+    "p_one_sided": 0.8507,
+    "p_two_sided": 0.2986
+   }
+  },
+  "no_base_asset_split": {
+   "H1": {
+    "n": 168,
+    "b_share": 0.2011,
+    "b_cat": 0.1365,
+    "diff": 0.0646,
+    "se_diff": 0.085,
+    "p_one_sided": 0.22375,
+    "p_two_sided": 0.4475
+   },
+   "H2": {
+    "n": 120,
+    "b_take": -0.0317,
+    "se": 0.1886,
+    "p_one_sided": 0.56667,
+    "p_two_sided": 0.86666,
+    "a_lnF": 0.3434,
+    "r2": 0.575
+   },
+   "H3": {
+    "n": 117,
+    "b_resid": 0.1474,
+    "se": 0.0922,
+    "p_one_sided": 0.94512,
+    "p_two_sided": 0.10977
+   }
+  },
+  "posthoc_drop_other_and_single_categories": {
+   "H1": {
+    "n": 145,
+    "b_share": 0.2255,
+    "b_cat": 0.0886,
+    "diff": 0.1369,
+    "se_diff": 0.1016,
+    "p_one_sided": 0.08895,
+    "p_two_sided": 0.17791
+   },
+   "H2": {
+    "n": 100,
+    "b_take": -0.0209,
+    "se": 0.1868,
+    "p_one_sided": 0.54445,
+    "p_two_sided": 0.9111,
+    "a_lnF": 0.3746,
+    "r2": 0.64
+   },
+   "H3": {
+    "n": 98,
+    "b_resid": 0.1748,
+    "se": 0.11,
+    "p_one_sided": 0.94407,
+    "p_two_sided": 0.11185
+   }
+  }
+ },
+ "shares_fee_variant": {
+  "d_C_eth": 0.012,
+  "d_share": 1.241,
+  "d_D": 0.018,
+  "d_MF": -0.293,
+  "minus_s": 0.023,
+  "n": 189
+ },
+ "shares_rev_variant": {
+  "d_C_eth": 0.003,
+  "d_share": 1.36,
+  "d_D": 0.03,
+  "d_take": -0.106,
+  "d_MR": -0.336,
+  "minus_s": 0.049,
+  "n": 157
+ },
+ "sample": {
+  "conflict_start_main": 3,
+  "conflict_stage1_main": 5,
+  "conflict_start_rep": 0,
+  "conflict_stage1_rep": 0,
+  "main_obs": 200,
+  "rep_obs": 169,
+  "valuation_excluded_obs_main": 13,
+  "rev_variant_main": 164
+ }
+}

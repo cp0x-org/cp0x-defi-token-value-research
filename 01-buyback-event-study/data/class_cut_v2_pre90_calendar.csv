@@ -1,0 +1,12 @@
+class,stage,med_pre90_calendar
+demand,activation,-0.225
+demand,decision,-0.07
+demand,flow_start,-0.029
+demand,proposal,0.042
+payout,activation,0.264
+payout,decision,-0.026
+payout,flow_start,0.144
+payout,proposal,0.257
+supply,activation,0.32
+supply,decision,0.249
+supply,proposal,0.324

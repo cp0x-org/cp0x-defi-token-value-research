@@ -1,0 +1,132 @@
+{
+ "primary": [
+  {
+   "variant": "P1",
+   "units": 12,
+   "protocols": 4,
+   "coverage_ok": true,
+   "median_abs_ln_r": 0.792,
+   "median_ratio_error_x": 2.21,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 2.52,
+    "lido": 1.55,
+    "sky": 0.15,
+    "uniswap": 6.36
+   },
+   "C2": false,
+   "C2_inside": "1/4 (need 4)",
+   "C3": false,
+   "C3_pairs": "5/8",
+   "spearman": -0.15,
+   "PASS": false
+  },
+  {
+   "variant": "B1",
+   "units": 9,
+   "protocols": 4,
+   "coverage_ok": false,
+   "median_abs_ln_r": 0.754,
+   "median_ratio_error_x": 2.12,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 4.89,
+    "lido": 1.73,
+    "sky": 4.57,
+    "uniswap": 20.25
+   },
+   "C2": false,
+   "C2_inside": "1/4 (need 4)",
+   "C3": true,
+   "C3_pairs": "5/5",
+   "spearman": 0.47,
+   "PASS": false
+  }
+ ],
+ "diagnostic": [
+  {
+   "variant": "P0",
+   "units": 12,
+   "protocols": 4,
+   "coverage_ok": true,
+   "median_abs_ln_r": 1.93,
+   "median_ratio_error_x": 6.89,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 7.42,
+    "lido": 2.53,
+    "sky": 7.17,
+    "uniswap": 15.32
+   },
+   "C2": false,
+   "C2_inside": "0/4 (need 4)",
+   "C3": true,
+   "C3_pairs": "6/8",
+   "spearman": 0.39,
+   "PASS": false
+  },
+  {
+   "variant": "P1c",
+   "units": 12,
+   "protocols": 4,
+   "coverage_ok": true,
+   "median_abs_ln_r": Infinity,
+   "median_ratio_error_x": Infinity,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 0.52,
+    "lido": 1.23,
+    "sky": 0.0,
+    "uniswap": 0.0
+   },
+   "C2": false,
+   "C2_inside": "2/4 (need 4)",
+   "C3": false,
+   "C3_pairs": "2/8",
+   "spearman": -0.0,
+   "PASS": false
+  },
+  {
+   "variant": "B0",
+   "units": 9,
+   "protocols": 4,
+   "coverage_ok": false,
+   "median_abs_ln_r": 1.065,
+   "median_ratio_error_x": 2.9,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 9.2,
+    "lido": 2.25,
+    "sky": 5.39,
+    "uniswap": 20.25
+   },
+   "C2": false,
+   "C2_inside": "0/4 (need 4)",
+   "C3": true,
+   "C3_pairs": "5/5",
+   "spearman": 0.45,
+   "PASS": false
+  },
+  {
+   "variant": "B1_noown",
+   "units": 9,
+   "protocols": 4,
+   "coverage_ok": false,
+   "median_abs_ln_r": 0.916,
+   "median_ratio_error_x": 2.5,
+   "C1": false,
+   "protocol_median_r": {
+    "aave": 3.42,
+    "lido": 1.58,
+    "sky": 3.35,
+    "uniswap": 0.0
+   },
+   "C2": false,
+   "C2_inside": "1/4 (need 4)",
+   "C3": true,
+   "C3_pairs": "4/5",
+   "spearman": 0.9,
+   "PASS": false
+  }
+ ]
+}

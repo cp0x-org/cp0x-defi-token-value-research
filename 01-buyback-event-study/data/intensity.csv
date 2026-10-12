@@ -1,0 +1,8 @@
+protocol,event,date,program_daily_usd,median_daily_volume_usd,intensity_pct_of_volume,annualized_revenue_usd,program_pct_of_revenue
+aave,forum_proposal,2025-03-04,142466,12855181,1.11,133655264,38.9
+aave,first_execution,2025-04-09,142466,8325990,1.71,104076384,50.0
+aave,param_change,2025-10-22,136986,6094896,2.25,178758980,28.0
+aave,vote_passed,2025-11-02,136986,5551563,2.47,179596312,27.8
+aave,param_change,2026-03-04,82192,4369625,1.88,109655012,27.4
+aave,mechanism_upgrade,2026-06-27,82192,1427102,5.76,81046944,37.0
+dydx,first_execution,2025-03-24,12055,2771586,0.43,19338128,22.8

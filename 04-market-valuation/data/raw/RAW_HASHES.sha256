@@ -1,0 +1,5 @@
+# sha256 of DefiLlama raw downloads used by Research 5 (study 4). Files marked NOT INCLUDED are too large or not needed; see README.md.
+# overview_fees_breakdown.json  28403582 bytes  downloaded 2026-10-07 10:57:05 UTC+7 (03:57 UTC, 12 s after the method freeze)  NOT INCLUDED (over 20 MB)
+560015c6ba501a0a5ac8f8fa1fffcd9f0d1dcefcf5a724af7a644be5f35e7bf7  overview_fees_breakdown.json
+# overview_fees.json  4737497 bytes  downloaded 2026-10-07 02:09 UTC+7  NOT INCLUDED (not read by build_r5.py)
+b416b262ea74d4eee46a079802ce042eea63db1783e90b4693de3f01fd30a553  overview_fees.json

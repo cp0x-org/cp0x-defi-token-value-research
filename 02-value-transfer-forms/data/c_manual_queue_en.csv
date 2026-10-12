@@ -1,0 +1,14 @@
+protocol,queue_status,c_answer,reason_en
+GMX V1 Perps,control,not re-examined,positive control; not re-examined
+Gains Network,control,not re-examined,positive control; not re-examined
+DODO AMM,closed_false_positive,no C,false script hit: the former payout asset was matched in the pool name DODO-USDT; the snippet describes an introduction of buy-and-distribute for vDODO
+PancakeSwap AMM,closed_noise,no C,"both snippets come from cakevote.eth votes about listings of other projects (Pendle, SABLE)"
+Uniswap V3,closed_noise,no C,snippet about pools of another DAO in a different Snapshot space
+Balancer V2,closed_noise,no C,own space but a 2021 list of ideas on spending fees; the real veBAL transition is category A and already in the sample
+Quickswap Dex,closed_noise,no C,partner MANA rewards triggered the hit; dQUICK has bought QUICK with fees for stakers since launch and had no earlier direct form
+Aster Spot,closed,no C,per the methodology the earlier form was burning of bought-back tokens until 2026-02-02 rather than direct payouts; a switch from burn to buy-and-distribute is not C
+xExchange,closed,no C,before MEX 2.0 holders received no fee share; from 2022-12-08 a 0.05% fee distribution to Energy holders was added next to burning; this is an introduction from zero rather than a replacement of direct payouts
+Motoswap AMM,closed,"no C, low confidence",the second part of the current form is buyback and burn rather than buy-and-distribute; even the current form is not a C end state; no sign of a change
+SuiDex,closed,"no C, low confidence","all available descriptions give one original scheme, a revenue share to VICTORY stakers plus buyback; no sign of a change of form; protocol TVL about USD 270 thousand"
+THENA FUSION,closed,no C,"a 2023 vote changed shares to 73.26% paid directly to stakers with the rest to bribes and buyback into protocol-owned liquidity; bought tokens go to protocol liquidity and are not distributed, direct payouts were kept"
+Bancor V3,closed,no C,"BNT holders did not receive a direct fee share, fees went to liquidity providers; a 2021 discussion of buyback with redistribution or burn was not a transition from direct payouts"

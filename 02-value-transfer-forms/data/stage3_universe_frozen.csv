@@ -1,0 +1,165 @@
+frozen_at_utc,parent,name,category,holders_rev_all_time_usd,versions
+2026-10-03T17:58:23Z,parent#hyperliquid,Hyperliquid Perps,Derivatives,1292261839,Hyperliquid Perps; Hyperliquid Spot Orderbook
+2026-10-03T17:58:23Z,parent#aerodrome,Aerodrome Slipstream,Dexs,484388186,Aerodrome Slipstream; Aerodrome V1
+2026-10-03T17:58:23Z,parent#pancakeswap,PancakeSwap AMM,Dexs,393106366,PancakeSwap AMM; PancakeSwap AMM V3; PancakeSwap Infinity; PancakeSwap StableSwap
+2026-10-03T17:58:23Z,parent#curve-finance,Curve DEX,Dexs,292278484,Curve DEX
+2026-10-03T17:58:23Z,parent#gmx,GMX V1 Perps,Derivatives,135245014,GMX V1 Perps; GMX V2 Perps; GMX Solana
+2026-10-03T17:58:23Z,parent#sushi,SushiSwap,Dexs,115701439,SushiSwap; SushiSwap V3
+2026-10-03T17:58:23Z,parent#dydx,dYdX V4,Derivatives,64245112,dYdX V4
+2026-10-03T17:58:23Z,parent#raydium,Raydium AMM,Dexs,60700762,Raydium AMM
+2026-10-03T17:58:23Z,parent#jupiter,Jupiter Perpetual Exchange,Derivatives,57949963,Jupiter Perpetual Exchange
+2026-10-03T17:58:23Z,parent#uniswap,Uniswap V3,Dexs,54417040,Uniswap V3; Uniswap V2
+2026-10-03T17:58:23Z,parent#edgex,edgeX Perps,Derivatives,47148304,edgeX Perps
+2026-10-03T17:58:23Z,parent#velodrome,Velodrome V2,Dexs,46608988,Velodrome V2; Velodrome V3; Velodrome V1
+2026-10-03T17:58:23Z,parent#balancer,Balancer V2,Dexs,39882587,Balancer V2; Balancer V3
+2026-10-03T17:58:23Z,parent#shadow-exchange,Shadow Exchange CLMM,Dexs,31264738,Shadow Exchange CLMM; Shadow Exchange Legacy
+2026-10-03T17:58:23Z,parent#thena,THENA FUSION,Dexs,30953670,THENA FUSION; THENA INTEGRAL; THENA V1; THENA PERPS
+2026-10-03T17:58:23Z,parent#pharaoh-exchange,Pharaoh CL,Dexs,30842098,Pharaoh CL; Pharaoh V3; Pharaoh Legacy; Pharaoh DLMM; Pharaoh V3 Legacy
+2026-10-03T17:58:23Z,1018,Gains Network,Derivatives,30368553,Gains Network
+2026-10-03T17:58:23Z,parent#lighter,Lighter Perps,Derivatives,29249827,Lighter Perps
+2026-10-03T17:58:23Z,parent#quickswap,Quickswap Dex,Dexs,28319897,Quickswap Dex; Quickswap V3; Quickswap V4
+2026-10-03T17:58:23Z,parent#astherus,Aster Spot,Dexs,26597911,Aster Spot
+2026-10-03T17:58:23Z,parent#pulsex,PulseX V1,Dexs,24865644,PulseX V1; PulseX V2; PulseX StableSwap
+2026-10-03T17:58:23Z,parent#blackhole,Blackhole CLMM,Dexs,20368296,Blackhole CLMM; Blackhole AMM
+2026-10-03T17:58:23Z,parent#spookyswap,SpookySwap V2,Dexs,20092234,SpookySwap V2
+2026-10-03T17:58:23Z,parent#trader-joe,Joe V2,Dexs,16924783,Joe V2; Joe V2.1; Joe DEX; Joe V2.2
+2026-10-03T17:58:23Z,parent#etherex,Etherex CL,Dexs,13314546,Etherex CL; Etherex Legacy
+2026-10-03T17:58:23Z,parent#camelot,Camelot V2,Dexs,12568305,Camelot V2; Camelot V3
+2026-10-03T17:58:23Z,parent#lynex,Lynex V2,Dexs,10198307,Lynex V2; Lynex V1
+2026-10-03T17:58:23Z,parent#apex-protocol,Apex Omni,Derivatives,9948401,Apex Omni
+2026-10-03T17:58:23Z,parent#equalizer,Equalizer Exchange,Dexs,8359995,Equalizer Exchange
+2026-10-03T17:58:23Z,parent#ktx.finance,KTX Perps,Derivatives,8171323,KTX Perps
+2026-10-03T17:58:23Z,parent#pangolin,Pangolin V2,Dexs,7670438,Pangolin V2; Pangolin V3
+2026-10-03T17:58:23Z,parent#ramses-exchange-hl,Ramses CL,Dexs,7187051,Ramses CL; Ramses CL V2; Ramses Legacy V2; Ramses DLMM; Ramses Legacy
+2026-10-03T17:58:23Z,parent#desk,HMX,Derivatives,6471925,HMX
+2026-10-03T17:58:23Z,parent#woofi,WOOFi Swap,Dexs,5462433,WOOFi Swap
+2026-10-03T17:58:23Z,parent#chainflip,Chainflip AMM,Dexs,5409357,Chainflip AMM
+2026-10-03T17:58:23Z,parent#vvs-finance,VVS Standard,Dexs,4792610,VVS Standard
+2026-10-03T17:58:23Z,6592,Heaven,Dexs,4631575,Heaven
+2026-10-03T17:58:23Z,parent#sun,SUNSwap V2,Dexs,4424481,SUNSwap V2
+2026-10-03T17:58:23Z,parent#mux-protocol,MUX Perps,Derivatives,4385198,MUX Perps
+2026-10-03T17:58:23Z,parent#level-finance,Level Perps,Derivatives,4323891,Level Perps
+2026-10-03T17:58:23Z,parent#nest,nest CL,Dexs,3444246,nest CL
+2026-10-03T17:58:23Z,parent#hydrex,Hydrex Integral,Dexs,3390313,Hydrex Integral
+2026-10-03T17:58:23Z,5353,Adrena Protocol,Derivatives,3223962,Adrena Protocol
+2026-10-03T17:58:23Z,parent#fulcrom,Fulcrom Perps,Derivatives,3174022,Fulcrom Perps
+2026-10-03T17:58:23Z,parent#orca,Orca DEX,Dexs,2929653,Orca DEX
+2026-10-03T17:58:23Z,parent#up,up v3,Dexs,2614658,up v3; up v2
+2026-10-03T17:58:23Z,412,THORChain DEX,Dexs,2476037,THORChain DEX
+2026-10-03T17:58:23Z,parent#hyperswap,HyperSwap V3,Dexs,2195377,HyperSwap V3; HyperSwap V2
+2026-10-03T17:58:23Z,parent#nile-exchange,Nile CL,Dexs,1982302,Nile CL; Nile Legacy
+2026-10-03T17:58:23Z,parent#kittenswap,Kittenswap Algebra,Dexs,1656855,Kittenswap Algebra; Kittenswap CL; Kittenswap AMM
+2026-10-03T17:58:23Z,parent#aborean-finance,Aborean CL,Dexs,1588461,Aborean CL; Aborean AMM
+2026-10-03T17:58:23Z,3747,IntentX,Derivatives,1544001,IntentX
+2026-10-03T17:58:23Z,parent#kyberswap,KyberSwap Elastic,Dexs,1493930,KyberSwap Elastic; KyberSwap Classic
+2026-10-03T17:58:23Z,parent#merchant-moe,Merchant Moe Liquidity Book,Dexs,1450751,Merchant Moe Liquidity Book
+2026-10-03T17:58:23Z,parent#contango,Contango V2,Derivatives,1323251,Contango V2
+2026-10-03T17:58:23Z,parent#helix,Helix Spot,Dexs,1174673,Helix Spot; Helix Perp
+2026-10-03T17:58:23Z,3575,Scale,Dexs,1142340,Scale
+2026-10-03T17:58:23Z,1351,WigoSwap,Dexs,1097868,WigoSwap
+2026-10-03T17:58:23Z,3439,Hydration DEX,Dexs,1088208,Hydration DEX
+2026-10-03T17:58:23Z,parent#solidly-labs,Solidly V3,Dexs,1074033,Solidly V3; Solidly V2
+2026-10-03T17:58:23Z,1452,PayCash,Dexs,1073214,PayCash
+2026-10-03T17:58:23Z,1181,MojitoSwap,Dexs,1043445,MojitoSwap
+2026-10-03T17:58:23Z,parent#solidlizard,SolidLizard Dex,Dexs,1043435,SolidLizard Dex
+2026-10-03T17:58:23Z,parent#potatoswap,PotatoSwap V2,Dexs,1035771,PotatoSwap V2; PotatoSwap V3
+2026-10-03T17:58:23Z,parent#bmx,BMX Classic Perps,Derivatives,997068,BMX Classic Perps; BMX Freestyle
+2026-10-03T17:58:23Z,5035,Aquarius Stellar,Dexs,915188,Aquarius Stellar
+2026-10-03T17:58:23Z,parent#apeswap,ApeSwap AMM,Dexs,892230,ApeSwap AMM
+2026-10-03T17:58:23Z,parent#supernova,Supernova CL,Dexs,825038,Supernova CL; Supernova AMM
+2026-10-03T17:58:23Z,6173,Strike Finance Perpetuals,Derivatives,783898,Strike Finance Perpetuals
+2026-10-03T17:58:23Z,3883,Storm Trade,Derivatives,761956,Storm Trade
+2026-10-03T17:58:23Z,6413,Full Sail,Dexs,756378,Full Sail
+2026-10-03T17:58:23Z,parent#morphex,Morphex V2,Derivatives,746996,Morphex V2; Morphex V1 Perps
+2026-10-03T17:58:23Z,parent#synthetix,Synthetix V3,Derivatives,723772,Synthetix V3
+2026-10-03T17:58:23Z,4555,TLX Finance,Derivatives,722219,TLX Finance
+2026-10-03T17:58:23Z,parent#hybra,Hybra V4,Dexs,698045,Hybra V4
+2026-10-03T17:58:23Z,parent#stellaswap,StellaSwap V4,Dexs,581313,StellaSwap V4
+2026-10-03T17:58:23Z,4107,FlashTrade,Derivatives,551230,FlashTrade
+2026-10-03T17:58:23Z,4194,Cellana Finance,Dexs,512370,Cellana Finance
+2026-10-03T17:58:23Z,6819,Quanto,Derivatives,469271,Quanto
+2026-10-03T17:58:23Z,parent#cleopatra-exchange,Cleopatra CL,Dexs,468303,Cleopatra CL
+2026-10-03T17:58:23Z,parent#unidex,UniDex Perp,Derivatives,442497,UniDex Perp
+2026-10-03T17:58:23Z,parent#ekubo,Ekubo,Dexs,410288,Ekubo; STONX
+2026-10-03T17:58:23Z,parent#minswap,Minswap DEX,Dexs,381578,Minswap DEX
+2026-10-03T17:58:23Z,parent#chronos,Chronos V1,Dexs,343009,Chronos V1
+2026-10-03T17:58:23Z,5843,Flex Perpetuals,Derivatives,341563,Flex Perpetuals
+2026-10-03T17:58:23Z,parent#topaz,Topaz CL,Dexs,327361,Topaz CL; Topaz AMM
+2026-10-03T17:58:23Z,2586,Equilibre,Dexs,318392,Equilibre
+2026-10-03T17:58:23Z,parent#metropolis-exchange,Metropolis DLMM,Dexs,306853,Metropolis DLMM; Metropolis AMM
+2026-10-03T17:58:23Z,parent#arbitrum-exchange,Arbitrum Exchange V2,Dexs,297930,Arbitrum Exchange V2; Arbitrum Exchange V3
+2026-10-03T17:58:23Z,parent#hercules,Hercules V3,Dexs,289953,Hercules V3; Hercules V2
+2026-10-03T17:58:23Z,parent#kodiak,Kodiak V3,Dexs,288827,Kodiak V3; Kodiak V2
+2026-10-03T17:58:23Z,parent#paradex,Paradex Perps,Derivatives,284130,Paradex Perps
+2026-10-03T17:58:23Z,parent#velocimeter,FVM Exchange,Dexs,275261,FVM Exchange
+2026-10-03T17:58:23Z,parent#sparkdex,SparkDEX V3.1,Dexs,245491,SparkDEX V3.1; SparkDEX V4; SparkDEX Perps; SparkDEX V3
+2026-10-03T17:58:23Z,parent#giga,GIGA V3,Dexs,184854,GIGA V3; GIGA V2
+2026-10-03T17:58:23Z,4366,Javsphere,Derivatives,180963,Javsphere
+2026-10-03T17:58:23Z,6184,GT3,Dexs,170652,GT3
+2026-10-03T17:58:23Z,parent#alandale,Alandale V3,Dexs,167522,Alandale V3
+2026-10-03T17:58:23Z,parent#dodo,DODO AMM,Dexs,158619,DODO AMM
+2026-10-03T17:58:23Z,parent#defituna,DefiTuna AMM,Dexs,153957,DefiTuna AMM
+2026-10-03T17:58:23Z,8452,Deepstate,Dexs,148014,Deepstate
+2026-10-03T17:58:23Z,parent#babydogecoin,BabyDogeSwap,Dexs,144163,BabyDogeSwap
+2026-10-03T17:58:23Z,3609,basedmarkets,Derivatives,139017,basedmarkets
+2026-10-03T17:58:23Z,5608,Navigator,Derivatives,136519,Navigator
+2026-10-03T17:58:23Z,1882,Ferro,Dexs,130587,Ferro
+2026-10-03T17:58:23Z,parent#fusionx-finance,FusionX V3,Dexs,126484,FusionX V3; FusionX V2
+2026-10-03T17:58:23Z,parent#deepbook,DeepBook V3,Dexs,118827,DeepBook V3
+2026-10-03T17:58:23Z,4426,AshPerp,Derivatives,115233,AshPerp
+2026-10-03T17:58:23Z,parent#stabble,stabble Stableswap,Dexs,108118,stabble Stableswap
+2026-10-03T17:58:23Z,parent#beamswap,Beamex Perps,Derivatives,106516,Beamex Perps; BeamSwap V3
+2026-10-03T17:58:23Z,4642,Zeno Exchange,Derivatives,102860,Zeno Exchange
+2026-10-03T17:58:23Z,1660,Swappi,Dexs,99785,Swappi
+2026-10-03T17:58:23Z,parent#yaka-finance,Yaka V2,Dexs,72803,Yaka V2; Yaka V3
+2026-10-03T17:58:23Z,parent#pearlfi,Pearl V1,Dexs,58237,Pearl V1
+2026-10-03T17:58:23Z,parent#magicsea,MagicSea AMM,Dexs,55119,MagicSea AMM; MagicSea LB
+2026-10-03T17:58:23Z,parent#sundaeswap,SundaeSwap V2,Dexs,45747,SundaeSwap V2
+2026-10-03T17:58:23Z,parent#paintswap,PaintSwap on Fantom,Dexs,43155,PaintSwap on Fantom
+2026-10-03T17:58:23Z,613,Swop,Dexs,39453,Swop
+2026-10-03T17:58:23Z,8366,Orvex,Dexs,38809,Orvex
+2026-10-03T17:58:23Z,3833,Amped Finance,Derivatives,35737,Amped Finance
+2026-10-03T17:58:23Z,parent#covo-finance,Covo V2,Derivatives,34570,Covo V2
+2026-10-03T17:58:23Z,parent#swaphood,SwapHood V3,Dexs,33820,SwapHood V3; SwapHood V2
+2026-10-03T17:58:23Z,parent#squadswap,SquadSwap V2,Dexs,33142,SquadSwap V2; SquadSwap V3
+2026-10-03T17:58:23Z,854,xExchange,Dexs,30710,xExchange
+2026-10-03T17:58:23Z,parent#smardex-ecosystem,SMARDEX AMM,Dexs,29035,SMARDEX AMM
+2026-10-03T17:58:23Z,3325,Gambit Trade,Derivatives,25861,Gambit Trade
+2026-10-03T17:58:23Z,parent#grizzlyfi,Grizzly Trade Perps,Derivatives,25785,Grizzly Trade Perps
+2026-10-03T17:58:23Z,parent#voodoo-trade,Voodoo Trade Base,Derivatives,23966,Voodoo Trade Base
+2026-10-03T17:58:23Z,4631,Viridian Exchange,Dexs,23335,Viridian Exchange
+2026-10-03T17:58:23Z,parent#bonkfun,Bonkswap,Dexs,22861,Bonkswap
+2026-10-03T17:58:23Z,parent#raphael-exchange,Raphael Exchange CL,Dexs,21206,Raphael Exchange CL; Raphael Exchange AMM
+2026-10-03T17:58:23Z,3509,Nether.Fi,Derivatives,19728,Nether.Fi
+2026-10-03T17:58:23Z,parent#bancor,Bancor V3,Dexs,17171,Bancor V3
+2026-10-03T17:58:23Z,3257,ICPSwap,Dexs,16482,ICPSwap
+2026-10-03T17:58:23Z,3055,Unlimited Network,Derivatives,16015,Unlimited Network
+2026-10-03T17:58:23Z,parent#9mm,9mm V3,Dexs,15274,9mm V3
+2026-10-03T17:58:23Z,5571,SATOSHI PERPS,Derivatives,13634,SATOSHI PERPS
+2026-10-03T17:58:23Z,parent#guru-network-dao,E3,Dexs,13491,E3; ABcDeFX
+2026-10-03T17:58:23Z,6865,foxify,Derivatives,11128,foxify
+2026-10-03T17:58:23Z,2773,Auragi Finance,Dexs,10900,Auragi Finance
+2026-10-03T17:58:23Z,parent#loxodrome,Loxodrome AMM,Dexs,9559,Loxodrome AMM
+2026-10-03T17:58:23Z,6345,Volta Markets,Derivatives,7598,Volta Markets
+2026-10-03T17:58:23Z,parent#motoswap,Motoswap AMM,Dexs,7143,Motoswap AMM
+2026-10-03T17:58:23Z,parent#archly-finance,Archly V1,Dexs,6759,Archly V1
+2026-10-03T17:58:23Z,parent#arctide,Arctide DEX,Dexs,4412,Arctide DEX
+2026-10-03T17:58:23Z,4119,Omnidrome,Dexs,3695,Omnidrome
+2026-10-03T17:58:23Z,4319,MYX Finance,Derivatives,3484,MYX Finance
+2026-10-03T17:58:23Z,parent#virtus-protocol,Virtus Protocol CL,Dexs,3432,Virtus Protocol CL
+2026-10-03T17:58:23Z,7945,Ryze Protocol,Dexs,3000,Ryze Protocol
+2026-10-03T17:58:23Z,parent#dfx-finance,sedge,Dexs,2317,sedge
+2026-10-03T17:58:23Z,8711,Mog,Derivatives,2123,Mog
+2026-10-03T17:58:23Z,8200,FrothSwap,Dexs,2039,FrothSwap
+2026-10-03T17:58:23Z,parent#keller-finance,Keller Finance V3,Dexs,1770,Keller Finance V3; Keller Finance V2
+2026-10-03T17:58:23Z,6352,Tapp Exchange,Dexs,1228,Tapp Exchange
+2026-10-03T17:58:23Z,parent#smbswap,SMBSwap V2,Dexs,569,SMBSwap V2
+2026-10-03T17:58:23Z,parent#goo-exchange,Goo Exchange CLMM,Dexs,428,Goo Exchange CLMM
+2026-10-03T17:58:23Z,parent#fwx,FWX Derivatives,Derivatives,272,FWX Derivatives
+2026-10-03T17:58:23Z,8122,TrueCurrent,Derivatives,199,TrueCurrent
+2026-10-03T17:58:23Z,5423,Hydrometer Finance,Dexs,185,Hydrometer Finance
+2026-10-03T17:58:23Z,parent#sectorone,DLMM KING Pools,Dexs,185,DLMM KING Pools
+2026-10-03T17:58:23Z,parent#archery,Archery V3,Dexs,149,Archery V3
+2026-10-03T17:58:23Z,1269,Solarflare,Dexs,46,Solarflare
+2026-10-03T17:58:23Z,1700,Wombat Exchange,Dexs,8,Wombat Exchange
+2026-10-03T17:58:23Z,7718,SuiDex,Dexs,5,SuiDex

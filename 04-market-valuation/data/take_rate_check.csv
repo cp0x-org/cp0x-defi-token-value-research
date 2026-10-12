@@ -1,0 +1,203 @@
+window,name,category,tk,tk_pct
+W1,Uniswap,Dexs,0.0,0.0
+W1,Lido,Liquid Staking,0.04999999505043393,5.0
+W1,Aave,Lending,0.15233146019014052,15.2
+W1,PancakeSwap,Dexs,0.31907139824140374,31.9
+W1,Curve Finance,Dexs,0.5048102604673191,50.5
+W1,Sushi,Dexs,0.1816554021091049,18.2
+W1,LFJ,Dexs,0.10670941743816238,10.7
+W1,Compound Finance,Lending,0.1271902854658139,12.7
+W1,GMX,Derivatives,0.30413868926294707,30.4
+W1,Convex Finance,Yield,0.632878015344363,63.3
+W1,Balancer,Dexs,0.46617825044146194,46.6
+W1,Rocket Pool,Liquid Staking,0.0,0.0
+W1,THORChain DEX,Dexs,0.03607015250490207,3.6
+W1,Yearn,Yield Aggregator,0.12638189662538085,12.6
+W1,Liquity,CDP,0.901760490167465,90.2
+W1,Synthetix,Synthetics,1.0,100.0
+W1,Abracadabra,CDP,0.5000165464292805,50.0
+W1,Blur,NFT Marketplace,0.0,0.0
+W1,Frax Finance,Liquid Staking,0.08840677140410638,8.8
+W1,Pendle,Yield,0.7545765119326043,75.5
+W1,Osmosis DEX,Dexs,0.07051819069056363,7.1
+W1,Bancor,Dexs,0.0,0.0
+W1,DODO,Dexs,0.20002095455298577,20.0
+W1,Gains Network,Derivatives,0.6768554335613715,67.7
+W1,ShibaSwap,Dexs,0.0,0.0
+W1,KyberSwap,DEX Aggregator,0.12998476483901286,13.0
+W1,Stargate Finance,Cross Chain Bridge,1.0,100.0
+W1,Synapse,Cross Chain Bridge,1.0,100.0
+W1,Radiant,Lending,0.7500004990780365,75.0
+W1,Stride,Liquid Staking,0.10014434628667727,10.0
+W1,VVS Finance,Dexs,0.3333264820379589,33.3
+W1,Nexus Mutual,Insurance,0.4999860510531455,50.0
+W1,Reserve Protocol,Indexes,1.0,100.0
+W1,WOOFi,Dexs,0.9011141617922088,90.1
+W1,Ankr,Liquid Staking,0.0994927558038834,9.9
+W1,Maverick Protocol,Dexs,0.0,0.0
+W1,SSV Network,Staking Pool,0.20031847133757963,20.0
+W1,SMARDEX Ecosystem,Dexs,0.4911573327401146,49.1
+W2,Uniswap,Dexs,0.0,0.0
+W2,Lido,Liquid Staking,0.049917686386802725,5.0
+W2,Aave,Lending,0.15594311155239482,15.6
+W2,Jito,MEV,0.04310917037932338,4.3
+W2,PancakeSwap,Dexs,0.36562207240487327,36.6
+W2,Raydium,Dexs,0.04482959668637122,4.5
+W2,Jupiter,Derivatives,0.2966589927099353,29.7
+W2,Ethena,Basis Trading,0.03981105145937903,4.0
+W2,Curve Finance,Dexs,0.84611165584987,84.6
+W2,Sushi,Dexs,0.17207236437595824,17.2
+W2,LFJ,Dexs,0.1308564635933297,13.1
+W2,Compound Finance,Lending,0.1934812942469284,19.3
+W2,Aerodrome,Dexs,0.989680470914404,99.0
+W2,GMX,Derivatives,0.3530720116736221,35.3
+W2,ether.fi,Liquid Staking,0.358572118607614,35.9
+W2,Convex Finance,Yield,0.8498585872515243,85.0
+W2,Balancer,Dexs,0.49319404094614844,49.3
+W2,Kamino,Lending,0.22995447483415918,23.0
+W2,Sanctum,Liquid Staking,0.024013034717843877,2.4
+W2,Rocket Pool,Liquid Staking,0.0,0.0
+W2,THORChain DEX,Dexs,0.017582237939282663,1.8
+W2,Venus,Lending,0.14432867501065405,14.4
+W2,Yearn,Yield Aggregator,0.12557049343919569,12.6
+W2,Fluid,Lending,0.19035706423809462,19.0
+W2,dYdX,Derivatives,1.0,100.0
+W2,Liquity,CDP,0.5248920544709746,52.5
+W2,Synthetix,Synthetics,0.8630385522620498,86.3
+W2,Abracadabra,CDP,0.5000299127402634,50.0
+W2,LayerZero,Bridge,0.0,0.0
+W2,Benqi,Liquid Staking,0.13089966539461778,13.1
+W2,Tokenlon,Dexs,1.0,100.0
+W2,Blur,NFT Marketplace,0.0,0.0
+W2,Frax Finance,Liquid Staking,0.07546658510519845,7.5
+W2,CoWSwap,DEX Aggregator,0.704555132939048,70.5
+W2,SUN,Dexs,0.415425520995733,41.5
+W2,Drift,Derivatives,0.6870639989087736,68.7
+W2,Pendle,Yield,0.9666017260400832,96.7
+W2,Osmosis DEX,Dexs,0.5448555764899208,54.5
+W2,Bancor,Dexs,0.0,0.0
+W2,DODO,Dexs,0.20000137449003486,20.0
+W2,Gains Network,Derivatives,0.7933603081413413,79.3
+W2,Pangolin,Dexs,0.16668514468286685,16.7
+W2,Metaplex,Launchpad,1.0,100.0
+W2,Velodrome,Dexs,1.0,100.0
+W2,KyberSwap,DEX Aggregator,0.9994232924219999,99.9
+W2,ApeX Protocol,Derivatives,0.0,0.0
+W2,Lista DAO,Liquid Staking,0.7784372200093427,77.8
+W2,Stargate Finance,Cross Chain Bridge,0.6456398282691346,64.6
+W2,Goldfinch,Uncollateralized Lending,0.10409073599037487,10.4
+W2,Synapse,Cross Chain Bridge,1.0,100.0
+W2,Radiant,Lending,0.7500050395318406,75.0
+W2,Origin Protocol,Liquid Staking,0.16457267763753936,16.5
+W2,Moonwell,Lending,0.2534059178145089,25.3
+W2,JustLend,Lending,0.09896997480505794,9.9
+W2,Gearbox,Lending,0.325243149226182,32.5
+W2,Stride,Liquid Staking,0.1110934829483583,11.1
+W2,Across,Cross Chain Bridge,0.0,0.0
+W2,VVS Finance,Dexs,0.33333235818974344,33.3
+W2,Nexus Mutual,Insurance,0.5000007934619645,50.0
+W2,WOOFi,Dexs,0.9703592803216123,97.0
+W2,Ankr,Liquid Staking,0.09937538459345353,9.9
+W2,Perpetual Protocol,Derivatives,0.19999327640691186,20.0
+W2,Maverick Protocol,Dexs,0.0,0.0
+W2,Moonwell Apollo,Lending,0.35154890358510266,35.2
+W2,SSV Network,Staking Pool,0.42091110769864115,42.1
+W2,SMARDEX Ecosystem,Dexs,0.787827285991438,78.8
+W2,Ribbon Finance,Options Vault,,
+W2,NFPrompt,NFT Marketplace,1.0,100.0
+W2,Velo Finance,Dexs,1.0,100.0
+W3,Uniswap,Dexs,0.0,0.0
+W3,Lido,Liquid Staking,0.048731315074695414,4.9
+W3,Aave,Lending,0.13978079358983828,14.0
+W3,Pump,Launchpad,0.5224204350817273,52.2
+W3,Jito,MEV,0.06227022989282918,6.2
+W3,Hyperliquid,Derivatives,0.8101222448278732,81.0
+W3,PancakeSwap,Dexs,0.33775980847406273,33.8
+W3,Raydium,Dexs,0.23936580992999715,23.9
+W3,Sky,CDP,0.7660052771668084,76.6
+W3,Jupiter,Derivatives,0.30317257780638035,30.3
+W3,Ethena,Basis Trading,0.07018222141199662,7.0
+W3,Curve Finance,Dexs,0.8169053385405245,81.7
+W3,Sushi,Dexs,0.6800722204213693,68.0
+W3,LFJ,Dexs,0.12140792788649091,12.1
+W3,Compound Finance,Lending,0.028839190075275443,2.9
+W3,Aerodrome,Dexs,0.8446375509854795,84.5
+W3,GMX,Derivatives,0.3684255206592112,36.8
+W3,Aster,Derivatives,,
+W3,ether.fi,Liquid Staking,0.23342607151575712,23.3
+W3,Convex Finance,Yield,0.969411359055939,96.9
+W3,Morpho,Lending,0.0,0.0
+W3,Balancer,Dexs,0.38124549218143805,38.1
+W3,Marinade,Liquid Staking,0.07146530028556485,7.1
+W3,Kamino,Lending,0.159234822681754,15.9
+W3,Orca,Dexs,0.1200500762859023,12.0
+W3,Sanctum,Liquid Staking,0.04366784579271528,4.4
+W3,Rocket Pool,Liquid Staking,0.0,0.0
+W3,Maple Finance,Lending,0.19250887794573673,19.3
+W3,THORChain DEX,Dexs,0.0596896299070008,6.0
+W3,EigenCloud,Restaking,0.0,0.0
+W3,Venus,Lending,0.14793546719500839,14.8
+W3,World Liberty Financial,Lending,1.0,100.0
+W3,Yearn,Yield Aggregator,0.06910187871423006,6.9
+W3,Fluid,Lending,0.18099316682006822,18.1
+W3,Cetus,Dexs,0.2000001031887783,20.0
+W3,dYdX,Derivatives,1.0,100.0
+W3,Euler,Lending,0.05098170398316811,5.1
+W3,Ondo Finance,RWA,1.0,100.0
+W3,Liquity,CDP,0.22841548251782978,22.8
+W3,Synthetix,Synthetics,0.9996953840355419,100.0
+W3,Abracadabra,CDP,0.4999903777611734,50.0
+W3,LayerZero,Bridge,0.0,0.0
+W3,Usual,RWA,0.5495771872664281,55.0
+W3,Benqi,Liquid Staking,0.12256171667695076,12.3
+W3,Tokenlon,Dexs,1.0,100.0
+W3,Blur,NFT Marketplace,0.0,0.0
+W3,Frax Finance,Liquid Staking,0.06930207792479846,6.9
+W3,CoWSwap,DEX Aggregator,0.6397901154007741,64.0
+W3,SUN,Dexs,0.053548744833812265,5.4
+W3,Drift,Derivatives,0.47948146040528705,47.9
+W3,Pendle,Yield,0.9571438323560617,95.7
+W3,Osmosis DEX,Dexs,0.28732052413281994,28.7
+W3,Bancor,Dexs,0.0,0.0
+W3,Gains Network,Derivatives,0.8112206538896977,81.1
+W3,Solv Protocol,Bridge,0.44971005344495435,45.0
+W3,SoSoValue,Indexes,0.9682474085871203,96.8
+W3,Metaplex,Launchpad,1.0,100.0
+W3,KyberSwap,DEX Aggregator,1.0,100.0
+W3,ApeX Protocol,Derivatives,0.0,0.0
+W3,Launch Coin on Believe,Launchpad,0.799999046720241,80.0
+W3,Lista DAO,Liquid Staking,0.1900531536704744,19.0
+W3,Stargate Finance,Cross Chain Bridge,0.10807748451957715,10.8
+W3,THENA,Dexs,1.0,100.0
+W3,deBridge,Bridge,1.0,100.0
+W3,Moonwell,Lending,0.1725252797190159,17.3
+W3,Veranta,Derivatives,0.0,0.0
+W3,JustLend,Lending,0.06923752880197866,6.9
+W3,Across,Cross Chain Bridge,0.0,0.0
+W3,VVS Finance,Dexs,0.321601818921112,32.2
+W3,Nexus Mutual,Insurance,0.4999991862667873,50.0
+W3,Fulcrom,Derivatives,0.39999672582783935,40.0
+W3,ZORA Protocol,Launchpad,0.8755510342488979,87.6
+W3,Orderly,Derivatives,,
+W3,Reserve Protocol,Indexes,0.15394848810004325,15.4
+W3,Geodnet,Oracle,1.0,100.0
+W3,WOOFi,Dexs,0.9074358471125068,90.7
+W3,Ankr,Liquid Staking,0.09974721544935534,10.0
+W3,Solayer,Restaking,0.0025067638319540243,0.3
+W3,Lombard,Restaked BTC,0.038545872312489744,3.9
+W3,Definitive,DEX Aggregator,1.0,100.0
+W3,Moonwell Apollo,Lending,0.34873583260680036,34.9
+W3,SSV Network,Staking Pool,0.9719829157568757,97.2
+W3,Olympus DAO,Reserve Currency,1.0,100.0
+W3,Pyth,Oracle,0.8399350875695697,84.0
+W3,Hydration DEX,Dexs,0.47830496146368073,47.8
+W3,Threshold Network,Decentralized BTC,0.9999915294350438,100.0
+W3,Hyperlane,Cross Chain Bridge,1.0,100.0
+W3,Clearpool,RWA,0.0,0.0
+W3,Portal,Bridge,0.0,0.0
+W3,Defi App,Interface,1.0,100.0
+W3,Saros,Dexs,,
+W3,Axelar Network,Bridge,0.0,0.0
+W3,MYX Finance,Derivatives,0.26892722021073184,26.9
+W3,BIM,Yield Aggregator,1.0,100.0
+W3,Velo Finance,Dexs,1.0,100.0

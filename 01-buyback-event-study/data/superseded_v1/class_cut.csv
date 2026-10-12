@@ -1,0 +1,12 @@
+class,stage,n,med_basket_30,med_basket_90,med_match_30,n_match,iqr_match_30,med_pre90
+demand,activation,7,-0.043,-0.094,-0.047,7,0.159,-0.234
+demand,decision,8,-0.008,-0.053,0.128,7,0.441,-0.286
+demand,flow_start,6,-0.038,0.041,0.188,4,0.406,-0.031
+demand,proposal,7,0.042,-0.02,0.11,6,0.388,0.007
+payout,activation,2,-0.059,-0.07,0.068,2,0.003,0.312
+payout,decision,3,-0.032,-0.024,-0.055,3,0.161,0.02
+payout,flow_start,1,0.183,-0.023,0.084,1,0.0,0.278
+payout,proposal,4,0.027,-0.208,0.192,3,0.25,0.213
+supply,activation,2,-0.36,-0.312,-0.861,1,0.0,0.363
+supply,decision,2,-0.055,-0.081,-0.159,2,0.372,0.129
+supply,proposal,1,-0.237,-0.252,-0.01,1,0.0,-0.12

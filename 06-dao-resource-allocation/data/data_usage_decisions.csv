@@ -1,0 +1,11 @@
+protocol,id,t0,type_line_item,type_class,base_12m,fixedcov_12m
+lido,LIDO-2025-A4,2025-04-01,marketing/growth,class A,-0.0008,-0.01346175227387607
+lido,LIDO-2025-A5,2025-07-01,incentives,class A,0.046,0.04665012762892973
+aave,AAVE-2024-A2,2024-03-13,incentives,class A,0.0599,0.4014225474059842
+sky,SKY-2023-A3,2023-08-30,other,class A,-0.0241,-0.017103238615513498
+sky,SKY-2024-A3,2024-09-13,incentives,class A,-0.042,0.07524104089186744
+uniswap,UNI-2023-A1,2023-10-20,foundation budget,class A,-0.2852,-0.042904713083053575
+uniswap,UNI-2024-A1,2024-02-26,incentives,class A,-0.7165,-0.33396151199976515
+uniswap,UNI-2024-A2,2024-05-01,incentives,class A,-0.8416,-0.2730564642597543
+uniswap,UNI-2024-A5,2024-10-31,marketing/growth,class A,-0.2795,0.38641322250167476
+uniswap,UNI-2025-A1,2025-03-21,foundation budget,class A,0.0639,0.7300204344700365

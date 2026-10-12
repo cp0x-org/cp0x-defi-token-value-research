@@ -1,0 +1,125 @@
+{
+ "stage1_end_fee_coverage_80": {
+  "n_dropped": 7,
+  "dropped": [
+   [
+    "W1",
+    "ShibaSwap",
+    8
+   ],
+   [
+    "W1",
+    "Reserve Protocol",
+    6
+   ],
+   [
+    "W2",
+    "Ribbon Finance",
+    0
+   ],
+   [
+    "W3",
+    "Euler",
+    79
+   ],
+   [
+    "W3",
+    "KyberSwap",
+    76
+   ],
+   [
+    "W3",
+    "Orderly",
+    30
+   ],
+   [
+    "W3",
+    "Moonwell Apollo",
+    24
+   ]
+  ],
+  "verdicts": {
+   "H1_g_largest_share": true,
+   "H2_s_negative_p05": false,
+   "H3_holder_share_dR2_below_0.02": false,
+   "H4_lnM_negative_p05": false
+  },
+  "R1_lnM": {
+   "coef": -0.059,
+   "p": 0.063,
+   "ci95": [
+    -0.1212,
+    0.0032
+   ]
+  },
+  "dR2_H": 0.0465,
+  "H_start": {
+   "coef": 0.5659,
+   "p": 0.0001,
+   "ci95": [
+    0.2778,
+    0.8541
+   ]
+  }
+ },
+ "stage3_drop_nxm": {
+  "n": 102,
+  "s_issue": {
+   "coef": -1.334,
+   "p": 0.0717
+  },
+  "s_cg_same_sample": {
+   "coef": -0.2957,
+   "p": 0.2245
+  },
+  "corr_s_s_issue": 0.064,
+  "H2a": false
+ },
+ "stage3_drop_nxm_bancor_olympus": {
+  "n": 98,
+  "s_issue": {
+   "coef": -0.8427,
+   "p": 0.1752
+  },
+  "s_cg_same_sample": {
+   "coef": -0.2007,
+   "p": 0.4025
+  },
+  "corr_s_s_issue": 0.004,
+  "H2a": false
+ },
+ "stage4_drop_nxm": {
+  "n": 112,
+  "u": {
+   "coef": -0.3305,
+   "p": 0.1467
+  },
+  "s_issue_with_u": {
+   "coef": -1.7242,
+   "p": 0.0268
+  },
+  "s_issue_alone": {
+   "coef": -1.3298,
+   "p": 0.0694
+  },
+  "H9": false,
+  "H2a_wide": false
+ },
+ "stage4_drop_nxm_bancor_olympus": {
+  "n": 108,
+  "u": {
+   "coef": -0.2487,
+   "p": 0.274
+  },
+  "s_issue_with_u": {
+   "coef": -1.2519,
+   "p": 0.084
+  },
+  "s_issue_alone": {
+   "coef": -0.9196,
+   "p": 0.1789
+  },
+  "H9": false,
+  "H2a_wide": false
+ }
+}

@@ -1,0 +1,4 @@
+Fetched 2026-10-06 UTC
+DefiLlama api.llama.fi overview/fees, summary/fees, protocols, lite/protocols2
+dimension-adapters HEAD: f6b43339dfae68e723e0ae45bcc46cf0f9a23f9e at 13:2x UTC (before fee download), e9856487e0dc4e410ee1e7ccb0ee0f5428f54b2f at 14:15 UTC (after); fee series fetched 13:40-14:10 UTC
+CoinGecko public CSV export www.coingecko.com/price_charts/export/<id>/usd.csv

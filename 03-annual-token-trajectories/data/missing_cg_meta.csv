@@ -1,0 +1,26 @@
+slug,name,category,gecko_id,address
+Edge,Vertex Edge,Derivatives,vertex-protocol,arbitrum:0x95146881b86b3ee99e63705ec87afe29fcc044d9
+kwenta,Kwenta,Derivatives,kwenta,0x920cf626a271321c151d027030d5d08af699456b
+wigoswap,WigoSwap,Dexs,wigoswap,fantom:0xE992bEAb6659BFF447893641A378FbbF031C5bD6
+reya,Reya,Derivatives,reya,
+sonne-finance,Sonne Finance,Lending,sonne-finance,optimism:0x1db2466d9f5e10d7090e7152b68d62703a2245f0
+beamswap,BeamSwap,Dexs,beamswap,moonbeam:0xcd3B51D98478D53F4515A306bE565c6EebeF1D58
+colony,Colony,Yield,colony,avax:0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6
+yo-protocol,YO Protocol,Yield Aggregator,yo,0x1925450f5e5fb974b0aae1f3408cf5286fbd1a72
+kpk,KPK,Risk Curators,kpk,0xbf3f63d8ac133b16d7d50c015036b33219dd8d23
+swapbased,SwapBased,Dexs,base,base:0xd07379a755A8f11B57610154861D694b2A0f615a
+swapr,Swapr,Dexs,swapr,arbitrum:0xdE903E2712288A1dA82942DDdF2c20529565aC30
+vesta-finance,Vesta Finance,CDP,vesta-finance,arbitrum:0xa684cd057951541187f288294a1e1C2646aA2d24
+mars-protocol,Mars Protocol,Derivatives,mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3,terra:terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n
+tea-fi,Tea-Fi,Yield,tea-fi,polygon:0xa2B835E77cbFF1B1fDB853B5E63A8aC25c3f5774
+liquidops,LiquidOps,Lending,liquidops,n2MhPK0O3yEvY2zW73sqcmWqDktJxAifJDrri4qireI
+orby-network,Orby Network,CDP,orb,cronos:0x6f762331636923DB1cCcDb7256eE21fB04c0A8A0
+mento,Mento,Dexs,mento,celo:0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6
+bluemove,BlueMove,NFT Marketplace,bluemove,aptos:0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb
+motoswap,Motoswap,Dexs,moto,0xBd965230588EAA536dE6aA45E8ebbc01638535e0
+kinto,Kinto,Interface,kinto,arbitrum:0x6ba19ee69d5dde3ab70185c801fa404f66fedb58
+kyotoswap,KyotoSwap,Dexs,kyotoswap,bsc:0x29ABc4D03D133D8Fd1F1C54318428353CE08727E
+archly-finance,Archly Finance,Dexs,archly-finance,telos:0xa84df7aFbcbCC1106834a5feD9453bd1219B1fb5
+veax,Veax,Dexs,veax,
+warpx,WarpX,Dexs,warpx-exchange,
+gin-finance,Gin Finance,Dexs,gin-finance,boba:0xe48703F5AdfE59d271D951c2E602F654B86736E7

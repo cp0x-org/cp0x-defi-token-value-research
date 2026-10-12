@@ -1,0 +1,30 @@
+{
+ "V_with_catFE": {
+  "n": 16,
+  "resid_df": 4,
+  "b_take": 0.826,
+  "p_HC1_two": 0.0004,
+  "p_classic_t_two": 0.0092
+ },
+ "H3_with_catFE": {
+  "n": 16,
+  "resid_df": 4,
+  "b_resid": -1.79,
+  "p_HC1_two": 0.0113,
+  "p_classic_t_two": 0.0637
+ },
+ "V_no_catFE": {
+  "n": 16,
+  "resid_df": 12,
+  "b_take": 0.236,
+  "p_HC1_two": 0.3736,
+  "p_classic_t_two": 0.3679
+ },
+ "H3_no_catFE": {
+  "n": 16,
+  "resid_df": 12,
+  "b_resid": 0.023,
+  "p_HC1_two": 0.9374,
+  "p_classic_t_two": 0.9447
+ }
+}

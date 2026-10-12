@@ -1,0 +1,30 @@
+{
+ "T1": {
+  "n": 28,
+  "b_g": 0.2134,
+  "se": 0.1357,
+  "p_one_sided": 0.0579,
+  "ci95": [
+   -0.053,
+   0.479
+  ],
+  "r2": 0.174,
+  "consistent": true,
+  "categories": {
+   "other": 16,
+   "Dexs": 12
+  }
+ },
+ "descriptive": {
+  "n": 28,
+  "share_beat_eth": 0.071,
+  "median_y": -0.661,
+  "median_pct_vs_eth": -48.4,
+  "variance_shares_g_m_minus_s": {
+   "g": 0.71,
+   "m": 0.194,
+   "ms": 0.096
+  },
+  "corr_y_g": 0.317
+ }
+}

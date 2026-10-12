@@ -1,0 +1,173 @@
+{
+ "main": {
+  "H2a": {
+   "n": 105,
+   "s_issue": {
+    "coef": -1.4455,
+    "p": 0.0441
+   },
+   "s_cg_same_sample": {
+    "coef": -0.3482,
+    "p": 0.1261
+   },
+   "corr_s_s_issue": 0.344,
+   "H2a": true
+  },
+  "H2b": {
+   "n": 115,
+   "s": {
+    "coef": -0.4407,
+    "p": 0.2995
+   },
+   "flag_share": 0.343,
+   "H2b": false
+  }
+ },
+ "robustness": {
+  "no_winsor": {
+   "H2a": {
+    "n": 105,
+    "s_issue": {
+     "coef": -1.0696,
+     "p": 0.0082
+    },
+    "s_cg_same_sample": {
+     "coef": -0.3163,
+     "p": 0.1517
+    },
+    "corr_s_s_issue": 0.39,
+    "H2a": true
+   },
+   "H2b": {
+    "n": 115,
+    "s": {
+     "coef": -0.5068,
+     "p": 0.1676
+    },
+    "flag_share": 0.343,
+    "H2b": false
+   }
+  },
+  "drop_W1": {
+   "H2a": {
+    "n": 79,
+    "s_issue": {
+     "coef": -1.3625,
+     "p": 0.1669
+    },
+    "s_cg_same_sample": {
+     "coef": -0.3202,
+     "p": 0.2126
+    },
+    "corr_s_s_issue": 0.312,
+    "H2a": false
+   },
+   "H2b": {
+    "n": 90,
+    "s": {
+     "coef": -0.3397,
+     "p": 0.4706
+    },
+    "flag_share": 0.357,
+    "H2b": false
+   }
+  },
+  "drop_W2": {
+   "H2a": {
+    "n": 69,
+    "s_issue": {
+     "coef": -0.9794,
+     "p": 0.1841
+    },
+    "s_cg_same_sample": {
+     "coef": -0.2467,
+     "p": 0.4143
+    },
+    "corr_s_s_issue": 0.426,
+    "H2a": false
+   },
+   "H2b": {
+    "n": 77,
+    "s": {
+     "coef": -0.4913,
+     "p": 0.3408
+    },
+    "flag_share": 0.336,
+    "H2b": false
+   }
+  },
+  "drop_W3": {
+   "H2a": {
+    "n": 62,
+    "s_issue": {
+     "coef": -1.6715,
+     "p": 0.1668
+    },
+    "s_cg_same_sample": {
+     "coef": -0.3656,
+     "p": 0.188
+    },
+    "corr_s_s_issue": 0.258,
+    "H2a": false
+   },
+   "H2b": {
+    "n": 63,
+    "s": {
+     "coef": -0.0896,
+     "p": 0.8866
+    },
+    "flag_share": 0.33,
+    "H2b": false
+   }
+  },
+  "recount_10": {
+   "H2b": {
+    "n": 55,
+    "s": {
+     "coef": -1.8938,
+     "p": 0.0234
+    },
+    "flag_share": 0.686,
+    "H2b": true
+   }
+  },
+  "recount_25": {
+   "H2b": {
+    "n": 149,
+    "s": {
+     "coef": -0.4744,
+     "p": 0.0516
+    },
+    "flag_share": 0.149,
+    "H2b": false
+   }
+  },
+  "both_measures": {
+   "H2a": {
+    "n": 105,
+    "s_issue": {
+     "coef": -1.1006,
+     "p": 0.2056
+    },
+    "s_cg_same_sample": {
+     "coef": -0.3482,
+     "p": 0.1261
+    },
+    "corr_s_s_issue": 0.344,
+    "s_with_both": {
+     "coef": -0.2724,
+     "p": 0.2831
+    },
+    "H2a": false
+   }
+  }
+ },
+ "descriptive": {
+  "eth_tokens": 53,
+  "eth_obs": 105,
+  "median_s_issue_pct": 0.0,
+  "share_s_issue_zero": 0.581,
+  "median_s_cg_pct_same_obs": 5.91,
+  "recount_flag_share_main": 0.343
+ }
+}

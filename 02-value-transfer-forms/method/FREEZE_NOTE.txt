@@ -1,0 +1,17 @@
+Research 3 (direct payouts vs buybacks), frozen 2026-10-06.
+
+This archive is the final state of Research 3. Nothing in it should be edited.
+Any later work (including the broader Research 4) starts from a copy.
+
+Contents
+  package/            full reproducible package (engine, data, universe, screening, working log)
+  google_drive_docs/  report, procedure, working log, corrections note (docx), data tables (xlsx)
+  MANIFEST.sha256     checksum of every file in this archive
+
+Verified on 2026-10-06 before freezing
+  - stage3_outcomes.py rerun in a clean copy reproduces data/stage3_outcomes_recomputed.csv byte for byte
+  - build_universe.py rebuilds the 164-protocol universe, sha256 d4556a803bd1e7f1... matches the frozen value
+  - DefiLlama dimension-adapters commit used for screening: 1029ba611a85d425d3a022d5f274fd3b9c6a29a0
+
+Main result: historical data do not allow a reliable ranking of direct revenue share,
+buyback with distribution and buyback to treasury by their effect on token price.

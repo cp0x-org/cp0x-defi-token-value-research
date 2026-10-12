@@ -1,0 +1,33 @@
+{
+ "lido": {
+  "owners": [
+   "0x3e40d73eb977dc6a537af587d48316fee66e9c8c",
+   "0xd65fa54f8df43064dfd8ddf223a446fc638800a9"
+  ],
+  "ownTokens_raw": "ADDRESSES.ethereum.LIDO"
+ },
+ "aave": {
+  "owners": [
+   "0x89c51828427f70d77875c6747759fb17ba10ceb0",
+   "0xe3d9988f676457123c5fd01297605efdd0cba1ae",
+   "0x464c71f6c2f760dda6093dcb91c24c39e5d6e18c",
+   "0x25f2226b597e8f9514b3f68f00f494cf4f286491",
+   "0xd784927ff2f95ba542bfc824c8a8a98f3495f6b5"
+  ],
+  "ownTokens_raw": "ADDRESSES.ethereum.AAVE"
+ },
+ "maker": {
+  "owners": [
+   "0xbe8e3e3618f7474f8cb1d074a26affef007e98fb"
+  ],
+  "ownTokens_raw": "'0xc20059e0317de91738d13af027dfc4a50781b066', '0x56072c95faa701256059aa122697b133aded9279', ADDRESSES.ethereum.MKR, '0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406'"
+ },
+ "uniswap": {
+  "owners": [
+   "0x1a9c8182c09f50c8318d769245bea52c32be35bc",
+   "0x4b4e140d1f131fdad6fb59c13af796fd194e4135",
+   "0x3d30b1ab88d487b0f3061f40de76845bec3f1e94"
+  ],
+  "ownTokens_raw": "ADDRESSES.ethereum.UNI"
+ }
+}

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this research or data, please cite it as below."
+title: "cp0x DeFi token value research"
+type: dataset
+authors:
+  - name: "cp0x"
+    website: "https://cp0x.com"
+version: "1.0"
+date-released: 2026-10-08
+license: CC-BY-4.0
+repository-code: "https://github.com/cp0x-org/cp0x-defi-token-value-research"
+url: "https://cp0x.com/blog/what-can-a-dao-do-for-its-token-value"
+abstract: "Six studies on what DAO decisions are associated with DeFi token performance against ETH (2022-2026): buyback event study, forms of value transfer, annual trajectories of 110 protocols, what the market pays for, whether treasury outflows measure DAO spending, and how Lido, Aave, Sky and Uniswap allocate resources. Includes data, code, frozen methods and independent reviews."
+keywords: [DeFi, DAO governance, token buybacks, tokenomics, token valuation, fee switch, protocol revenue, treasury, pre-registration]

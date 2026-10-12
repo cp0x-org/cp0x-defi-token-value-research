@@ -1,0 +1,21 @@
+type,counting,measure,daos,n,negative,positive,meets_rule
+foundation budget,decision,base_12m,1,2,1,1,False
+incentives,decision,base_12m,4,5,3,2,False
+marketing/growth,decision,base_12m,2,2,2,0,False
+other,decision,base_12m,1,1,1,0,False
+foundation budget,dao,base_12m,1,1,0,0,False
+incentives,dao,base_12m,4,4,2,2,False
+marketing/growth,dao,base_12m,2,2,2,0,False
+other,dao,base_12m,1,1,1,0,False
+foundation budget,decision,fixedcov_12m,1,2,1,1,False
+incentives,decision,fixedcov_12m,4,5,2,3,False
+marketing/growth,decision,fixedcov_12m,2,2,1,1,False
+other,decision,fixedcov_12m,1,1,1,0,False
+foundation budget,dao,fixedcov_12m,1,1,0,0,False
+incentives,dao,fixedcov_12m,4,4,1,3,True
+marketing/growth,dao,fixedcov_12m,2,2,1,1,False
+other,dao,fixedcov_12m,1,1,1,0,False
+class A,decision,base_12m,4,10,7,3,True
+class A,dao,base_12m,4,4,2,1,False
+class A,decision,fixedcov_12m,4,10,5,5,False
+class A,dao,fixedcov_12m,4,4,1,1,False

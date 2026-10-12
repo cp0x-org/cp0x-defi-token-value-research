@@ -1,0 +1,21 @@
+window,gecko_id,name,class,note,sources
+W2,stargate-finance,Stargate,recount,"team/investor vesting ended Mar 2025 (~5% of supply in window); STG-to-ZRO swap removes STG from circulation",https://stargate.discourse.group/t/layerzero-foundation-acquisition-of-stargate-stg/682
+W3,solv-protocol,Solv,real,"partly: Jan 2026 investor/team cliffs and linear vesting ~1.5-2.5B of ~4.2B change; rest catch-up on 2025 unlocks",https://tokenomist.ai/solv-protocol/tokenomics
+W2,apex-token-2,ApeX,recount,"project states only 10M unlocked (Feb 2025); public supply data correction Sep 2026",https://feedback.tokenomist.ai/b/data-correction-requests/the-unlock-quantity-and-schedule-for-the-apex-token-are-incorrect
+W3,layerzero,LayerZero,real,"monthly contributor/partner unlocks ~285M in window vs CoinGecko +271M",https://defillama.com/unlocks/layerzero
+W3,eigenlayer,EigenCloud,real,"monthly investor/contributor tranches from Sep 2025 plus minted incentives",https://cryptoticker.io/en/eigenlayer-eigen-unlock-monthly-schedule/
+W3,morpho,Morpho,real,"founder linear vesting, strategic cohort 3 lockup end Nov 2025; size not fully verified",https://docs.morpho.org/learn/governance/morpho-token/
+W2,cow-protocol,CoW,real,"partly: vCOW linear vesting to Feb 2026 ~110M in window, CoinGecko change about double",https://docs.cow.fi/governance/token
+W1,pendle,Pendle,recount,"all allocations vested by Apr 2023; emissions ~20M/yr; jump is CoinGecko catch-up",https://www.binance.com/ru/research/projects/pendle
+W2,maverick-protocol,Maverick,real,"monthly team/investor/LM tranches ~25-30M/month",https://www.tokenomist.ai/maverick-protocol/tokenomics
+W3,ether-fi,ether.fi,real,"partly: investor/contributor vesting months 13-36 ~275M in window vs CoinGecko ~+415M",https://www.tokenomist.ai/ether-fi/tokenomics
+W3,lista,Lista DAO,real,"quarterly investor/team/treasury unlocks ~145M in window",https://tokenomist.ai/lista
+W3,ssv-network,SSV Network,recount,"partly: ~2.7M newly minted went to DAO treasury; rest is CoinGecko counting full supply",https://forum.ssv.network/t/establishing-a-hard-cap-on-ssv-token-supply/1897
+W3,orderly-network,Orderly,real,"team cliff Aug 2025 then linear, investor linear, rewards ~140-160M in window",https://orderly.network/docs/introduction/tokenomics/distribution-and-emission-schedule
+W3,ondo-finance,Ondo,real,"annual cliff 18 Jan 2026 released 1.94B ONDO",https://www.fingerlakes1.com/2026/01/14/january-token-unlocks-brace-for-volatility-with-ondo-zro-and-more-on-the-horizon/
+W1,compound-governance-token,Compound,recount,"~0.3M vested + ~0.5-1M distributed in window vs ~3M needed; CoinGecko now counts full 10M incl. reserves",https://bb-add-morpho-tvl.preview.tokenterminal.com/terminal/projects/compound/vesting-schedule
+W3,ethena,Ethena,real,"monthly investor 78.1M plus team/foundation vesting",https://tokenomist.ai/research/ethena-bought-out-its-sellers-and-deleted-the-investor-unlock-calendar-the-buyback-replacing-it-arms-at-7-5b-usde
+W2,across-protocol,Across,real,"seed success-token expiry Jun 2025, investor lockups and team vesting",https://across.to/blog/across-acx-circulating-supply
+W3,sushi,Sushi,recount,"vesting ended 2023; on-chain +1.9%; CoinGecko now near full supply",https://tokenomist.ai/sushi
+W3,geodnet,Geodnet,unclear,"real releases likely but Polygon-to-Solana move makes on-chain figure incomplete",https://docs.geodnet.com/geod-token/crosschain-between-polygon-and-solana
+W2,pancakeswap-token,PancakeSwap,real,"Tokenomics 3.0: veCAKE retired, 6-month 1:1 redemption to Oct 2025 returned locked CAKE",https://crypto.news/pancakeswap-implements-tokenomics-3-0-upgrade-as-cake-rsi-flips-bullish/

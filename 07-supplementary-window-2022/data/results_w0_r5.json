@@ -1,0 +1,33 @@
+{
+ "model_V_sample": 16,
+ "dropped_no_prior_share": 7,
+ "T2": {
+  "n": 16,
+  "b_take": 0.826,
+  "se": 0.2333,
+  "p_one_sided_positive": 0.0002,
+  "ci95": [
+   0.369,
+   1.283
+  ],
+  "a_lnF": 0.709,
+  "consistent_no_premium": false,
+  "ci_excludes_1": false,
+  "n_categories": 9
+ },
+ "T3": {
+  "n": 16,
+  "b_resid": -1.7895,
+  "se": 0.7065,
+  "p_one_sided_negative": 0.0057,
+  "p_two_sided": 0.0113,
+  "consistent_no_prediction": false
+ },
+ "descriptive_share": {
+  "n": 25,
+  "median_d_share": -0.297,
+  "median_pct": -25.7,
+  "share_losing": 0.72,
+  "median_category_growth_vs_eth": -0.405
+ }
+}
