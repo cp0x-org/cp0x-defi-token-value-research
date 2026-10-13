@@ -1,4 +1,4 @@
-# 04-market-valuation. What does the market pay for in DeFi tokens? Market growth, share, monetisation and valuation
+# 04-market-valuation. What does the market pay for in DeFi tokens? Category growth, market share, monetisation and valuation
 
 Study 4 of the cp0x DeFi token value research series (internal name Research 5). Full report at https://cp0x.com/blog/what-the-market-pays-for-in-defi-tokens
 
