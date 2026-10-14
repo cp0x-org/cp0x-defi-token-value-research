@@ -1,6 +1,6 @@
 # 02-value-transfer-forms. Buybacks vs direct distributions: does the form of value transfer matter?
 
-Study 2 of the cp0x DeFi token value research series (internal name Research 3). Full page: https://cp0x.com/blog/buybacks-vs-direct-distributions
+Study 2 of the cp0x DeFi token value research series (internal name Research 3). Full page: https://cp0x.com/blog/buybacks-vs-direct-distributions-does-the-form-of-value-transfer-matter
 
 
 ## Abstract
@@ -235,4 +235,4 @@ See `code/README.md`. In short, copy `code/*`, `data/events.csv` and the `data/`
 
 ## License
 
-Data and text are licensed CC BY 4.0. Code is licensed MIT. Publisher cp0x (https://cp0x.com), version 1.0, published 2026-10-08. Page: https://cp0x.com/blog/buybacks-vs-direct-distributions
+Data and text are licensed CC BY 4.0. Code is licensed MIT. Publisher cp0x (https://cp0x.com), version 1.0, published 2026-10-08. Page: https://cp0x.com/blog/buybacks-vs-direct-distributions-does-the-form-of-value-transfer-matter

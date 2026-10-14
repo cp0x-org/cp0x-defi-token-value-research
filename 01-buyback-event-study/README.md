@@ -28,7 +28,7 @@ The cp0x buyback event study measured how DeFi tokens moved against ETH after 43
 | Main verdict | Only first buyback announcements (positive) and late changes (small negative) hold on both controls |
 
 
-Full report page: https://cp0x.com/blog/do-token-buybacks-move-prices
+Full report page: https://cp0x.com/blog/do-token-buybacks-move-prices-an-event-study-of-43-defi-decisions
 
 Study 1 of the cp0x DeFi token value research series (internal name Research 2, version 2). Publisher cp0x (https://cp0x.com). Published 2026-10-08, version 1.0.
 

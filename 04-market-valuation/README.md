@@ -1,6 +1,6 @@
 # 04-market-valuation. What does the market pay for in DeFi tokens? Category growth, market share, monetisation and valuation
 
-Study 4 of the cp0x DeFi token value research series (internal name Research 5). Full report at https://cp0x.com/blog/what-the-market-pays-for-in-defi-tokens
+Study 4 of the cp0x DeFi token value research series (internal name Research 5). Full report at https://cp0x.com/blog/what-does-the-market-pay-for-in-defi-tokens-category-growth-market-share-monetisation-and-valuation
 
 Study 4 of the cp0x DeFi token value research series (internal name Research 5) asks what one-year returns of decentralised finance (DeFi) tokens against ETH were made of, what the market paid for at the start of each year, and whether tokens that looked cheap relative to their business later did better. The sample is 200 observations of protocols with a market cap of at least 50 million USD in three October-to-October periods from 2023 to 2026, replicated on 169 observations in April-to-April periods. None of the three pre-registered hypotheses held. At equal fees, protocols that kept a larger share of fees (a higher take rate) were not valued higher, with a coefficient of −0.03 and a 95% confidence interval (CI) from −0.40 to 0.34 on 120 observations, and cheap tokens did not later outperform expensive ones. These are associations, not causes. The main estimates come from 2023–2026, and the supplementary 2022–2023 window is small and pointed the other way on valuation, on about 10 informative observations.
 
@@ -149,4 +149,4 @@ See `code/README.md`. In short, download the breakdown with `code/fetch_raw_r5.p
 
 ## License
 
-Data and text are licensed CC BY 4.0. Code is licensed MIT. Publisher cp0x (https://cp0x.com), published 2026-10-08, version 1.0. Page https://cp0x.com/blog/what-the-market-pays-for-in-defi-tokens
+Data and text are licensed CC BY 4.0. Code is licensed MIT. Publisher cp0x (https://cp0x.com), published 2026-10-08, version 1.0. Page https://cp0x.com/blog/what-does-the-market-pay-for-in-defi-tokens-category-growth-market-share-monetisation-and-valuation

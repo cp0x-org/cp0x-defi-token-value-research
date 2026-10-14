@@ -1,6 +1,6 @@
 # Supplementary window October 2022 to October 2023
 
-Supplementary check for studies 3 and 4 of the cp0x DeFi token value research series (internal name Window 2022, window label W0). Repository folder `07-supplementary-window-2022` of https://github.com/cp0x-org/cp0x-defi-token-value-research. This window has no page of its own. Its results appear as a section inside the pages of study 3 (https://cp0x.com/blog/what-drives-defi-token-returns-against-eth) and study 4 (https://cp0x.com/blog/what-the-market-pays-for-in-defi-tokens).
+Supplementary check for studies 3 and 4 of the cp0x DeFi token value research series (internal name Window 2022, window label W0). Repository folder `07-supplementary-window-2022` of https://github.com/cp0x-org/cp0x-defi-token-value-research. This window has no page of its own. Its results appear as a section inside the pages of study 3 (https://cp0x.com/blog/what-drives-defi-token-returns-against-eth-annual-trajectories-of-110-protocols) and study 4 (https://cp0x.com/blog/what-does-the-market-pay-for-in-defi-tokens-category-growth-market-share-monetisation-and-valuation).
 
 Internal names used in the files map to the public numbering as follows. Research 4 is study 3 (folder `03-annual-token-trajectories`) and Research 5 is study 4 (folder `04-market-valuation`). The Russian report in `method/REPORT_W0_ru.md` calls them "исследования 4 и 5".
 

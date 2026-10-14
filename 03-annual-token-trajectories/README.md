@@ -33,7 +33,7 @@ Research 4 by cp0x asks which protocol states and DAO decisions are associated w
 | Independent review | Two passes, byte-identical re-run, all must-fix items corrected |
 | Main verdict | Fee growth is the only robust association; holder share not replicated; other factors not significant or fragile |
 
-Full report page: https://cp0x.com/blog/what-drives-defi-token-returns-against-eth
+Full report page: https://cp0x.com/blog/what-drives-defi-token-returns-against-eth-annual-trajectories-of-110-protocols
 
 ## Supplementary window 2022–2023
 

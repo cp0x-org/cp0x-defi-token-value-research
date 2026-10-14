@@ -26,7 +26,7 @@ This cp0x case study (Research 6) examines how four of the most transparent DAOs
 | Main verdict | Goals are almost always stated but rarely checkable (14 of 58). Checkable outcomes are mixed, with no robust pattern |
 
 
-Full report page: https://cp0x.com/blog/how-daos-allocate-resources
+Full report page: https://cp0x.com/blog/how-daos-allocate-resources-lido-aave-sky-and-uniswap-20232025
 
 Publisher cp0x (https://cp0x.com). Published 2026-10-08. Version 1.0. Internal name Research 6. The final report in Russian is `method/REPORT_R6.md`.
 

@@ -2,7 +2,7 @@
 
 Study 5 of the cp0x DeFi token value research series (internal name Research 6 validation). Publisher cp0x (https://cp0x.com), published 2026-10-08, version 1.0.
 
-Report page: https://cp0x.com/blog/can-treasury-outflows-measure-dao-spending
+Report page: https://cp0x.com/blog/can-treasury-outflows-measure-dao-spending-a-pre-registered-validation
 
 ## Abstract
 
@@ -186,4 +186,4 @@ Data and text are licensed CC BY 4.0. Code is licensed MIT. Reported spending fi
 
 ## How to cite
 
-cp0x (2026). Can treasury outflows measure DAO spending? A pre-registered validation. cp0x DeFi token value research, study 5, version 1.0. https://cp0x.com/blog/can-treasury-outflows-measure-dao-spending
+cp0x (2026). Can treasury outflows measure DAO spending? A pre-registered validation. cp0x DeFi token value research, study 5, version 1.0. https://cp0x.com/blog/can-treasury-outflows-measure-dao-spending-a-pre-registered-validation
