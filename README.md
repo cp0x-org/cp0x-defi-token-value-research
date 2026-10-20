@@ -6,8 +6,6 @@ Repository `cp0x-defi-token-value-research` by cp0x (https://cp0x.com). Publishe
 
 This synthesis by cp0x summarises six studies of DAO (decentralised autonomous organisation) decisions, protocol businesses and their tokens from 2022 to 2026, with every token return measured against ETH (Ether). Across the series we found no robust evidence that buybacks, direct distributions or burns raise a token's price by themselves, and no evidence that a more direct form beats a buyback. In study 3 (202 observations of 110 protocols, October 2023 to October 2026), fee growth was the only pre-registered factor associated with token returns against ETH that survived all pre-specified checks in the main 2023–2026 analysis, and 10% more fee growth went with about 2.5% more token return against ETH over the same year. In study 4, protocols that kept a larger share of their fees were not valued higher at equal fee scale, and cheap tokens did not later outperform expensive ones. In study 6, 54 of 58 major spending and incentive decisions at Lido, Aave, Sky and Uniswap stated a goal, but only 14 stated it in terms public data can check. The main estimates come from the 2023–2026 regime; the supplementary 2022–2023 window is small. All results describe associations, not proven causes.
 
-The full synthesis page is at https://cp0x.com/blog/what-can-a-dao-do-for-its-token-value
-
 ## Key findings
 
 - In the cp0x series, study 1 (43 events in 16 DeFi protocols, 2022 to 2026) found a positive reaction on both controls only for the first public announcement of a buyback programme, with a 30-day median of 4.2 percentage points above a basket of large DeFi tokens and 12.0 points above similar tokens, based on just seven events with a spread of about 40 points.
@@ -38,7 +36,7 @@ Take rate means protocol revenue divided by fees, that is, the share of fees the
 
 | Folder | Study | Internal name | Page |
 |---|---|---|---|
-| [00-synthesis](https://github.com/cp0x-org/cp0x-defi-token-value-research/tree/main/00-synthesis) | Series synthesis and overview | Public synthesis | https://cp0x.com/blog/what-can-a-dao-do-for-its-token-value |
+| [00-synthesis](https://github.com/cp0x-org/cp0x-defi-token-value-research/tree/main/00-synthesis) | Series synthesis and overview | Public synthesis | No page, this README |
 | [01-buyback-event-study](https://github.com/cp0x-org/cp0x-defi-token-value-research/tree/main/01-buyback-event-study) | 1. Do token buybacks move prices? | Research 2 | https://cp0x.com/blog/do-token-buybacks-move-prices-an-event-study-of-43-defi-decisions |
 | [02-value-transfer-forms](https://github.com/cp0x-org/cp0x-defi-token-value-research/tree/main/02-value-transfer-forms) | 2. Buybacks vs direct distributions | Research 3 | https://cp0x.com/blog/buybacks-vs-direct-distributions-does-the-form-of-value-transfer-matter |
 | [03-annual-token-trajectories](https://github.com/cp0x-org/cp0x-defi-token-value-research/tree/main/03-annual-token-trajectories) | 3. What drives DeFi token returns against ETH? | Research 4 | https://cp0x.com/blog/what-drives-defi-token-returns-against-eth-annual-trajectories-of-110-protocols |
@@ -57,26 +55,18 @@ The studies run in sequence, and each one addresses a weakness of the one before
 - Study 3 (folder 03) moves from events to annual trajectories of 110 protocols and decomposes each token's return against ETH into fee growth, rerating and dilution. Study 4 (folder 04) takes the study 3 panels (`panel.csv`, `panel_rep.csv`) and helper code as inputs and splits returns further into category growth, market share, monetisation and rerating.
 - Folder 07 reruns the main tests of studies 3 and 4 on one earlier window with the same code. Its scripts must be run from the study 3 and study 4 working directories, so it depends on folders 03 and 04.
 - Study 5 (folder 05) tests whether DAO spending can be measured from treasury outflows. Because both methods failed, study 6 (folder 06) became case studies of the four DAOs whose actual spending is reported (Lido, Aave, Sky and Uniswap).
-- This folder (00) summarises all of them. The internal names used inside the folders map to the public numbering as follows. Study 1 is Research 2, study 2 is Research 3, study 3 is Research 4, study 4 is Research 5, study 5 is Research 6 validation, study 6 is Research 6, and the supplementary window is Window 2022.
+- Folder 00-synthesis summarises all of them. The internal names used inside the folders map to the public numbering as follows. Study 1 is Research 2, study 2 is Research 3, study 3 is Research 4, study 4 is Research 5, study 5 is Research 6 validation, study 6 is Research 6, and the supplementary window is Window 2022.
 
-## Files in this folder
+## Files in folder 00-synthesis
 
 | Path | Content |
 |---|---|
 | `README.md` | This overview |
-| `synthesis_en.md` | Fact-checked English synthesis, version 2 (2026-10-08), the source of the synthesis page |
+| `synthesis_en.md` | Fact-checked English synthesis, version 2 (2026-10-08), full synthesis text |
 | `synthesis_ru.md` | Russian synthesis, public draft version 4 (2026-10-08), with the same content |
 | `MANIFEST.sha256` | sha256 of every file in this folder |
 
 Raw CoinGecko price exports are not redistributed in any folder, because their terms restrict redistribution. Each folder includes the download script instead.
-
-## How to cite
-
-cp0x (2026). What can a DAO do for the value of its token? cp0x DeFi token value research, synthesis, version 1.0. https://cp0x.com/blog/what-can-a-dao-do-for-its-token-value
-
-## License
-
-Data and text are licensed under CC BY 4.0. Code is licensed under MIT. Publisher cp0x (https://cp0x.com), published 2026-10-08, version 1.0.
 
 ## License
 
